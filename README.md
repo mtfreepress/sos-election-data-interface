@@ -15,7 +15,7 @@ Other data inputs fed into various data pipelines used by MTFP.
 
 Scripts for data workflow, organized by election year they apply to. Includes some one-off scripts for particular projects done at particular times. Filepaths in these are designed to be run from the repository root, e.g. as `python3 process/2022/parse-2022-precinct-results-by-county-files.py`
 
-### `./cleaned`
+### `/cleaned`
 
 Cleaned and (theoretically) standardized flat data, organized by election year.
 
