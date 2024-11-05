@@ -4,8 +4,9 @@ import pandas as pd
 import re
 import json
 
-INPUT = './../raw-by-district-results/2023-general-legislative-11-15-22.xlsx'
-OUTPUT = './../processed/leg-2023-results.json'
+ELECTION_KEY = '2024-primary'
+INPUT = '~/Downloads/Legislative Results-2024-primary.xlsx'
+OUTPUT = './test.json'
 
 # Tools for parsing one-tab-per-district tabulations
 def parse_sheet(file, sheet_name, election):
@@ -68,7 +69,7 @@ def parse_file(file, election):
         districts.append(data)
     return districts
 
-results = parse_file(INPUT, 'gen_2024')
+results = parse_file(INPUT, ELECTION_KEY)
 
 with open(OUTPUT, 'w') as f:
     json.dump(results, f, indent=4)
