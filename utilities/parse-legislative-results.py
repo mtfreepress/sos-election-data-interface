@@ -4,9 +4,10 @@ import pandas as pd
 import re
 import json
 
-ELECTION_KEY = '2024-primary'
-INPUT = '~/Downloads/Legislative Results-2024-primary.xlsx'
-OUTPUT = './test.json'
+ELECTION_KEY = '2022-general'
+INPUT = './sos-data/2024/general/2024-11-07-legislative-results.xlsx'
+# INPUT = '~/Downloads/Legislative Results-2024-primary.xlsx'
+OUTPUT = './cleaned/2024/general/2024-general-preliminary-legislative-results.json'
 
 # Tools for parsing one-tab-per-district tabulations
 def parse_sheet(file, sheet_name, election):

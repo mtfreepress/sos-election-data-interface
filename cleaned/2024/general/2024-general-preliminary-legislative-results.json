@@ -1,0 +1,3612 @@
+[
+    {
+        "election": "2022-general",
+        "district": "SD 2",
+        "candidates": [
+            {
+                "name": "Doug Adams",
+                "party": "R",
+                "district": "SD 2",
+                "winner": "false",
+                "votes": 6093,
+                "vote_fraction": 0.47545844713226687,
+                "vote_margin": -629,
+                "percent_margin": -0.04908310573546625
+            },
+            {
+                "name": "Dave Fern",
+                "party": "D",
+                "district": "SD 2",
+                "winner": "true",
+                "votes": 6722,
+                "vote_fraction": 0.5245415528677331,
+                "vote_margin": 629,
+                "percent_margin": 0.04908310573546625
+            }
+        ],
+        "winnerVotes": 6722,
+        "totalVotes": 12815,
+        "winnerParty": "D",
+        "winnerName": "DAVE FERN"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 3",
+        "candidates": [
+            {
+                "name": "Carl Glimm",
+                "party": "R",
+                "district": "SD 3",
+                "winner": "true",
+                "votes": 9449,
+                "vote_fraction": 0.7004447739065974,
+                "vote_margin": 5408,
+                "percent_margin": 0.40088954781319497
+            },
+            {
+                "name": "Angela Kennedy",
+                "party": "D",
+                "district": "SD 3",
+                "winner": "false",
+                "votes": 4041,
+                "vote_fraction": 0.2995552260934025,
+                "vote_margin": -5408,
+                "percent_margin": -0.40088954781319497
+            }
+        ],
+        "winnerVotes": 9449,
+        "totalVotes": 13490,
+        "winnerParty": "R",
+        "winnerName": "CARL GLIMM"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 5",
+        "candidates": [
+            {
+                "name": "Matt Regier",
+                "party": "R",
+                "district": "SD 5",
+                "winner": "true",
+                "votes": 8996,
+                "vote_fraction": 0.7430412158255555,
+                "vote_margin": 5885,
+                "percent_margin": 0.4860824316511109
+            },
+            {
+                "name": "Link Neimark",
+                "party": "D",
+                "district": "SD 5",
+                "winner": "false",
+                "votes": 3111,
+                "vote_fraction": 0.2569587841744445,
+                "vote_margin": -5885,
+                "percent_margin": -0.4860824316511109
+            }
+        ],
+        "winnerVotes": 8996,
+        "totalVotes": 12107,
+        "winnerParty": "R",
+        "winnerName": "MATT REGIER"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 7",
+        "candidates": [
+            {
+                "name": "Greg Hertz",
+                "party": "R",
+                "district": "SD 7",
+                "winner": "true",
+                "votes": 9162,
+                "vote_fraction": 0.7273160276256252,
+                "vote_margin": 5727,
+                "percent_margin": 0.4546320552512503
+            },
+            {
+                "name": "Craig Pablo",
+                "party": "D",
+                "district": "SD 7",
+                "winner": "false",
+                "votes": 3435,
+                "vote_fraction": 0.27268397237437486,
+                "vote_margin": -5727,
+                "percent_margin": -0.4546320552512503
+            }
+        ],
+        "winnerVotes": 9162,
+        "totalVotes": 12597,
+        "winnerParty": "R",
+        "winnerName": "GREG HERTZ"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 13",
+        "candidates": [
+            {
+                "name": "Josh Kassmier",
+                "party": "R",
+                "district": "SD 13",
+                "winner": "true",
+                "votes": 9514,
+                "vote_fraction": 1.0,
+                "vote_margin": 9514,
+                "percent_margin": 1.0
+            }
+        ],
+        "winnerVotes": 9514,
+        "totalVotes": 9514,
+        "winnerParty": "R",
+        "winnerName": "JOSH KASSMIER"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 15",
+        "candidates": [
+            {
+                "name": "Gregg Hunter",
+                "party": "R",
+                "district": "SD 15",
+                "winner": "true",
+                "votes": 9284,
+                "vote_fraction": 1.0,
+                "vote_margin": 9284,
+                "percent_margin": 1.0
+            }
+        ],
+        "winnerVotes": 9284,
+        "totalVotes": 9284,
+        "winnerParty": "R",
+        "winnerName": "GREGG HUNTER"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 16",
+        "candidates": [
+            {
+                "name": "Jonathan Windy Boy",
+                "party": "D",
+                "district": "SD 16",
+                "winner": "true",
+                "votes": 4389,
+                "vote_fraction": 0.6050454921422663,
+                "vote_margin": 1524,
+                "percent_margin": 0.21009098428453268
+            },
+            {
+                "name": "Perri A Jacobs",
+                "party": "R",
+                "district": "SD 16",
+                "winner": "false",
+                "votes": 2865,
+                "vote_fraction": 0.39495450785773367,
+                "vote_margin": -1524,
+                "percent_margin": -0.21009098428453268
+            }
+        ],
+        "winnerVotes": 4389,
+        "totalVotes": 7254,
+        "winnerParty": "D",
+        "winnerName": "JONATHAN WINDY BOY"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 17",
+        "candidates": [
+            {
+                "name": "Bob Phalen",
+                "party": "R",
+                "district": "SD 17",
+                "winner": "true",
+                "votes": 10063,
+                "vote_fraction": 1.0,
+                "vote_margin": 10063,
+                "percent_margin": 1.0
+            }
+        ],
+        "winnerVotes": 10063,
+        "totalVotes": 10063,
+        "winnerParty": "R",
+        "winnerName": "BOB PHALEN"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 20",
+        "candidates": [
+            {
+                "name": "Sue Vinton",
+                "party": "R",
+                "district": "SD 20",
+                "winner": "true",
+                "votes": 6771,
+                "vote_fraction": 0.7060479666319083,
+                "vote_margin": 3952,
+                "percent_margin": 0.4120959332638165
+            },
+            {
+                "name": "Linda Auch",
+                "party": "D",
+                "district": "SD 20",
+                "winner": "false",
+                "votes": 2819,
+                "vote_fraction": 0.2939520333680918,
+                "vote_margin": -3952,
+                "percent_margin": -0.4120959332638165
+            }
+        ],
+        "winnerVotes": 6771,
+        "totalVotes": 9590,
+        "winnerParty": "R",
+        "winnerName": "SUE VINTON"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 21",
+        "candidates": [
+            {
+                "name": "Gayle George Lammers",
+                "party": "R",
+                "district": "SD 21",
+                "winner": "true",
+                "votes": 3705,
+                "vote_fraction": 0.5693868142000922,
+                "vote_margin": 903,
+                "percent_margin": 0.13877362840018442
+            },
+            {
+                "name": "Sharon Stewart Peregoy",
+                "party": "D",
+                "district": "SD 21",
+                "winner": "false",
+                "votes": 2802,
+                "vote_fraction": 0.4306131857999078,
+                "vote_margin": -903,
+                "percent_margin": -0.13877362840018442
+            }
+        ],
+        "winnerVotes": 3705,
+        "totalVotes": 6507,
+        "winnerParty": "R",
+        "winnerName": "GAYLE GEORGE LAMMERS"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 24",
+        "candidates": [
+            {
+                "name": "Mark H Nicholson",
+                "party": "D",
+                "district": "SD 24",
+                "winner": "false",
+                "votes": 3647,
+                "vote_fraction": 0.46176247151177513,
+                "vote_margin": -604,
+                "percent_margin": -0.07647505697644974
+            },
+            {
+                "name": "Mike Yakawich",
+                "party": "R",
+                "district": "SD 24",
+                "winner": "true",
+                "votes": 4251,
+                "vote_fraction": 0.5382375284882248,
+                "vote_margin": 604,
+                "percent_margin": 0.07647505697644974
+            }
+        ],
+        "winnerVotes": 4251,
+        "totalVotes": 7898,
+        "winnerParty": "R",
+        "winnerName": "MIKE YAKAWICH"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 26",
+        "candidates": [
+            {
+                "name": "Karen Lyncoln",
+                "party": "D",
+                "district": "SD 26",
+                "winner": "false",
+                "votes": 4336,
+                "vote_fraction": 0.36106253643101005,
+                "vote_margin": -3337,
+                "percent_margin": -0.27787492713797984
+            },
+            {
+                "name": "Tom Mcgillvray",
+                "party": "R",
+                "district": "SD 26",
+                "winner": "true",
+                "votes": 7673,
+                "vote_fraction": 0.63893746356899,
+                "vote_margin": 3337,
+                "percent_margin": 0.27787492713797984
+            }
+        ],
+        "winnerVotes": 7673,
+        "totalVotes": 12009,
+        "winnerParty": "R",
+        "winnerName": "TOM MCGILLVRAY"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 27",
+        "candidates": [
+            {
+                "name": "Kathleen Gilluly",
+                "party": "D",
+                "district": "SD 27",
+                "winner": "false",
+                "votes": 2897,
+                "vote_fraction": 0.2590075994635673,
+                "vote_margin": -5391,
+                "percent_margin": -0.48198480107286545
+            },
+            {
+                "name": "Vince Ricci",
+                "party": "R",
+                "district": "SD 27",
+                "winner": "true",
+                "votes": 8288,
+                "vote_fraction": 0.7409924005364327,
+                "vote_margin": 5391,
+                "percent_margin": 0.48198480107286545
+            }
+        ],
+        "winnerVotes": 8288,
+        "totalVotes": 11185,
+        "winnerParty": "R",
+        "winnerName": "VINCE RICCI"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 30",
+        "candidates": [
+            {
+                "name": "Cora Neumann",
+                "party": "D",
+                "district": "SD 30",
+                "winner": "true",
+                "votes": 7620,
+                "vote_fraction": 0.5851635693441868,
+                "vote_margin": 2218,
+                "percent_margin": 0.17032713868837351
+            },
+            {
+                "name": "Tyler Rogers",
+                "party": "R",
+                "district": "SD 30",
+                "winner": "false",
+                "votes": 5402,
+                "vote_fraction": 0.4148364306558132,
+                "vote_margin": -2218,
+                "percent_margin": -0.17032713868837351
+            }
+        ],
+        "winnerVotes": 7620,
+        "totalVotes": 13022,
+        "winnerParty": "D",
+        "winnerName": "CORA NEUMANN"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 33",
+        "candidates": [
+            {
+                "name": "Christopher Pope",
+                "party": "D",
+                "district": "SD 33",
+                "winner": "true",
+                "votes": 6810,
+                "vote_fraction": 0.5797718372211816,
+                "vote_margin": 1874,
+                "percent_margin": 0.15954367444236336
+            },
+            {
+                "name": "Neal Ganser",
+                "party": "R",
+                "district": "SD 33",
+                "winner": "false",
+                "votes": 4936,
+                "vote_fraction": 0.4202281627788183,
+                "vote_margin": -1874,
+                "percent_margin": -0.15954367444236336
+            }
+        ],
+        "winnerVotes": 6810,
+        "totalVotes": 11746,
+        "winnerParty": "D",
+        "winnerName": "CHRISTOPHER POPE"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 35",
+        "candidates": [
+            {
+                "name": "Tony Tezak",
+                "party": "R",
+                "district": "SD 35",
+                "winner": "true",
+                "votes": 11372,
+                "vote_fraction": 1.0,
+                "vote_margin": 11372,
+                "percent_margin": 1.0
+            }
+        ],
+        "winnerVotes": 11372,
+        "totalVotes": 11372,
+        "winnerParty": "R",
+        "winnerName": "TONY TEZAK"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 36",
+        "candidates": [
+            {
+                "name": "Darlean Newman",
+                "party": "R",
+                "district": "SD 36",
+                "winner": "false",
+                "votes": 3888,
+                "vote_fraction": 0.37521713954834973,
+                "vote_margin": -2586,
+                "percent_margin": -0.2495657209033005
+            },
+            {
+                "name": "Sara Novak",
+                "party": "D",
+                "district": "SD 36",
+                "winner": "true",
+                "votes": 6474,
+                "vote_fraction": 0.6247828604516502,
+                "vote_margin": 2586,
+                "percent_margin": 0.2495657209033005
+            }
+        ],
+        "winnerVotes": 6474,
+        "totalVotes": 10362,
+        "winnerParty": "D",
+        "winnerName": "SARA NOVAK"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 37",
+        "candidates": [
+            {
+                "name": "Derek J Harvey",
+                "party": "D",
+                "district": "SD 37",
+                "winner": "true",
+                "votes": 6259,
+                "vote_fraction": 0.5987754711566058,
+                "vote_margin": 2065,
+                "percent_margin": 0.19755094231321152
+            },
+            {
+                "name": "Jim Kephart",
+                "party": "R",
+                "district": "SD 37",
+                "winner": "false",
+                "votes": 4194,
+                "vote_fraction": 0.40122452884339427,
+                "vote_margin": -2065,
+                "percent_margin": -0.19755094231321152
+            }
+        ],
+        "winnerVotes": 6259,
+        "totalVotes": 10453,
+        "winnerParty": "D",
+        "winnerName": "DEREK J HARVEY"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 38",
+        "candidates": [
+            {
+                "name": "Becky Beard",
+                "party": "R",
+                "district": "SD 38",
+                "winner": "true",
+                "votes": 9980,
+                "vote_fraction": 0.7249745750399536,
+                "vote_margin": 6194,
+                "percent_margin": 0.449949150079907
+            },
+            {
+                "name": "Jeffrey Benson",
+                "party": "D",
+                "district": "SD 38",
+                "winner": "false",
+                "votes": 3786,
+                "vote_fraction": 0.2750254249600465,
+                "vote_margin": -6194,
+                "percent_margin": -0.449949150079907
+            }
+        ],
+        "winnerVotes": 9980,
+        "totalVotes": 13766,
+        "winnerParty": "R",
+        "winnerName": "BECKY BEARD"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 39",
+        "candidates": [
+            {
+                "name": "E Wylie Galt",
+                "party": "R",
+                "district": "SD 39",
+                "winner": "true",
+                "votes": 10156,
+                "vote_fraction": 0.78099046447247,
+                "vote_margin": 7308,
+                "percent_margin": 0.56198092894494
+            },
+            {
+                "name": "Bruce Shultz",
+                "party": "D",
+                "district": "SD 39",
+                "winner": "false",
+                "votes": 2848,
+                "vote_fraction": 0.21900953552753,
+                "vote_margin": -7308,
+                "percent_margin": -0.56198092894494
+            }
+        ],
+        "winnerVotes": 10156,
+        "totalVotes": 13004,
+        "winnerParty": "R",
+        "winnerName": "E WYLIE GALT"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 40",
+        "candidates": [
+            {
+                "name": "Laura Smith",
+                "party": "D",
+                "district": "SD 40",
+                "winner": "true",
+                "votes": 6392,
+                "vote_fraction": 0.538319016338218,
+                "vote_margin": 910,
+                "percent_margin": 0.07663803267643592
+            },
+            {
+                "name": "Greg L Guthrie",
+                "party": "R",
+                "district": "SD 40",
+                "winner": "false",
+                "votes": 5482,
+                "vote_fraction": 0.46168098366178206,
+                "vote_margin": -910,
+                "percent_margin": -0.07663803267643592
+            }
+        ],
+        "winnerVotes": 6392,
+        "totalVotes": 11874,
+        "winnerParty": "D",
+        "winnerName": "LAURA SMITH"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 44",
+        "candidates": [
+            {
+                "name": "Theresa Manzella",
+                "party": "R",
+                "district": "SD 44",
+                "winner": "true",
+                "votes": 10107,
+                "vote_fraction": 0.7168593517270728,
+                "vote_margin": 6115,
+                "percent_margin": 0.4337187034541457
+            },
+            {
+                "name": "Cade Scatolini",
+                "party": "D",
+                "district": "SD 44",
+                "winner": "false",
+                "votes": 3992,
+                "vote_fraction": 0.2831406482729272,
+                "vote_margin": -6115,
+                "percent_margin": -0.4337187034541457
+            }
+        ],
+        "winnerVotes": 10107,
+        "totalVotes": 14099,
+        "winnerParty": "R",
+        "winnerName": "THERESA MANZELLA"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 45",
+        "candidates": [
+            {
+                "name": "Kelley Durbin-Williams",
+                "party": "I",
+                "district": "SD 45",
+                "winner": "false",
+                "votes": 1001,
+                "vote_fraction": 0.07806894400249571,
+                "vote_margin": -6554,
+                "percent_margin": -0.5111527062860708
+            },
+            {
+                "name": "Devin Jackson",
+                "party": "D",
+                "district": "SD 45",
+                "winner": "false",
+                "votes": 4266,
+                "vote_fraction": 0.33270940570893776,
+                "vote_margin": -3289,
+                "percent_margin": -0.2565122445796288
+            },
+            {
+                "name": "Denley M Loge",
+                "party": "R",
+                "district": "SD 45",
+                "winner": "true",
+                "votes": 7555,
+                "vote_fraction": 0.5892216502885665,
+                "vote_margin": 3289,
+                "percent_margin": 0.2565122445796288
+            }
+        ],
+        "winnerVotes": 7555,
+        "totalVotes": 12822,
+        "winnerParty": "R",
+        "winnerName": "DENLEY M LOGE"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 46",
+        "candidates": [
+            {
+                "name": "Charles Headley",
+                "party": "R",
+                "district": "SD 46",
+                "winner": "false",
+                "votes": 5117,
+                "vote_fraction": 0.4167956341125682,
+                "vote_margin": -2043,
+                "percent_margin": -0.16640873177486357
+            },
+            {
+                "name": "Jacinda Morigeau",
+                "party": "D",
+                "district": "SD 46",
+                "winner": "true",
+                "votes": 7160,
+                "vote_fraction": 0.5832043658874317,
+                "vote_margin": 2043,
+                "percent_margin": 0.16640873177486357
+            }
+        ],
+        "winnerVotes": 7160,
+        "totalVotes": 12277,
+        "winnerParty": "D",
+        "winnerName": "JACINDA MORIGEAU"
+    },
+    {
+        "election": "2022-general",
+        "district": "SD 47",
+        "candidates": [
+            {
+                "name": "Ellie Hill Boldman",
+                "party": "D",
+                "district": "SD 47",
+                "winner": "true",
+                "votes": 7745,
+                "vote_fraction": 0.5894216133942162,
+                "vote_margin": 2350,
+                "percent_margin": 0.17884322678843226
+            },
+            {
+                "name": "Abigail Maki",
+                "party": "R",
+                "district": "SD 47",
+                "winner": "false",
+                "votes": 5395,
+                "vote_fraction": 0.4105783866057839,
+                "vote_margin": -2350,
+                "percent_margin": -0.17884322678843226
+            }
+        ],
+        "winnerVotes": 7745,
+        "totalVotes": 13140,
+        "winnerParty": "D",
+        "winnerName": "ELLIE HILL BOLDMAN"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 1",
+        "candidates": [
+            {
+                "name": "Dakota V Adams",
+                "party": "D",
+                "district": "HD 1",
+                "winner": "false",
+                "votes": 1372,
+                "vote_fraction": 0.2004675628287551,
+                "vote_margin": -4100,
+                "percent_margin": -0.5990648743424898
+            },
+            {
+                "name": "Neil Duram",
+                "party": "R",
+                "district": "HD 1",
+                "winner": "true",
+                "votes": 5472,
+                "vote_fraction": 0.7995324371712449,
+                "vote_margin": 4100,
+                "percent_margin": 0.5990648743424898
+            }
+        ],
+        "winnerVotes": 5472,
+        "totalVotes": 6844,
+        "winnerParty": "R",
+        "winnerName": "NEIL DURAM"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 2",
+        "candidates": [
+            {
+                "name": "Tom Millett",
+                "party": "R",
+                "district": "HD 2",
+                "winner": "true",
+                "votes": 4555,
+                "vote_fraction": 0.7867012089810017,
+                "vote_margin": 3320,
+                "percent_margin": 0.5734024179620034
+            },
+            {
+                "name": "Brad Simonis",
+                "party": "D",
+                "district": "HD 2",
+                "winner": "false",
+                "votes": 1235,
+                "vote_fraction": 0.21329879101899826,
+                "vote_margin": -3320,
+                "percent_margin": -0.5734024179620034
+            }
+        ],
+        "winnerVotes": 4555,
+        "totalVotes": 5790,
+        "winnerParty": "R",
+        "winnerName": "TOM MILLETT"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 3",
+        "candidates": [
+            {
+                "name": "Cathy Mitchell",
+                "party": "R",
+                "district": "HD 3",
+                "winner": "false",
+                "votes": 3247,
+                "vote_fraction": 0.48167927607179944,
+                "vote_margin": -247,
+                "percent_margin": -0.036641447856401124
+            },
+            {
+                "name": "Debo Powers",
+                "party": "D",
+                "district": "HD 3",
+                "winner": "true",
+                "votes": 3494,
+                "vote_fraction": 0.5183207239282006,
+                "vote_margin": 247,
+                "percent_margin": 0.036641447856401124
+            }
+        ],
+        "winnerVotes": 3494,
+        "totalVotes": 6741,
+        "winnerParty": "D",
+        "winnerName": "DEBO POWERS"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 4",
+        "candidates": [
+            {
+                "name": "Lyn Bennett",
+                "party": "R",
+                "district": "HD 4",
+                "winner": "true",
+                "votes": 3094,
+                "vote_fraction": 0.5201748486886348,
+                "vote_margin": 240,
+                "percent_margin": 0.04034969737726967
+            },
+            {
+                "name": "Lindsey Jordan",
+                "party": "D",
+                "district": "HD 4",
+                "winner": "false",
+                "votes": 2854,
+                "vote_fraction": 0.47982515131136516,
+                "vote_margin": -240,
+                "percent_margin": -0.04034969737726967
+            }
+        ],
+        "winnerVotes": 3094,
+        "totalVotes": 5948,
+        "winnerParty": "R",
+        "winnerName": "LYN BENNETT"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 5",
+        "candidates": [
+            {
+                "name": "Braxton Mitchell",
+                "party": "R",
+                "district": "HD 5",
+                "winner": "true",
+                "votes": 4614,
+                "vote_fraction": 0.73824,
+                "vote_margin": 2978,
+                "percent_margin": 0.47648
+            },
+            {
+                "name": "Steve Paugh",
+                "party": "D",
+                "district": "HD 5",
+                "winner": "false",
+                "votes": 1636,
+                "vote_fraction": 0.26176,
+                "vote_margin": -2978,
+                "percent_margin": -0.47648
+            }
+        ],
+        "winnerVotes": 4614,
+        "totalVotes": 6250,
+        "winnerParty": "R",
+        "winnerName": "BRAXTON MITCHELL"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 6",
+        "candidates": [
+            {
+                "name": "Amy Regier",
+                "party": "R",
+                "district": "HD 6",
+                "winner": "true",
+                "votes": 5041,
+                "vote_fraction": 0.6948311509303928,
+                "vote_margin": 2827,
+                "percent_margin": 0.38966230186078565
+            },
+            {
+                "name": "Velvet Phillipssullivan",
+                "party": "D",
+                "district": "HD 6",
+                "winner": "false",
+                "votes": 2214,
+                "vote_fraction": 0.3051688490696072,
+                "vote_margin": -2827,
+                "percent_margin": -0.38966230186078565
+            }
+        ],
+        "winnerVotes": 5041,
+        "totalVotes": 7255,
+        "winnerParty": "R",
+        "winnerName": "AMY REGIER"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 7",
+        "candidates": [
+            {
+                "name": "Courtenay Sprunger",
+                "party": "R",
+                "district": "HD 7",
+                "winner": "true",
+                "votes": 3012,
+                "vote_fraction": 0.6533622559652928,
+                "vote_margin": 1414,
+                "percent_margin": 0.3067245119305857
+            },
+            {
+                "name": "Arthur Fretheim",
+                "party": "D",
+                "district": "HD 7",
+                "winner": "false",
+                "votes": 1598,
+                "vote_fraction": 0.34663774403470715,
+                "vote_margin": -1414,
+                "percent_margin": -0.3067245119305857
+            }
+        ],
+        "winnerVotes": 3012,
+        "totalVotes": 4610,
+        "winnerParty": "R",
+        "winnerName": "COURTENAY SPRUNGER"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 8",
+        "candidates": [
+            {
+                "name": "Beth Sibert",
+                "party": "D",
+                "district": "HD 8",
+                "winner": "false",
+                "votes": 1660,
+                "vote_fraction": 0.29537366548042704,
+                "vote_margin": -2300,
+                "percent_margin": -0.4092526690391459
+            },
+            {
+                "name": "Lukas Schubert",
+                "party": "R",
+                "district": "HD 8",
+                "winner": "true",
+                "votes": 3960,
+                "vote_fraction": 0.7046263345195729,
+                "vote_margin": 2300,
+                "percent_margin": 0.4092526690391459
+            }
+        ],
+        "winnerVotes": 3960,
+        "totalVotes": 5620,
+        "winnerParty": "R",
+        "winnerName": "LUKAS SCHUBERT"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 9",
+        "candidates": [
+            {
+                "name": "Steven C Kelly",
+                "party": "R",
+                "district": "HD 9",
+                "winner": "true",
+                "votes": 4722,
+                "vote_fraction": 0.7443253467843631,
+                "vote_margin": 3100,
+                "percent_margin": 0.48865069356872637
+            },
+            {
+                "name": "Joanne Morrow",
+                "party": "D",
+                "district": "HD 9",
+                "winner": "false",
+                "votes": 1622,
+                "vote_fraction": 0.2556746532156368,
+                "vote_margin": -3100,
+                "percent_margin": -0.48865069356872637
+            }
+        ],
+        "winnerVotes": 4722,
+        "totalVotes": 6344,
+        "winnerParty": "R",
+        "winnerName": "STEVEN C KELLY"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 10",
+        "candidates": [
+            {
+                "name": "Devin T Marconi",
+                "party": "D",
+                "district": "HD 10",
+                "winner": "false",
+                "votes": 1426,
+                "vote_fraction": 0.2503511235955056,
+                "vote_margin": -2844,
+                "percent_margin": -0.49929775280898875
+            },
+            {
+                "name": "Terry Falk",
+                "party": "R",
+                "district": "HD 10",
+                "winner": "true",
+                "votes": 4270,
+                "vote_fraction": 0.7496488764044944,
+                "vote_margin": 2844,
+                "percent_margin": 0.49929775280898875
+            }
+        ],
+        "winnerVotes": 4270,
+        "totalVotes": 5696,
+        "winnerParty": "R",
+        "winnerName": "TERRY FALK"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 11",
+        "candidates": [
+            {
+                "name": "Ed Byrne",
+                "party": "R",
+                "district": "HD 11",
+                "winner": "true",
+                "votes": 5144,
+                "vote_fraction": 0.7573616018845701,
+                "vote_margin": 3496,
+                "percent_margin": 0.5147232037691402
+            },
+            {
+                "name": "Jennifer Allen",
+                "party": "D",
+                "district": "HD 11",
+                "winner": "false",
+                "votes": 1648,
+                "vote_fraction": 0.24263839811542992,
+                "vote_margin": -3496,
+                "percent_margin": -0.5147232037691402
+            }
+        ],
+        "winnerVotes": 5144,
+        "totalVotes": 6792,
+        "winnerParty": "R",
+        "winnerName": "ED BYRNE"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 12",
+        "candidates": [
+            {
+                "name": "Barry Olson",
+                "party": "D",
+                "district": "HD 12",
+                "winner": "false",
+                "votes": 2069,
+                "vote_fraction": 0.2910395273596849,
+                "vote_margin": -2971,
+                "percent_margin": -0.4179209452806302
+            },
+            {
+                "name": "Tracy A Sharp",
+                "party": "R",
+                "district": "HD 12",
+                "winner": "true",
+                "votes": 5040,
+                "vote_fraction": 0.7089604726403151,
+                "vote_margin": 2971,
+                "percent_margin": 0.4179209452806302
+            }
+        ],
+        "winnerVotes": 5040,
+        "totalVotes": 7109,
+        "winnerParty": "R",
+        "winnerName": "TRACY A SHARP"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 13",
+        "candidates": [
+            {
+                "name": "Shirley Azzopardi",
+                "party": "D",
+                "district": "HD 13",
+                "winner": "false",
+                "votes": 2294,
+                "vote_fraction": 0.3929427886262419,
+                "vote_margin": -1250,
+                "percent_margin": -0.21411442274751627
+            },
+            {
+                "name": "Linda E Reksten",
+                "party": "R",
+                "district": "HD 13",
+                "winner": "true",
+                "votes": 3544,
+                "vote_fraction": 0.6070572113737581,
+                "vote_margin": 1250,
+                "percent_margin": 0.21411442274751627
+            }
+        ],
+        "winnerVotes": 3544,
+        "totalVotes": 5838,
+        "winnerParty": "R",
+        "winnerName": "LINDA E REKSTEN"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 14",
+        "candidates": [
+            {
+                "name": "Paul C Fielder",
+                "party": "R",
+                "district": "HD 14",
+                "winner": "true",
+                "votes": 5075,
+                "vote_fraction": 0.7495200118150938,
+                "vote_margin": 3379,
+                "percent_margin": 0.49904002363018757
+            },
+            {
+                "name": "Colleen Hinds",
+                "party": "D",
+                "district": "HD 14",
+                "winner": "false",
+                "votes": 1696,
+                "vote_fraction": 0.25047998818490624,
+                "vote_margin": -3379,
+                "percent_margin": -0.49904002363018757
+            }
+        ],
+        "winnerVotes": 5075,
+        "totalVotes": 6771,
+        "winnerParty": "R",
+        "winnerName": "PAUL C FIELDER"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 15",
+        "candidates": [
+            {
+                "name": "Ralph Foster",
+                "party": "R",
+                "district": "HD 15",
+                "winner": "false",
+                "votes": 1900,
+                "vote_fraction": 0.48630662912720757,
+                "vote_margin": -107,
+                "percent_margin": -0.027386741745584847
+            },
+            {
+                "name": "Thedis Crowe",
+                "party": "D",
+                "district": "HD 15",
+                "winner": "true",
+                "votes": 2007,
+                "vote_fraction": 0.5136933708727924,
+                "vote_margin": 107,
+                "percent_margin": 0.027386741745584847
+            }
+        ],
+        "winnerVotes": 2007,
+        "totalVotes": 3907,
+        "winnerParty": "D",
+        "winnerName": "THEDIS CROWE"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 16",
+        "candidates": [
+            {
+                "name": "Tyson T Running Wolf",
+                "party": "D",
+                "district": "HD 16",
+                "winner": "true",
+                "votes": 2413,
+                "vote_fraction": 0.592292587137948,
+                "vote_margin": 752,
+                "percent_margin": 0.18458517427589594
+            },
+            {
+                "name": "Elaine Utterback  Mitchell",
+                "party": "R",
+                "district": "HD 16",
+                "winner": "false",
+                "votes": 1661,
+                "vote_fraction": 0.40770741286205203,
+                "vote_margin": -752,
+                "percent_margin": -0.18458517427589594
+            }
+        ],
+        "winnerVotes": 2413,
+        "totalVotes": 4074,
+        "winnerParty": "D",
+        "winnerName": "TYSON T RUNNING WOLF"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 17",
+        "candidates": [
+            {
+                "name": "Zack Wirth",
+                "party": "R",
+                "district": "HD 17",
+                "winner": "true",
+                "votes": 4698,
+                "vote_fraction": 0.7540930979133227,
+                "vote_margin": 3166,
+                "percent_margin": 0.5081861958266453
+            },
+            {
+                "name": "Leonard Bates",
+                "party": "D",
+                "district": "HD 17",
+                "winner": "false",
+                "votes": 1532,
+                "vote_fraction": 0.24590690208667737,
+                "vote_margin": -3166,
+                "percent_margin": -0.5081861958266453
+            }
+        ],
+        "winnerVotes": 4698,
+        "totalVotes": 6230,
+        "winnerParty": "R",
+        "winnerName": "ZACK WIRTH"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 18",
+        "candidates": [
+            {
+                "name": "David Arends",
+                "party": "D",
+                "district": "HD 18",
+                "winner": "false",
+                "votes": 1432,
+                "vote_fraction": 0.2652343026486386,
+                "vote_margin": -2535,
+                "percent_margin": -0.4695313947027227
+            },
+            {
+                "name": "Llew Jones",
+                "party": "R",
+                "district": "HD 18",
+                "winner": "true",
+                "votes": 3967,
+                "vote_fraction": 0.7347656973513613,
+                "vote_margin": 2535,
+                "percent_margin": 0.4695313947027227
+            }
+        ],
+        "winnerVotes": 3967,
+        "totalVotes": 5399,
+        "winnerParty": "R",
+        "winnerName": "LLEW JONES"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 19",
+        "candidates": [
+            {
+                "name": "Jane Weber",
+                "party": "D",
+                "district": "HD 19",
+                "winner": "true",
+                "votes": 1787,
+                "vote_fraction": 0.5461491442542787,
+                "vote_margin": 302,
+                "percent_margin": 0.09229828850855745
+            },
+            {
+                "name": "Hannah Trebas",
+                "party": "R",
+                "district": "HD 19",
+                "winner": "false",
+                "votes": 1485,
+                "vote_fraction": 0.45385085574572126,
+                "vote_margin": -302,
+                "percent_margin": -0.09229828850855745
+            }
+        ],
+        "winnerVotes": 1787,
+        "totalVotes": 3272,
+        "winnerParty": "D",
+        "winnerName": "JANE WEBER"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 20",
+        "candidates": [
+            {
+                "name": "Rina Fontana Moore",
+                "party": "D",
+                "district": "HD 20",
+                "winner": "false",
+                "votes": 2315,
+                "vote_fraction": 0.464859437751004,
+                "vote_margin": -350,
+                "percent_margin": -0.07028112449799197
+            },
+            {
+                "name": "Melissa Nikolakakos",
+                "party": "R",
+                "district": "HD 20",
+                "winner": "true",
+                "votes": 2665,
+                "vote_fraction": 0.535140562248996,
+                "vote_margin": 350,
+                "percent_margin": 0.07028112449799197
+            }
+        ],
+        "winnerVotes": 2665,
+        "totalVotes": 4980,
+        "winnerParty": "R",
+        "winnerName": "MELISSA NIKOLAKAKOS"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 21",
+        "candidates": [
+            {
+                "name": "Ed Buttrey",
+                "party": "R",
+                "district": "HD 21",
+                "winner": "true",
+                "votes": 3652,
+                "vote_fraction": 0.6767976278724982,
+                "vote_margin": 1908,
+                "percent_margin": 0.3535952557449963
+            },
+            {
+                "name": "Lela Graham",
+                "party": "D",
+                "district": "HD 21",
+                "winner": "false",
+                "votes": 1744,
+                "vote_fraction": 0.32320237212750186,
+                "vote_margin": -1908,
+                "percent_margin": -0.3535952557449963
+            }
+        ],
+        "winnerVotes": 3652,
+        "totalVotes": 5396,
+        "winnerParty": "R",
+        "winnerName": "ED BUTTREY"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 22",
+        "candidates": [
+            {
+                "name": "George Nikolakakos",
+                "party": "R",
+                "district": "HD 22",
+                "winner": "true",
+                "votes": 1972,
+                "vote_fraction": 0.6218858404288868,
+                "vote_margin": 773,
+                "percent_margin": 0.24377168085777356
+            },
+            {
+                "name": "Ronald K Paulick",
+                "party": "D",
+                "district": "HD 22",
+                "winner": "false",
+                "votes": 1199,
+                "vote_fraction": 0.3781141595711132,
+                "vote_margin": -773,
+                "percent_margin": -0.24377168085777356
+            }
+        ],
+        "winnerVotes": 1972,
+        "totalVotes": 3171,
+        "winnerParty": "R",
+        "winnerName": "GEORGE NIKOLAKAKOS"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 23",
+        "candidates": [
+            {
+                "name": "Sandor R Hopkins",
+                "party": "D",
+                "district": "HD 23",
+                "winner": "false",
+                "votes": 1782,
+                "vote_fraction": 0.404815992730577,
+                "vote_margin": -702,
+                "percent_margin": -0.15947296683325762
+            },
+            {
+                "name": "Eric Tilleman",
+                "party": "R",
+                "district": "HD 23",
+                "winner": "true",
+                "votes": 2484,
+                "vote_fraction": 0.5642889595638346,
+                "vote_margin": 702,
+                "percent_margin": 0.15947296683325762
+            },
+            {
+                "name": "Kevin Leatherbarrow",
+                "party": "L",
+                "district": "HD 23",
+                "winner": "false",
+                "votes": 136,
+                "vote_fraction": 0.030895047705588367,
+                "vote_margin": -2348,
+                "percent_margin": -0.5333939118582463
+            }
+        ],
+        "winnerVotes": 2484,
+        "totalVotes": 4402,
+        "winnerParty": "R",
+        "winnerName": "ERIC TILLEMAN"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 24",
+        "candidates": [
+            {
+                "name": "Steve Fitzpatrick",
+                "party": "R",
+                "district": "HD 24",
+                "winner": "true",
+                "votes": 3930,
+                "vote_fraction": 1.0,
+                "vote_margin": 3930,
+                "percent_margin": 1.0
+            }
+        ],
+        "winnerVotes": 3930,
+        "totalVotes": 3930,
+        "winnerParty": "R",
+        "winnerName": "STEVE FITZPATRICK"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 25",
+        "candidates": [
+            {
+                "name": "Steve Gist",
+                "party": "R",
+                "district": "HD 25",
+                "winner": "true",
+                "votes": 3956,
+                "vote_fraction": 0.7532368621477532,
+                "vote_margin": 2660,
+                "percent_margin": 0.5064737242955065
+            },
+            {
+                "name": "James Rickley",
+                "party": "D",
+                "district": "HD 25",
+                "winner": "false",
+                "votes": 1296,
+                "vote_fraction": 0.24676313785224677,
+                "vote_margin": -2660,
+                "percent_margin": -0.5064737242955065
+            }
+        ],
+        "winnerVotes": 3956,
+        "totalVotes": 5252,
+        "winnerParty": "R",
+        "winnerName": "STEVE GIST"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 26",
+        "candidates": [
+            {
+                "name": "Russel Miner",
+                "party": "R",
+                "district": "HD 26",
+                "winner": "true",
+                "votes": 5049,
+                "vote_fraction": 1.0,
+                "vote_margin": 5049,
+                "percent_margin": 1.0
+            }
+        ],
+        "winnerVotes": 5049,
+        "totalVotes": 5049,
+        "winnerParty": "R",
+        "winnerName": "RUSSEL MINER"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 27",
+        "candidates": [
+            {
+                "name": "Ed Hill",
+                "party": "R",
+                "district": "HD 27",
+                "winner": "false",
+                "votes": 2061,
+                "vote_fraction": 0.4739020464474592,
+                "vote_margin": -227,
+                "percent_margin": -0.05219590710508163
+            },
+            {
+                "name": "Paul Tuss",
+                "party": "D",
+                "district": "HD 27",
+                "winner": "true",
+                "votes": 2288,
+                "vote_fraction": 0.5260979535525409,
+                "vote_margin": 227,
+                "percent_margin": 0.05219590710508163
+            }
+        ],
+        "winnerVotes": 2288,
+        "totalVotes": 4349,
+        "winnerParty": "D",
+        "winnerName": "PAUL TUSS"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 28",
+        "candidates": [
+            {
+                "name": "Eric Albus",
+                "party": "R",
+                "district": "HD 28",
+                "winner": "true",
+                "votes": 4112,
+                "vote_fraction": 0.7709036370453693,
+                "vote_margin": 2890,
+                "percent_margin": 0.5418072740907387
+            },
+            {
+                "name": "Blake Borst",
+                "party": "D",
+                "district": "HD 28",
+                "winner": "false",
+                "votes": 1222,
+                "vote_fraction": 0.22909636295463068,
+                "vote_margin": -2890,
+                "percent_margin": -0.5418072740907387
+            }
+        ],
+        "winnerVotes": 4112,
+        "totalVotes": 5334,
+        "winnerParty": "R",
+        "winnerName": "ERIC ALBUS"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 29",
+        "candidates": [
+            {
+                "name": "Valerie Moore",
+                "party": "R",
+                "district": "HD 29",
+                "winner": "true",
+                "votes": 5023,
+                "vote_fraction": 1.0,
+                "vote_margin": 5023,
+                "percent_margin": 1.0
+            }
+        ],
+        "winnerVotes": 5023,
+        "totalVotes": 5023,
+        "winnerParty": "R",
+        "winnerName": "VALERIE MOORE"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 30",
+        "candidates": [
+            {
+                "name": "Morgan Thiel",
+                "party": "R",
+                "district": "HD 30",
+                "winner": "true",
+                "votes": 4257,
+                "vote_fraction": 1.0,
+                "vote_margin": 4257,
+                "percent_margin": 1.0
+            }
+        ],
+        "winnerVotes": 4257,
+        "totalVotes": 4257,
+        "winnerParty": "R",
+        "winnerName": "MORGAN THIEL"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 31",
+        "candidates": [
+            {
+                "name": "Frank J Smith",
+                "party": "D",
+                "district": "HD 31",
+                "winner": "true",
+                "votes": 2122,
+                "vote_fraction": 0.5935664335664336,
+                "vote_margin": 669,
+                "percent_margin": 0.18713286713286714
+            },
+            {
+                "name": "Kevin Taylor",
+                "party": "R",
+                "district": "HD 31",
+                "winner": "false",
+                "votes": 1453,
+                "vote_fraction": 0.40643356643356643,
+                "vote_margin": -669,
+                "percent_margin": -0.18713286713286714
+            }
+        ],
+        "winnerVotes": 2122,
+        "totalVotes": 3575,
+        "winnerParty": "D",
+        "winnerName": "FRANK J SMITH"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 32",
+        "candidates": [
+            {
+                "name": "Mike Fox",
+                "party": "D",
+                "district": "HD 32",
+                "winner": "true",
+                "votes": 2133,
+                "vote_fraction": 0.5900414937759336,
+                "vote_margin": 651,
+                "percent_margin": 0.18008298755186722
+            },
+            {
+                "name": "Jason Ulrich",
+                "party": "R",
+                "district": "HD 32",
+                "winner": "false",
+                "votes": 1482,
+                "vote_fraction": 0.4099585062240664,
+                "vote_margin": -651,
+                "percent_margin": -0.18008298755186722
+            }
+        ],
+        "winnerVotes": 2133,
+        "totalVotes": 3615,
+        "winnerParty": "D",
+        "winnerName": "MIKE FOX"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 33",
+        "candidates": [
+            {
+                "name": "Brandon Ler",
+                "party": "R",
+                "district": "HD 33",
+                "winner": "true",
+                "votes": 4549,
+                "vote_fraction": 1.0,
+                "vote_margin": 4549,
+                "percent_margin": 1.0
+            }
+        ],
+        "winnerVotes": 4549,
+        "totalVotes": 4549,
+        "winnerParty": "R",
+        "winnerName": "BRANDON LER"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 34",
+        "candidates": [
+            {
+                "name": "Jerry Schillinger",
+                "party": "R",
+                "district": "HD 34",
+                "winner": "true",
+                "votes": 5548,
+                "vote_fraction": 1.0,
+                "vote_margin": 5548,
+                "percent_margin": 1.0
+            }
+        ],
+        "winnerVotes": 5548,
+        "totalVotes": 5548,
+        "winnerParty": "R",
+        "winnerName": "JERRY SCHILLINGER"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 35",
+        "candidates": [
+            {
+                "name": "Gary W. Parry",
+                "party": "R",
+                "district": "HD 35",
+                "winner": "true",
+                "votes": 4748,
+                "vote_fraction": 0.8069340584636302,
+                "vote_margin": 3612,
+                "percent_margin": 0.6138681169272604
+            },
+            {
+                "name": "Kim Kreider",
+                "party": "D",
+                "district": "HD 35",
+                "winner": "false",
+                "votes": 1136,
+                "vote_fraction": 0.19306594153636983,
+                "vote_margin": -3612,
+                "percent_margin": -0.6138681169272604
+            }
+        ],
+        "winnerVotes": 4748,
+        "totalVotes": 5884,
+        "winnerParty": "R",
+        "winnerName": "GARY W. PARRY"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 36",
+        "candidates": [
+            {
+                "name": "Greg Kmetz",
+                "party": "R",
+                "district": "HD 36",
+                "winner": "true",
+                "votes": 3531,
+                "vote_fraction": 0.7010125074449077,
+                "vote_margin": 2025,
+                "percent_margin": 0.40202501488981535
+            },
+            {
+                "name": "Stan Taylor",
+                "party": "D",
+                "district": "HD 36",
+                "winner": "false",
+                "votes": 1506,
+                "vote_fraction": 0.2989874925550923,
+                "vote_margin": -2025,
+                "percent_margin": -0.40202501488981535
+            }
+        ],
+        "winnerVotes": 3531,
+        "totalVotes": 5037,
+        "winnerParty": "R",
+        "winnerName": "GREG KMETZ"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 37",
+        "candidates": [
+            {
+                "name": "Shane Klakken",
+                "party": "R",
+                "district": "HD 37",
+                "winner": "true",
+                "votes": 4684,
+                "vote_fraction": 0.7437281676722769,
+                "vote_margin": 3070,
+                "percent_margin": 0.48745633534455385
+            },
+            {
+                "name": "Andrea Payne",
+                "party": "D",
+                "district": "HD 37",
+                "winner": "false",
+                "votes": 1614,
+                "vote_fraction": 0.2562718323277231,
+                "vote_margin": -3070,
+                "percent_margin": -0.48745633534455385
+            }
+        ],
+        "winnerVotes": 4684,
+        "totalVotes": 6298,
+        "winnerParty": "R",
+        "winnerName": "SHANE KLAKKEN"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 38",
+        "candidates": [
+            {
+                "name": "Greg Oblander",
+                "party": "R",
+                "district": "HD 38",
+                "winner": "true",
+                "votes": 5840,
+                "vote_fraction": 1.0,
+                "vote_margin": 5840,
+                "percent_margin": 1.0
+            }
+        ],
+        "winnerVotes": 5840,
+        "totalVotes": 5840,
+        "winnerParty": "R",
+        "winnerName": "GREG OBLANDER"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 39",
+        "candidates": [
+            {
+                "name": "Kerri Seekins-Crowe",
+                "party": "R",
+                "district": "HD 39",
+                "winner": "true",
+                "votes": 3137,
+                "vote_fraction": 0.6595878889823381,
+                "vote_margin": 1518,
+                "percent_margin": 0.3191757779646762
+            },
+            {
+                "name": "Melissa Smith",
+                "party": "D",
+                "district": "HD 39",
+                "winner": "false",
+                "votes": 1619,
+                "vote_fraction": 0.3404121110176619,
+                "vote_margin": -1518,
+                "percent_margin": -0.3191757779646762
+            }
+        ],
+        "winnerVotes": 3137,
+        "totalVotes": 4756,
+        "winnerParty": "R",
+        "winnerName": "KERRI SEEKINS-CROWE"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 40",
+        "candidates": [
+            {
+                "name": "Mike Vinton",
+                "party": "R",
+                "district": "HD 40",
+                "winner": "true",
+                "votes": 3642,
+                "vote_fraction": 0.7450900163666121,
+                "vote_margin": 2396,
+                "percent_margin": 0.49018003273322425
+            },
+            {
+                "name": "Bob Auch",
+                "party": "D",
+                "district": "HD 40",
+                "winner": "false",
+                "votes": 1246,
+                "vote_fraction": 0.2549099836333879,
+                "vote_margin": -2396,
+                "percent_margin": -0.49018003273322425
+            }
+        ],
+        "winnerVotes": 3642,
+        "totalVotes": 4888,
+        "winnerParty": "R",
+        "winnerName": "MIKE VINTON"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 41",
+        "candidates": [
+            {
+                "name": "Jade Sooktis",
+                "party": "D",
+                "district": "HD 41",
+                "winner": "true",
+                "votes": 1783,
+                "vote_fraction": 0.6367857142857143,
+                "vote_margin": 766,
+                "percent_margin": 0.2735714285714286
+            },
+            {
+                "name": "Da Wallowing Bull",
+                "party": "R",
+                "district": "HD 41",
+                "winner": "false",
+                "votes": 1017,
+                "vote_fraction": 0.3632142857142857,
+                "vote_margin": -766,
+                "percent_margin": -0.2735714285714286
+            }
+        ],
+        "winnerVotes": 1783,
+        "totalVotes": 2800,
+        "winnerParty": "D",
+        "winnerName": "JADE SOOKTIS"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 42",
+        "candidates": [
+            {
+                "name": "Sidney Chip Fitzpatrick",
+                "party": "D",
+                "district": "HD 42",
+                "winner": "true",
+                "votes": 1862,
+                "vote_fraction": 0.5217147660409078,
+                "vote_margin": 155,
+                "percent_margin": 0.04342953208181564
+            },
+            {
+                "name": "Bill Hodges",
+                "party": "R",
+                "district": "HD 42",
+                "winner": "false",
+                "votes": 1707,
+                "vote_fraction": 0.47828523395909217,
+                "vote_margin": -155,
+                "percent_margin": -0.04342953208181564
+            }
+        ],
+        "winnerVotes": 1862,
+        "totalVotes": 3569,
+        "winnerParty": "D",
+        "winnerName": "SIDNEY CHIP FITZPATRICK"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 43",
+        "candidates": [
+            {
+                "name": "Larry Brewster",
+                "party": "R",
+                "district": "HD 43",
+                "winner": "true",
+                "votes": 2958,
+                "vote_fraction": 0.6430434782608696,
+                "vote_margin": 1316,
+                "percent_margin": 0.28608695652173916
+            },
+            {
+                "name": "Alexander Clark",
+                "party": "D",
+                "district": "HD 43",
+                "winner": "false",
+                "votes": 1642,
+                "vote_fraction": 0.35695652173913045,
+                "vote_margin": -1316,
+                "percent_margin": -0.28608695652173916
+            }
+        ],
+        "winnerVotes": 2958,
+        "totalVotes": 4600,
+        "winnerParty": "R",
+        "winnerName": "LARRY BREWSTER"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 44",
+        "candidates": [
+            {
+                "name": "Katie Zolnikov",
+                "party": "R",
+                "district": "HD 44",
+                "winner": "true",
+                "votes": 4483,
+                "vote_fraction": 1.0,
+                "vote_margin": 4483,
+                "percent_margin": 1.0
+            }
+        ],
+        "winnerVotes": 4483,
+        "totalVotes": 4483,
+        "winnerParty": "R",
+        "winnerName": "KATIE ZOLNIKOV"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 45",
+        "candidates": [
+            {
+                "name": "Denise Baum",
+                "party": "D",
+                "district": "HD 45",
+                "winner": "true",
+                "votes": 2589,
+                "vote_fraction": 0.5292313982011447,
+                "vote_margin": 286,
+                "percent_margin": 0.05846279640228945
+            },
+            {
+                "name": "Kassidy Olson",
+                "party": "R",
+                "district": "HD 45",
+                "winner": "false",
+                "votes": 2303,
+                "vote_fraction": 0.47076860179885527,
+                "vote_margin": -286,
+                "percent_margin": -0.05846279640228945
+            }
+        ],
+        "winnerVotes": 2589,
+        "totalVotes": 4892,
+        "winnerParty": "D",
+        "winnerName": "DENISE BAUM"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 46",
+        "candidates": [
+            {
+                "name": "Starr Emery",
+                "party": "R",
+                "district": "HD 46",
+                "winner": "false",
+                "votes": 2217,
+                "vote_fraction": 0.47010178117048346,
+                "vote_margin": -282,
+                "percent_margin": -0.05979643765903308
+            },
+            {
+                "name": "Emma Kerr Carpenter",
+                "party": "D",
+                "district": "HD 46",
+                "winner": "true",
+                "votes": 2499,
+                "vote_fraction": 0.5298982188295165,
+                "vote_margin": 282,
+                "percent_margin": 0.05979643765903308
+            }
+        ],
+        "winnerVotes": 2499,
+        "totalVotes": 4716,
+        "winnerParty": "D",
+        "winnerName": "EMMA KERR CARPENTER"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 47",
+        "candidates": [
+            {
+                "name": "Stephanie Moncada",
+                "party": "R",
+                "district": "HD 47",
+                "winner": "false",
+                "votes": 1615,
+                "vote_fraction": 0.47125765976072365,
+                "vote_margin": -197,
+                "percent_margin": -0.05748468047855267
+            },
+            {
+                "name": "James Reavis",
+                "party": "D",
+                "district": "HD 47",
+                "winner": "true",
+                "votes": 1812,
+                "vote_fraction": 0.5287423402392764,
+                "vote_margin": 197,
+                "percent_margin": 0.05748468047855267
+            }
+        ],
+        "winnerVotes": 1812,
+        "totalVotes": 3427,
+        "winnerParty": "D",
+        "winnerName": "JAMES REAVIS"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 48",
+        "candidates": [
+            {
+                "name": "Anne Ross",
+                "party": "D",
+                "district": "HD 48",
+                "winner": "false",
+                "votes": 1902,
+                "vote_fraction": 0.4284748817301194,
+                "vote_margin": -635,
+                "percent_margin": -0.1430502365397612
+            },
+            {
+                "name": "Curtis Schomer",
+                "party": "R",
+                "district": "HD 48",
+                "winner": "true",
+                "votes": 2537,
+                "vote_fraction": 0.5715251182698806,
+                "vote_margin": 635,
+                "percent_margin": 0.1430502365397612
+            }
+        ],
+        "winnerVotes": 2537,
+        "totalVotes": 4439,
+        "winnerParty": "R",
+        "winnerName": "CURTIS SCHOMER"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 49",
+        "candidates": [
+            {
+                "name": "Sherry Essmann",
+                "party": "R",
+                "district": "HD 49",
+                "winner": "true",
+                "votes": 3059,
+                "vote_fraction": 0.6251788268955651,
+                "vote_margin": 1225,
+                "percent_margin": 0.2503576537911302
+            },
+            {
+                "name": "Rudolf Haden",
+                "party": "D",
+                "district": "HD 49",
+                "winner": "false",
+                "votes": 1834,
+                "vote_fraction": 0.3748211731044349,
+                "vote_margin": -1225,
+                "percent_margin": -0.2503576537911302
+            }
+        ],
+        "winnerVotes": 3059,
+        "totalVotes": 4893,
+        "winnerParty": "R",
+        "winnerName": "SHERRY ESSMANN"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 50",
+        "candidates": [
+            {
+                "name": "Shawn C Giesick",
+                "party": "D",
+                "district": "HD 50",
+                "winner": "false",
+                "votes": 2043,
+                "vote_fraction": 0.33768595041322313,
+                "vote_margin": -1964,
+                "percent_margin": -0.32462809917355373
+            },
+            {
+                "name": "Anthony Nicastro",
+                "party": "R",
+                "district": "HD 50",
+                "winner": "true",
+                "votes": 4007,
+                "vote_fraction": 0.6623140495867769,
+                "vote_margin": 1964,
+                "percent_margin": 0.32462809917355373
+            }
+        ],
+        "winnerVotes": 4007,
+        "totalVotes": 6050,
+        "winnerParty": "R",
+        "winnerName": "ANTHONY NICASTRO"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 51",
+        "candidates": [
+            {
+                "name": "Jodee Etchart",
+                "party": "R",
+                "district": "HD 51",
+                "winner": "true",
+                "votes": 3114,
+                "vote_fraction": 0.5742209109349069,
+                "vote_margin": 805,
+                "percent_margin": 0.14844182186981375
+            },
+            {
+                "name": "Janna Hafer",
+                "party": "I",
+                "district": "HD 51",
+                "winner": "false",
+                "votes": 2309,
+                "vote_fraction": 0.4257790890650931,
+                "vote_margin": -805,
+                "percent_margin": -0.14844182186981375
+            }
+        ],
+        "winnerVotes": 3114,
+        "totalVotes": 5423,
+        "winnerParty": "R",
+        "winnerName": "JODEE ETCHART"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 52",
+        "candidates": [
+            {
+                "name": "Carole Boerner",
+                "party": "D",
+                "district": "HD 52",
+                "winner": "false",
+                "votes": 2160,
+                "vote_fraction": 0.3237410071942446,
+                "vote_margin": -2352,
+                "percent_margin": -0.35251798561151076
+            },
+            {
+                "name": "Bill Mercer",
+                "party": "R",
+                "district": "HD 52",
+                "winner": "true",
+                "votes": 4512,
+                "vote_fraction": 0.6762589928057554,
+                "vote_margin": 2352,
+                "percent_margin": 0.35251798561151076
+            }
+        ],
+        "winnerVotes": 4512,
+        "totalVotes": 6672,
+        "winnerParty": "R",
+        "winnerName": "BILL MERCER"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 53",
+        "candidates": [
+            {
+                "name": "Ellie Kerns",
+                "party": "D",
+                "district": "HD 53",
+                "winner": "false",
+                "votes": 1516,
+                "vote_fraction": 0.24167065200063764,
+                "vote_margin": -3241,
+                "percent_margin": -0.5166586959987247
+            },
+            {
+                "name": "Nelly Nicol",
+                "party": "R",
+                "district": "HD 53",
+                "winner": "true",
+                "votes": 4757,
+                "vote_fraction": 0.7583293479993624,
+                "vote_margin": 3241,
+                "percent_margin": 0.5166586959987247
+            }
+        ],
+        "winnerVotes": 4757,
+        "totalVotes": 6273,
+        "winnerParty": "R",
+        "winnerName": "NELLY NICOL"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 54",
+        "candidates": [
+            {
+                "name": "Lee Deming",
+                "party": "R",
+                "district": "HD 54",
+                "winner": "true",
+                "votes": 4161,
+                "vote_fraction": 1.0,
+                "vote_margin": 4161,
+                "percent_margin": 1.0
+            }
+        ],
+        "winnerVotes": 4161,
+        "totalVotes": 4161,
+        "winnerParty": "R",
+        "winnerName": "LEE DEMING"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 55",
+        "candidates": [
+            {
+                "name": "Brad Barker",
+                "party": "R",
+                "district": "HD 55",
+                "winner": "true",
+                "votes": 4858,
+                "vote_fraction": 0.6881994616801247,
+                "vote_margin": 2657,
+                "percent_margin": 0.3763989233602493
+            },
+            {
+                "name": "Kim Gillan",
+                "party": "D",
+                "district": "HD 55",
+                "winner": "false",
+                "votes": 2201,
+                "vote_fraction": 0.3118005383198753,
+                "vote_margin": -2657,
+                "percent_margin": -0.3763989233602493
+            }
+        ],
+        "winnerVotes": 4858,
+        "totalVotes": 7059,
+        "winnerParty": "R",
+        "winnerName": "BRAD BARKER"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 56",
+        "candidates": [
+            {
+                "name": "Fiona Nave",
+                "party": "R",
+                "district": "HD 56",
+                "winner": "true",
+                "votes": 5982,
+                "vote_fraction": 1.0,
+                "vote_margin": 5982,
+                "percent_margin": 1.0
+            }
+        ],
+        "winnerVotes": 5982,
+        "totalVotes": 5982,
+        "winnerParty": "R",
+        "winnerName": "FIONA NAVE"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 57",
+        "candidates": [
+            {
+                "name": "Marty Malone",
+                "party": "R",
+                "district": "HD 57",
+                "winner": "true",
+                "votes": 3654,
+                "vote_fraction": 0.5037915345374328,
+                "vote_margin": 55,
+                "percent_margin": 0.0075830690748655725
+            },
+            {
+                "name": "Scott Rosenzweig",
+                "party": "D",
+                "district": "HD 57",
+                "winner": "false",
+                "votes": 3599,
+                "vote_fraction": 0.4962084654625672,
+                "vote_margin": -55,
+                "percent_margin": -0.0075830690748655725
+            }
+        ],
+        "winnerVotes": 3654,
+        "totalVotes": 7253,
+        "winnerParty": "R",
+        "winnerName": "MARTY MALONE"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 58",
+        "candidates": [
+            {
+                "name": "Jason Gunderson",
+                "party": "R",
+                "district": "HD 58",
+                "winner": "false",
+                "votes": 3040,
+                "vote_fraction": 0.46011805660662936,
+                "vote_margin": -527,
+                "percent_margin": -0.07976388678674133
+            },
+            {
+                "name": "Jamie L Isaly",
+                "party": "D",
+                "district": "HD 58",
+                "winner": "true",
+                "votes": 3567,
+                "vote_fraction": 0.5398819433933707,
+                "vote_margin": 527,
+                "percent_margin": 0.07976388678674133
+            }
+        ],
+        "winnerVotes": 3567,
+        "totalVotes": 6607,
+        "winnerParty": "D",
+        "winnerName": "JAMIE L ISALY"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 59",
+        "candidates": [
+            {
+                "name": "Marc Greendorfer",
+                "party": "R",
+                "district": "HD 59",
+                "winner": "false",
+                "votes": 2545,
+                "vote_fraction": 0.3686268829663963,
+                "vote_margin": -1814,
+                "percent_margin": -0.26274623406720743
+            },
+            {
+                "name": "Ed Stafman",
+                "party": "D",
+                "district": "HD 59",
+                "winner": "true",
+                "votes": 4359,
+                "vote_fraction": 0.6313731170336037,
+                "vote_margin": 1814,
+                "percent_margin": 0.26274623406720743
+            }
+        ],
+        "winnerVotes": 4359,
+        "totalVotes": 6904,
+        "winnerParty": "D",
+        "winnerName": "ED STAFMAN"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 60",
+        "candidates": [
+            {
+                "name": "Alanah Griffith",
+                "party": "D",
+                "district": "HD 60",
+                "winner": "true",
+                "votes": 3228,
+                "vote_fraction": 0.5241110569897711,
+                "vote_margin": 297,
+                "percent_margin": 0.04822211397954213
+            },
+            {
+                "name": "Jerry Johnson",
+                "party": "R",
+                "district": "HD 60",
+                "winner": "false",
+                "votes": 2931,
+                "vote_fraction": 0.47588894301022894,
+                "vote_margin": -297,
+                "percent_margin": -0.04822211397954213
+            }
+        ],
+        "winnerVotes": 3228,
+        "totalVotes": 6159,
+        "winnerParty": "D",
+        "winnerName": "ALANAH GRIFFITH"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 61",
+        "candidates": [
+            {
+                "name": "Thomas Carlson",
+                "party": "R",
+                "district": "HD 61",
+                "winner": "false",
+                "votes": 860,
+                "vote_fraction": 0.26807980049875313,
+                "vote_margin": -1488,
+                "percent_margin": -0.46384039900249374
+            },
+            {
+                "name": "Becky Edwards",
+                "party": "D",
+                "district": "HD 61",
+                "winner": "true",
+                "votes": 2348,
+                "vote_fraction": 0.7319201995012469,
+                "vote_margin": 1488,
+                "percent_margin": 0.46384039900249374
+            }
+        ],
+        "winnerVotes": 2348,
+        "totalVotes": 3208,
+        "winnerParty": "D",
+        "winnerName": "BECKY EDWARDS"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 62",
+        "candidates": [
+            {
+                "name": "Owen Lang",
+                "party": "R",
+                "district": "HD 62",
+                "winner": "false",
+                "votes": 2425,
+                "vote_fraction": 0.4879275653923541,
+                "vote_margin": -120,
+                "percent_margin": -0.02414486921529175
+            },
+            {
+                "name": "Joshua A Seckinger",
+                "party": "D",
+                "district": "HD 62",
+                "winner": "true",
+                "votes": 2545,
+                "vote_fraction": 0.5120724346076458,
+                "vote_margin": 120,
+                "percent_margin": 0.02414486921529175
+            }
+        ],
+        "winnerVotes": 2545,
+        "totalVotes": 4970,
+        "winnerParty": "D",
+        "winnerName": "JOSHUA A SECKINGER"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 63",
+        "candidates": [
+            {
+                "name": "Peter Strand",
+                "party": "D",
+                "district": "HD 63",
+                "winner": "true",
+                "votes": 2721,
+                "vote_fraction": 0.5362633031139141,
+                "vote_margin": 368,
+                "percent_margin": 0.07252660622782814
+            },
+            {
+                "name": "Mark Lewis",
+                "party": "R",
+                "district": "HD 63",
+                "winner": "false",
+                "votes": 2353,
+                "vote_fraction": 0.46373669688608593,
+                "vote_margin": -368,
+                "percent_margin": -0.07252660622782814
+            }
+        ],
+        "winnerVotes": 2721,
+        "totalVotes": 5074,
+        "winnerParty": "D",
+        "winnerName": "PETER STRAND"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 64",
+        "candidates": [
+            {
+                "name": "Kelly Kortum",
+                "party": "D",
+                "district": "HD 64",
+                "winner": "true",
+                "votes": 2772,
+                "vote_fraction": 0.5537355173791451,
+                "vote_margin": 538,
+                "percent_margin": 0.10747103475829005
+            },
+            {
+                "name": "Jolene  Crum",
+                "party": "R",
+                "district": "HD 64",
+                "winner": "false",
+                "votes": 2234,
+                "vote_fraction": 0.446264482620855,
+                "vote_margin": -538,
+                "percent_margin": -0.10747103475829005
+            }
+        ],
+        "winnerVotes": 2772,
+        "totalVotes": 5006,
+        "winnerParty": "D",
+        "winnerName": "KELLY KORTUM"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 65",
+        "candidates": [
+            {
+                "name": "Brian Close",
+                "party": "D",
+                "district": "HD 65",
+                "winner": "true",
+                "votes": 3140,
+                "vote_fraction": 0.5553590378493102,
+                "vote_margin": 626,
+                "percent_margin": 0.11071807569862045
+            },
+            {
+                "name": "Esther Fishbaugh",
+                "party": "R",
+                "district": "HD 65",
+                "winner": "false",
+                "votes": 2514,
+                "vote_fraction": 0.44464096215068977,
+                "vote_margin": -626,
+                "percent_margin": -0.11071807569862045
+            }
+        ],
+        "winnerVotes": 3140,
+        "totalVotes": 5654,
+        "winnerParty": "D",
+        "winnerName": "BRIAN CLOSE"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 66",
+        "candidates": [
+            {
+                "name": "Eric Matthews",
+                "party": "D",
+                "district": "HD 66",
+                "winner": "true",
+                "votes": 3608,
+                "vote_fraction": 0.5965608465608465,
+                "vote_margin": 1168,
+                "percent_margin": 0.1931216931216931
+            },
+            {
+                "name": "Marla Davis",
+                "party": "R",
+                "district": "HD 66",
+                "winner": "false",
+                "votes": 2440,
+                "vote_fraction": 0.40343915343915343,
+                "vote_margin": -1168,
+                "percent_margin": -0.1931216931216931
+            }
+        ],
+        "winnerVotes": 3608,
+        "totalVotes": 6048,
+        "winnerParty": "D",
+        "winnerName": "ERIC MATTHEWS"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 67",
+        "candidates": [
+            {
+                "name": "Carl Anderson",
+                "party": "D",
+                "district": "HD 67",
+                "winner": "false",
+                "votes": 1980,
+                "vote_fraction": 0.3685778108711839,
+                "vote_margin": -1412,
+                "percent_margin": -0.2628443782576322
+            },
+            {
+                "name": "Jedediah Hinkle",
+                "party": "R",
+                "district": "HD 67",
+                "winner": "true",
+                "votes": 3392,
+                "vote_fraction": 0.6314221891288161,
+                "vote_margin": 1412,
+                "percent_margin": 0.2628443782576322
+            }
+        ],
+        "winnerVotes": 3392,
+        "totalVotes": 5372,
+        "winnerParty": "R",
+        "winnerName": "JEDEDIAH HINKLE"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 68",
+        "candidates": [
+            {
+                "name": "Alexander Colafrancesco",
+                "party": "D",
+                "district": "HD 68",
+                "winner": "false",
+                "votes": 1398,
+                "vote_fraction": 0.2607722439843313,
+                "vote_margin": -2565,
+                "percent_margin": -0.47845551203133746
+            },
+            {
+                "name": "Caleb Hinkle",
+                "party": "R",
+                "district": "HD 68",
+                "winner": "true",
+                "votes": 3963,
+                "vote_fraction": 0.7392277560156687,
+                "vote_margin": 2565,
+                "percent_margin": 0.47845551203133746
+            }
+        ],
+        "winnerVotes": 3963,
+        "totalVotes": 5361,
+        "winnerParty": "R",
+        "winnerName": "CALEB HINKLE"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 69",
+        "candidates": [
+            {
+                "name": "Ken Walsh",
+                "party": "R",
+                "district": "HD 69",
+                "winner": "true",
+                "votes": 6052,
+                "vote_fraction": 1.0,
+                "vote_margin": 6052,
+                "percent_margin": 1.0
+            }
+        ],
+        "winnerVotes": 6052,
+        "totalVotes": 6052,
+        "winnerParty": "R",
+        "winnerName": "KEN WALSH"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 70",
+        "candidates": [
+            {
+                "name": "Shannon Maness",
+                "party": "R",
+                "district": "HD 70",
+                "winner": "true",
+                "votes": 5261,
+                "vote_fraction": 1.0,
+                "vote_margin": 5261,
+                "percent_margin": 1.0
+            }
+        ],
+        "winnerVotes": 5261,
+        "totalVotes": 5261,
+        "winnerParty": "R",
+        "winnerName": "SHANNON MANESS"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 71",
+        "candidates": [
+            {
+                "name": "Scott P Demarois",
+                "party": "D",
+                "district": "HD 71",
+                "winner": "true",
+                "votes": 3331,
+                "vote_fraction": 0.6192600855177542,
+                "vote_margin": 1283,
+                "percent_margin": 0.23852017103550846
+            },
+            {
+                "name": "H Steiger",
+                "party": "R",
+                "district": "HD 71",
+                "winner": "false",
+                "votes": 2048,
+                "vote_fraction": 0.38073991448224576,
+                "vote_margin": -1283,
+                "percent_margin": -0.23852017103550846
+            }
+        ],
+        "winnerVotes": 3331,
+        "totalVotes": 5379,
+        "winnerParty": "D",
+        "winnerName": "SCOTT P DEMAROIS"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 72",
+        "candidates": [
+            {
+                "name": "Donavon Hawk",
+                "party": "D",
+                "district": "HD 72",
+                "winner": "true",
+                "votes": 3052,
+                "vote_fraction": 0.6247697031729785,
+                "vote_margin": 1219,
+                "percent_margin": 0.249539406345957
+            },
+            {
+                "name": "Andy Johnson",
+                "party": "R",
+                "district": "HD 72",
+                "winner": "false",
+                "votes": 1833,
+                "vote_fraction": 0.37523029682702147,
+                "vote_margin": -1219,
+                "percent_margin": -0.249539406345957
+            }
+        ],
+        "winnerVotes": 3052,
+        "totalVotes": 4885,
+        "winnerParty": "D",
+        "winnerName": "DONAVON HAWK"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 73",
+        "candidates": [
+            {
+                "name": "Jennifer Lynch",
+                "party": "D",
+                "district": "HD 73",
+                "winner": "true",
+                "votes": 2747,
+                "vote_fraction": 0.6178587494376968,
+                "vote_margin": 1048,
+                "percent_margin": 0.23571749887539362
+            },
+            {
+                "name": "Zach Tomaszewski",
+                "party": "R",
+                "district": "HD 73",
+                "winner": "false",
+                "votes": 1699,
+                "vote_fraction": 0.3821412505623032,
+                "vote_margin": -1048,
+                "percent_margin": -0.23571749887539362
+            }
+        ],
+        "winnerVotes": 2747,
+        "totalVotes": 4446,
+        "winnerParty": "D",
+        "winnerName": "JENNIFER LYNCH"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 74",
+        "candidates": [
+            {
+                "name": "Marc J Lee",
+                "party": "D",
+                "district": "HD 74",
+                "winner": "true",
+                "votes": 3729,
+                "vote_fraction": 0.6132215096201282,
+                "vote_margin": 1377,
+                "percent_margin": 0.22644301924025653
+            },
+            {
+                "name": "Trenin Bayless",
+                "party": "R",
+                "district": "HD 74",
+                "winner": "false",
+                "votes": 2352,
+                "vote_fraction": 0.3867784903798717,
+                "vote_margin": -1377,
+                "percent_margin": -0.22644301924025653
+            }
+        ],
+        "winnerVotes": 3729,
+        "totalVotes": 6081,
+        "winnerParty": "D",
+        "winnerName": "MARC J LEE"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 75",
+        "candidates": [
+            {
+                "name": "Marta Bertoglio",
+                "party": "R",
+                "district": "HD 75",
+                "winner": "true",
+                "votes": 5118,
+                "vote_fraction": 0.7105372761349438,
+                "vote_margin": 3033,
+                "percent_margin": 0.42107455226988755
+            },
+            {
+                "name": "Nancy Jane Lien",
+                "party": "D",
+                "district": "HD 75",
+                "winner": "false",
+                "votes": 2085,
+                "vote_fraction": 0.2894627238650562,
+                "vote_margin": -3033,
+                "percent_margin": -0.42107455226988755
+            }
+        ],
+        "winnerVotes": 5118,
+        "totalVotes": 7203,
+        "winnerParty": "R",
+        "winnerName": "MARTA BERTOGLIO"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 76",
+        "candidates": [
+            {
+                "name": "John Fitzpatrick",
+                "party": "R",
+                "district": "HD 76",
+                "winner": "true",
+                "votes": 4894,
+                "vote_fraction": 0.7847979474021809,
+                "vote_margin": 3552,
+                "percent_margin": 0.5695958948043618
+            },
+            {
+                "name": "Elena Gagliano",
+                "party": "L",
+                "district": "HD 76",
+                "winner": "false",
+                "votes": 1342,
+                "vote_fraction": 0.2152020525978191,
+                "vote_margin": -3552,
+                "percent_margin": -0.5695958948043618
+            }
+        ],
+        "winnerVotes": 4894,
+        "totalVotes": 6236,
+        "winnerParty": "R",
+        "winnerName": "JOHN FITZPATRICK"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 77",
+        "candidates": [
+            {
+                "name": "Jeremiah Dawson",
+                "party": "D",
+                "district": "HD 77",
+                "winner": "false",
+                "votes": 1456,
+                "vote_fraction": 0.2144014136356943,
+                "vote_margin": -3879,
+                "percent_margin": -0.5711971727286114
+            },
+            {
+                "name": "Jane Gillette",
+                "party": "R",
+                "district": "HD 77",
+                "winner": "true",
+                "votes": 5335,
+                "vote_fraction": 0.7855985863643057,
+                "vote_margin": 3879,
+                "percent_margin": 0.5711971727286114
+            }
+        ],
+        "winnerVotes": 5335,
+        "totalVotes": 6791,
+        "winnerParty": "R",
+        "winnerName": "JANE GILLETTE"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 78",
+        "candidates": [
+            {
+                "name": "Randyn Gregg",
+                "party": "R",
+                "district": "HD 78",
+                "winner": "true",
+                "votes": 4844,
+                "vote_fraction": 0.7814163574770124,
+                "vote_margin": 3489,
+                "percent_margin": 0.5628327149540249
+            },
+            {
+                "name": "Glenn A Lambert",
+                "party": "D",
+                "district": "HD 78",
+                "winner": "false",
+                "votes": 1355,
+                "vote_fraction": 0.2185836425229876,
+                "vote_margin": -3489,
+                "percent_margin": -0.5628327149540249
+            }
+        ],
+        "winnerVotes": 4844,
+        "totalVotes": 6199,
+        "winnerParty": "R",
+        "winnerName": "RANDYN GREGG"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 79",
+        "candidates": [
+            {
+                "name": "Jill Sark",
+                "party": "R",
+                "district": "HD 79",
+                "winner": "false",
+                "votes": 3071,
+                "vote_fraction": 0.4634772109870208,
+                "vote_margin": -484,
+                "percent_margin": -0.07304557802595835
+            },
+            {
+                "name": "Luke Muszkiewicz",
+                "party": "D",
+                "district": "HD 79",
+                "winner": "true",
+                "votes": 3555,
+                "vote_fraction": 0.5365227890129791,
+                "vote_margin": 484,
+                "percent_margin": 0.07304557802595835
+            }
+        ],
+        "winnerVotes": 3555,
+        "totalVotes": 6626,
+        "winnerParty": "D",
+        "winnerName": "LUKE MUSZKIEWICZ"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 80",
+        "candidates": [
+            {
+                "name": "Rachel Burright",
+                "party": "R",
+                "district": "HD 80",
+                "winner": "false",
+                "votes": 2418,
+                "vote_fraction": 0.46206764762086755,
+                "vote_margin": -397,
+                "percent_margin": -0.07586470475826486
+            },
+            {
+                "name": "Melissa Romano",
+                "party": "D",
+                "district": "HD 80",
+                "winner": "true",
+                "votes": 2815,
+                "vote_fraction": 0.5379323523791324,
+                "vote_margin": 397,
+                "percent_margin": 0.07586470475826486
+            }
+        ],
+        "winnerVotes": 2815,
+        "totalVotes": 5233,
+        "winnerParty": "D",
+        "winnerName": "MELISSA ROMANO"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 81",
+        "candidates": [
+            {
+                "name": "Mary M Caferro",
+                "party": "D",
+                "district": "HD 81",
+                "winner": "true",
+                "votes": 3360,
+                "vote_fraction": 0.5574912891986062,
+                "vote_margin": 693,
+                "percent_margin": 0.11498257839721254
+            },
+            {
+                "name": "Dustin Scott",
+                "party": "R",
+                "district": "HD 81",
+                "winner": "false",
+                "votes": 2667,
+                "vote_fraction": 0.4425087108013937,
+                "vote_margin": -693,
+                "percent_margin": -0.11498257839721254
+            }
+        ],
+        "winnerVotes": 3360,
+        "totalVotes": 6027,
+        "winnerParty": "D",
+        "winnerName": "MARY M CAFERRO"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 82",
+        "candidates": [
+            {
+                "name": "John Looney Sr",
+                "party": "R",
+                "district": "HD 82",
+                "winner": "false",
+                "votes": 2349,
+                "vote_fraction": 0.44922547332185886,
+                "vote_margin": -531,
+                "percent_margin": -0.10154905335628227
+            },
+            {
+                "name": "Pete Elverum",
+                "party": "D",
+                "district": "HD 82",
+                "winner": "true",
+                "votes": 2880,
+                "vote_fraction": 0.5507745266781411,
+                "vote_margin": 531,
+                "percent_margin": 0.10154905335628227
+            }
+        ],
+        "winnerVotes": 2880,
+        "totalVotes": 5229,
+        "winnerParty": "D",
+        "winnerName": "PETE ELVERUM"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 83",
+        "candidates": [
+            {
+                "name": "Jill Cohenour",
+                "party": "D",
+                "district": "HD 83",
+                "winner": "true",
+                "votes": 3421,
+                "vote_fraction": 0.5613718411552346,
+                "vote_margin": 748,
+                "percent_margin": 0.12274368231046931
+            },
+            {
+                "name": "Wes Feist",
+                "party": "R",
+                "district": "HD 83",
+                "winner": "false",
+                "votes": 2673,
+                "vote_fraction": 0.43862815884476536,
+                "vote_margin": -748,
+                "percent_margin": -0.12274368231046931
+            }
+        ],
+        "winnerVotes": 3421,
+        "totalVotes": 6094,
+        "winnerParty": "D",
+        "winnerName": "JILL COHENOUR"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 84",
+        "candidates": [
+            {
+                "name": "Julie Dooling",
+                "party": "R",
+                "district": "HD 84",
+                "winner": "true",
+                "votes": 4571,
+                "vote_fraction": 0.6715146173057147,
+                "vote_margin": 2335,
+                "percent_margin": 0.3430292346114294
+            },
+            {
+                "name": "Michele R Crepeau",
+                "party": "D",
+                "district": "HD 84",
+                "winner": "false",
+                "votes": 2236,
+                "vote_fraction": 0.3284853826942853,
+                "vote_margin": -2335,
+                "percent_margin": -0.3430292346114294
+            }
+        ],
+        "winnerVotes": 4571,
+        "totalVotes": 6807,
+        "winnerParty": "R",
+        "winnerName": "JULIE DOOLING"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 85",
+        "candidates": [
+            {
+                "name": "Kathy Love",
+                "party": "R",
+                "district": "HD 85",
+                "winner": "true",
+                "votes": 5611,
+                "vote_fraction": 0.7697900946631911,
+                "vote_margin": 3933,
+                "percent_margin": 0.5395801893263822
+            },
+            {
+                "name": "Laura Mae Jackson",
+                "party": "D",
+                "district": "HD 85",
+                "winner": "false",
+                "votes": 1678,
+                "vote_fraction": 0.23020990533680888,
+                "vote_margin": -3933,
+                "percent_margin": -0.5395801893263822
+            }
+        ],
+        "winnerVotes": 5611,
+        "totalVotes": 7289,
+        "winnerParty": "R",
+        "winnerName": "KATHY LOVE"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 86",
+        "candidates": [
+            {
+                "name": "David Bedey",
+                "party": "R",
+                "district": "HD 86",
+                "winner": "true",
+                "votes": 4688,
+                "vote_fraction": 0.7160531541163891,
+                "vote_margin": 2829,
+                "percent_margin": 0.43210630823277835
+            },
+            {
+                "name": "Jeff Kempka",
+                "party": "D",
+                "district": "HD 86",
+                "winner": "false",
+                "votes": 1859,
+                "vote_fraction": 0.2839468458836108,
+                "vote_margin": -2829,
+                "percent_margin": -0.43210630823277835
+            }
+        ],
+        "winnerVotes": 4688,
+        "totalVotes": 6547,
+        "winnerParty": "R",
+        "winnerName": "DAVID BEDEY"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 87",
+        "candidates": [
+            {
+                "name": "Ron Marshall",
+                "party": "R",
+                "district": "HD 87",
+                "winner": "true",
+                "votes": 5307,
+                "vote_fraction": 0.7449466591802358,
+                "vote_margin": 3490,
+                "percent_margin": 0.4898933183604716
+            },
+            {
+                "name": "Tammie Milligan",
+                "party": "D",
+                "district": "HD 87",
+                "winner": "false",
+                "votes": 1817,
+                "vote_fraction": 0.25505334081976416,
+                "vote_margin": -3490,
+                "percent_margin": -0.4898933183604716
+            }
+        ],
+        "winnerVotes": 5307,
+        "totalVotes": 7124,
+        "winnerParty": "R",
+        "winnerName": "RON MARSHALL"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 88",
+        "candidates": [
+            {
+                "name": "Greg Overstreet",
+                "party": "R",
+                "district": "HD 88",
+                "winner": "true",
+                "votes": 4988,
+                "vote_fraction": 0.6983060338793224,
+                "vote_margin": 2833,
+                "percent_margin": 0.3966120677586448
+            },
+            {
+                "name": "Evan Schroedel",
+                "party": "D",
+                "district": "HD 88",
+                "winner": "false",
+                "votes": 2155,
+                "vote_fraction": 0.30169396612067756,
+                "vote_margin": -2833,
+                "percent_margin": -0.3966120677586448
+            }
+        ],
+        "winnerVotes": 4988,
+        "totalVotes": 7143,
+        "winnerParty": "R",
+        "winnerName": "GREG OVERSTREET"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 89",
+        "candidates": [
+            {
+                "name": "Lyn Hellegaard",
+                "party": "R",
+                "district": "HD 89",
+                "winner": "false",
+                "votes": 2807,
+                "vote_fraction": 0.44225618402394834,
+                "vote_margin": -733,
+                "percent_margin": -0.11548763195210336
+            },
+            {
+                "name": "Mark A Thane",
+                "party": "D",
+                "district": "HD 89",
+                "winner": "true",
+                "votes": 3540,
+                "vote_fraction": 0.5577438159760517,
+                "vote_margin": 733,
+                "percent_margin": 0.11548763195210336
+            }
+        ],
+        "winnerVotes": 3540,
+        "totalVotes": 6347,
+        "winnerParty": "D",
+        "winnerName": "MARK A THANE"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 90",
+        "candidates": [
+            {
+                "name": "Curtis J Cochran",
+                "party": "R",
+                "district": "HD 90",
+                "winner": "true",
+                "votes": 5270,
+                "vote_fraction": 1.0,
+                "vote_margin": 5270,
+                "percent_margin": 1.0
+            }
+        ],
+        "winnerVotes": 5270,
+        "totalVotes": 5270,
+        "winnerParty": "R",
+        "winnerName": "CURTIS J COCHRAN"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 91",
+        "candidates": [
+            {
+                "name": "Shelly R Fyant",
+                "party": "D",
+                "district": "HD 91",
+                "winner": "true",
+                "votes": 3173,
+                "vote_fraction": 0.5412828386216308,
+                "vote_margin": 484,
+                "percent_margin": 0.08256567724326168
+            },
+            {
+                "name": "David Passieri",
+                "party": "R",
+                "district": "HD 91",
+                "winner": "false",
+                "votes": 2689,
+                "vote_fraction": 0.45871716137836915,
+                "vote_margin": -484,
+                "percent_margin": -0.08256567724326168
+            }
+        ],
+        "winnerVotes": 3173,
+        "totalVotes": 5862,
+        "winnerParty": "D",
+        "winnerName": "SHELLY R FYANT"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 92",
+        "candidates": [
+            {
+                "name": "Connie Keogh",
+                "party": "D",
+                "district": "HD 92",
+                "winner": "true",
+                "votes": 3969,
+                "vote_fraction": 0.6133518776077886,
+                "vote_margin": 1467,
+                "percent_margin": 0.2267037552155772
+            },
+            {
+                "name": "Ted Morgan",
+                "party": "R",
+                "district": "HD 92",
+                "winner": "false",
+                "votes": 2502,
+                "vote_fraction": 0.3866481223922114,
+                "vote_margin": -1467,
+                "percent_margin": -0.2267037552155772
+            }
+        ],
+        "winnerVotes": 3969,
+        "totalVotes": 6471,
+        "winnerParty": "D",
+        "winnerName": "CONNIE KEOGH"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 93",
+        "candidates": [
+            {
+                "name": "Roy Handley",
+                "party": "R",
+                "district": "HD 93",
+                "winner": "false",
+                "votes": 2431,
+                "vote_fraction": 0.38127352572145545,
+                "vote_margin": -1514,
+                "percent_margin": -0.2374529485570891
+            },
+            {
+                "name": "Katie Sullivan",
+                "party": "D",
+                "district": "HD 93",
+                "winner": "true",
+                "votes": 3945,
+                "vote_fraction": 0.6187264742785445,
+                "vote_margin": 1514,
+                "percent_margin": 0.2374529485570891
+            }
+        ],
+        "winnerVotes": 3945,
+        "totalVotes": 6376,
+        "winnerParty": "D",
+        "winnerName": "KATIE SULLIVAN"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 94",
+        "candidates": [
+            {
+                "name": "Marilyn Marler",
+                "party": "D",
+                "district": "HD 94",
+                "winner": "true",
+                "votes": 4034,
+                "vote_fraction": 0.589852317590291,
+                "vote_margin": 1229,
+                "percent_margin": 0.17970463518058197
+            },
+            {
+                "name": "Adam S Henson",
+                "party": "R",
+                "district": "HD 94",
+                "winner": "false",
+                "votes": 2805,
+                "vote_fraction": 0.410147682409709,
+                "vote_margin": -1229,
+                "percent_margin": -0.17970463518058197
+            }
+        ],
+        "winnerVotes": 4034,
+        "totalVotes": 6839,
+        "winnerParty": "D",
+        "winnerName": "MARILYN MARLER"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 95",
+        "candidates": [
+            {
+                "name": "Zooey Zephyr",
+                "party": "D",
+                "district": "HD 95",
+                "winner": "true",
+                "votes": 5073,
+                "vote_fraction": 0.8018018018018018,
+                "vote_margin": 3819,
+                "percent_margin": 0.6036036036036037
+            },
+            {
+                "name": "Barbara W Starmer",
+                "party": "R",
+                "district": "HD 95",
+                "winner": "false",
+                "votes": 1254,
+                "vote_fraction": 0.1981981981981982,
+                "vote_margin": -3819,
+                "percent_margin": -0.6036036036036037
+            }
+        ],
+        "winnerVotes": 5073,
+        "totalVotes": 6327,
+        "winnerParty": "D",
+        "winnerName": "ZOOEY ZEPHYR"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 96",
+        "candidates": [
+            {
+                "name": "Bob Carter",
+                "party": "D",
+                "district": "HD 96",
+                "winner": "true",
+                "votes": 3610,
+                "vote_fraction": 0.6076418111429053,
+                "vote_margin": 1279,
+                "percent_margin": 0.21528362228581047
+            },
+            {
+                "name": "Robert Labair",
+                "party": "R",
+                "district": "HD 96",
+                "winner": "false",
+                "votes": 2331,
+                "vote_fraction": 0.3923581888570948,
+                "vote_margin": -1279,
+                "percent_margin": -0.21528362228581047
+            }
+        ],
+        "winnerVotes": 3610,
+        "totalVotes": 5941,
+        "winnerParty": "D",
+        "winnerName": "BOB CARTER"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 97",
+        "candidates": [
+            {
+                "name": "Richard L Armerding",
+                "party": "L",
+                "district": "HD 97",
+                "winner": "false",
+                "votes": 235,
+                "vote_fraction": 0.03991846441311364,
+                "vote_margin": -3330,
+                "percent_margin": -0.565653134024121
+            },
+            {
+                "name": "Melody Cunningham",
+                "party": "D",
+                "district": "HD 97",
+                "winner": "true",
+                "votes": 3565,
+                "vote_fraction": 0.6055715984372346,
+                "vote_margin": 1478,
+                "percent_margin": 0.2510616612875828
+            },
+            {
+                "name": "Nick Knowles",
+                "party": "R",
+                "district": "HD 97",
+                "winner": "false",
+                "votes": 2087,
+                "vote_fraction": 0.3545099371496518,
+                "vote_margin": -1478,
+                "percent_margin": -0.2510616612875828
+            }
+        ],
+        "winnerVotes": 3565,
+        "totalVotes": 5887,
+        "winnerParty": "D",
+        "winnerName": "MELODY CUNNINGHAM"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 98",
+        "candidates": [
+            {
+                "name": "Jonathan Karlen",
+                "party": "D",
+                "district": "HD 98",
+                "winner": "true",
+                "votes": 3607,
+                "vote_fraction": 0.5807438415714056,
+                "vote_margin": 1003,
+                "percent_margin": 0.16148768314281114
+            },
+            {
+                "name": "Jace Beard",
+                "party": "R",
+                "district": "HD 98",
+                "winner": "false",
+                "votes": 2604,
+                "vote_fraction": 0.4192561584285944,
+                "vote_margin": -1003,
+                "percent_margin": -0.16148768314281114
+            }
+        ],
+        "winnerVotes": 3607,
+        "totalVotes": 6211,
+        "winnerParty": "D",
+        "winnerName": "JONATHAN KARLEN"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 99",
+        "candidates": [
+            {
+                "name": "Tom France",
+                "party": "D",
+                "district": "HD 99",
+                "winner": "true",
+                "votes": 3690,
+                "vote_fraction": 0.5616438356164384,
+                "vote_margin": 810,
+                "percent_margin": 0.1232876712328767
+            },
+            {
+                "name": "Ryan Darling",
+                "party": "R",
+                "district": "HD 99",
+                "winner": "false",
+                "votes": 2880,
+                "vote_fraction": 0.4383561643835616,
+                "vote_margin": -810,
+                "percent_margin": -0.1232876712328767
+            }
+        ],
+        "winnerVotes": 3690,
+        "totalVotes": 6570,
+        "winnerParty": "D",
+        "winnerName": "TOM FRANCE"
+    },
+    {
+        "election": "2022-general",
+        "district": "HD 100",
+        "candidates": [
+            {
+                "name": "Christopher Paul Buckles",
+                "party": "R",
+                "district": "HD 100",
+                "winner": "false",
+                "votes": 1230,
+                "vote_fraction": 0.22234273318872017,
+                "vote_margin": -3072,
+                "percent_margin": -0.5553145336225597
+            },
+            {
+                "name": "Sj Howell",
+                "party": "D",
+                "district": "HD 100",
+                "winner": "true",
+                "votes": 4302,
+                "vote_fraction": 0.7776572668112798,
+                "vote_margin": 3072,
+                "percent_margin": 0.5553145336225597
+            }
+        ],
+        "winnerVotes": 4302,
+        "totalVotes": 5532,
+        "winnerParty": "D",
+        "winnerName": "SJ HOWELL"
+    }
+]
