@@ -5,7 +5,7 @@ import pandas as pd
 import re
 import json
 
-years = ['2014','2016','2018','2020']
+years = ['2014','2016','2018','2020', '2024']
 
 def cat_race(race_name):
     if (re.search(r'STATE SENATOR DISTRICT \d+', race_name)):
