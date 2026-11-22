@@ -1,0 +1,7 @@
+{
+  "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=11&map=CTY",
+  "target": "ctl00$MainContent$rptRace$ctl10$ctl00",
+  "race_id": "450000000004153",
+  "party": "",
+  "downloaded_at": "2026-11-20T20:52:21.117541+00:00"
+}

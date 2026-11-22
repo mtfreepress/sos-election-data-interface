@@ -1,0 +1,2698 @@
+{
+  "year": 2026,
+  "election": "general",
+  "downloaded_at": "2026-11-20T20:49:06.470401+00:00",
+  "requested_counties": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56"
+  ],
+  "files": [
+    {
+      "kind": "statewide",
+      "county_id": null,
+      "path": "statewide.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsExport.aspx",
+      "assembled_from": [],
+      "downloaded_at": "2026-11-20T20:49:07.527728+00:00"
+    },
+    {
+      "kind": "legislative",
+      "county_id": null,
+      "path": "legislative.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsExport.aspx",
+      "assembled_from": [],
+      "downloaded_at": "2026-11-20T20:49:11.362781+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "03",
+      "path": "county-03-blaine.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=03&map=CTY",
+      "assembled_from": [],
+      "downloaded_at": "2026-11-20T20:50:12.404365+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "04",
+      "path": "county-04-broadwater.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=04&map=CTY",
+      "assembled_from": [],
+      "downloaded_at": "2026-11-20T20:50:18.014161+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "06",
+      "path": "county-06-carter.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=06&map=CTY",
+      "assembled_from": [],
+      "downloaded_at": "2026-11-20T20:50:38.053710+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "07",
+      "path": "county-07-cascade.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=07&map=CTY",
+      "assembled_from": [],
+      "downloaded_at": "2026-11-20T20:50:44.701814+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "08",
+      "path": "county-08-chouteau.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=08&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:51:55.392229+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "09",
+      "path": "county-09-custer.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=09&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:52:02.038831+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "10",
+      "path": "county-10-daniels.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=10&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:52:07.823786+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "12",
+      "path": "county-12-deer-lodge.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=12&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:52:34.161496+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "13",
+      "path": "county-13-fallon.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=13&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:52:41.065149+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "14",
+      "path": "county-14-fergus.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=14&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:52:47.475666+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "15",
+      "path": "county-15-flathead.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=15&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:52:54.437312+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "17",
+      "path": "county-17-garfield.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=17&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:53:41.799820+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "18",
+      "path": "county-18-glacier.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=18&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:53:47.538175+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "19",
+      "path": "county-19-golden-valley.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=19&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:53:53.739735+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "21",
+      "path": "county-21-hill.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=21&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:54:16.893739+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "22",
+      "path": "county-22-jefferson.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=22&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:54:23.044495+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "23",
+      "path": "county-23-judith-basin.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=23&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:54:29.012020+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "24",
+      "path": "county-24-lake.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=24&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:54:35.162716+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "25",
+      "path": "county-25-lewis-and-clark.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=25&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:54:41.583418+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "26",
+      "path": "county-26-liberty.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=26&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:54:46.958387+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "29",
+      "path": "county-29-mccone.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=29&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:55:26.638966+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "30",
+      "path": "county-30-meagher.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=30&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:55:32.051806+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "31",
+      "path": "county-31-mineral.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=31&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:55:37.538286+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "32",
+      "path": "county-32-missoula.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=32&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:55:44.343960+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "33",
+      "path": "county-33-musselshell.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=33&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:55:50.123130+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "34",
+      "path": "county-34-park.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=34&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:55:55.775058+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "35",
+      "path": "county-35-petroleum.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=35&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:56:01.408305+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "36",
+      "path": "county-36-phillips.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=36&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:56:07.241607+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "37",
+      "path": "county-37-pondera.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=37&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:56:13.234562+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "38",
+      "path": "county-38-powder-river.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=38&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:56:18.888703+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "39",
+      "path": "county-39-powell.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=39&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:56:24.391337+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "40",
+      "path": "county-40-prairie.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=40&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:56:29.928431+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "42",
+      "path": "county-42-richland.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=42&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:56:59.453283+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "43",
+      "path": "county-43-roosevelt.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=43&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:57:04.879352+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "45",
+      "path": "county-45-sanders.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=45&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:57:24.060254+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "46",
+      "path": "county-46-sheridan.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=46&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:57:29.453097+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "48",
+      "path": "county-48-stillwater.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=48&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:58:02.044863+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "49",
+      "path": "county-49-sweet-grass.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=49&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:58:07.498910+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "50",
+      "path": "county-50-teton.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=50&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:58:13.253892+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "51",
+      "path": "county-51-toole.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=51&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:58:18.956289+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "52",
+      "path": "county-52-treasure.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=52&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:58:24.737530+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "53",
+      "path": "county-53-valley.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=53&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:58:30.480627+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "54",
+      "path": "county-54-wheatland.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=54&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:58:36.075838+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "55",
+      "path": "county-55-wibaux.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=55&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:58:42.048969+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "56",
+      "path": "county-56-yellowstone.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=56&map=CTY",
+      "assembled_from": [],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:58:48.826603+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "20",
+      "path": "county-20-granite.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=20&map=CTY",
+      "assembled_from": [
+        {
+          "path": "race-exports/450000000004069.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl00$ctl00",
+          "race_id": "450000000004069",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:19.132975+00:00"
+        },
+        {
+          "path": "race-exports/450000000004067.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl01$ctl00",
+          "race_id": "450000000004067",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:20.692812+00:00"
+        },
+        {
+          "path": "race-exports/450000000004071.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=20&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl02$ctl00",
+          "race_id": "450000000004071",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:01.510679+00:00"
+        },
+        {
+          "path": "race-exports/450000000004072.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl02$ctl00",
+          "race_id": "450000000004072",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:23.908594+00:00"
+        },
+        {
+          "path": "race-exports/450000000004290.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=20&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl04$ctl00",
+          "race_id": "450000000004290",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:02.532811+00:00"
+        },
+        {
+          "path": "race-exports/450000000004657.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=20&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl05$ctl00",
+          "race_id": "450000000004657",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:03.317629+00:00"
+        },
+        {
+          "path": "race-exports/450000000004654.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=20&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl06$ctl00",
+          "race_id": "450000000004654",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:04.180586+00:00"
+        },
+        {
+          "path": "race-exports/450000000004655.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=20&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl07$ctl00",
+          "race_id": "450000000004655",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:04.977540+00:00"
+        },
+        {
+          "path": "race-exports/450000000004653.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=20&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl08$ctl00",
+          "race_id": "450000000004653",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:05.829572+00:00"
+        },
+        {
+          "path": "race-exports/450000000004656.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=20&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl09$ctl00",
+          "race_id": "450000000004656",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:06.572835+00:00"
+        },
+        {
+          "path": "race-exports/450000000004652.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=20&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl10$ctl00",
+          "race_id": "450000000004652",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:07.319046+00:00"
+        },
+        {
+          "path": "race-exports/450000000005107.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000005107",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:34.323201+00:00"
+        },
+        {
+          "path": "race-exports/450000000005108.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000005108",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:37.842477+00:00"
+        },
+        {
+          "path": "race-exports/450000000005109.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000005109",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:41.434778+00:00"
+        },
+        {
+          "path": "race-exports/450000000005142.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=20&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000005142",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:08.102225+00:00"
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005143",
+          "sources": [
+            {
+              "path": "race-exports/450000000005143-20-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005143&osn=9603&county=20&party=0",
+              "downloaded_at": "2026-11-20T20:59:51.515500+00:00"
+            },
+            {
+              "path": "race-exports/450000000005143-20-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005143&osn=9603&county=20&party=0",
+              "downloaded_at": "2026-11-20T20:59:51.791448+00:00"
+            }
+          ]
+        },
+        {
+          "path": "race-exports/450000000005144.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=20&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl16$ctl00",
+          "race_id": "450000000005144",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:09.885911+00:00"
+        },
+        {
+          "path": "race-exports/450000000005141.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=20&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl17$ctl00",
+          "race_id": "450000000005141",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:10.697712+00:00"
+        }
+      ],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T20:59:51.893866+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "41",
+      "path": "county-41-ravalli.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+      "assembled_from": [
+        {
+          "path": "race-exports/450000000004069.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl00$ctl00",
+          "race_id": "450000000004069",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:19.132975+00:00"
+        },
+        {
+          "path": "race-exports/450000000004067.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl01$ctl00",
+          "race_id": "450000000004067",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:20.692812+00:00"
+        },
+        {
+          "path": "race-exports/450000000004072.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl02$ctl00",
+          "race_id": "450000000004072",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:23.908594+00:00"
+        },
+        {
+          "path": "race-exports/450000000004084.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl03$ctl00",
+          "race_id": "450000000004084",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:37.510654+00:00"
+        },
+        {
+          "path": "race-exports/450000000004130.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl04$ctl00",
+          "race_id": "450000000004130",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:38.329560+00:00"
+        },
+        {
+          "path": "race-exports/450000000004299.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl05$ctl00",
+          "race_id": "450000000004299",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:39.157728+00:00"
+        },
+        {
+          "path": "race-exports/450000000004300.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl06$ctl00",
+          "race_id": "450000000004300",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:40.011182+00:00"
+        },
+        {
+          "path": "race-exports/450000000004301.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl07$ctl00",
+          "race_id": "450000000004301",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:40.853013+00:00"
+        },
+        {
+          "path": "race-exports/450000000004302.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl08$ctl00",
+          "race_id": "450000000004302",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:41.729428+00:00"
+        },
+        {
+          "path": "race-exports/450000000004368.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl09$ctl00",
+          "race_id": "450000000004368",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:42.621204+00:00"
+        },
+        {
+          "path": "race-exports/450000000004594.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl10$ctl00",
+          "race_id": "450000000004594",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:43.391578+00:00"
+        },
+        {
+          "path": "race-exports/450000000004595.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl11$ctl00",
+          "race_id": "450000000004595",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:44.259963+00:00"
+        },
+        {
+          "path": "race-exports/450000000004596.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000004596",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:45.018016+00:00"
+        },
+        {
+          "path": "race-exports/450000000004597.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000004597",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:45.827704+00:00"
+        },
+        {
+          "path": "race-exports/450000000004598.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000004598",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:46.657483+00:00"
+        },
+        {
+          "path": "race-exports/450000000004599.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl15$ctl00",
+          "race_id": "450000000004599",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:47.519676+00:00"
+        },
+        {
+          "path": "race-exports/450000000004600.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl16$ctl00",
+          "race_id": "450000000004600",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:48.354069+00:00"
+        },
+        {
+          "path": "race-exports/450000000004697.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl17$ctl00",
+          "race_id": "450000000004697",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:49.209666+00:00"
+        },
+        {
+          "path": "race-exports/450000000005107.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000005107",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:34.323201+00:00"
+        },
+        {
+          "path": "race-exports/450000000005108.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000005108",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:37.842477+00:00"
+        },
+        {
+          "path": "race-exports/450000000005109.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000005109",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:41.434778+00:00"
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005129",
+          "sources": [
+            {
+              "path": "race-exports/450000000005129-41-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005129&osn=9600&county=41&party=0",
+              "downloaded_at": "2026-11-20T21:00:17.171468+00:00"
+            },
+            {
+              "path": "race-exports/450000000005129-41-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005129&osn=9600&county=41&party=0",
+              "downloaded_at": "2026-11-20T21:00:17.368888+00:00"
+            }
+          ]
+        },
+        {
+          "path": "race-exports/450000000005130.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl22$ctl00",
+          "race_id": "450000000005130",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:51.003763+00:00"
+        },
+        {
+          "path": "race-exports/450000000005133.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl23$ctl00",
+          "race_id": "450000000005133",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:51.851250+00:00"
+        },
+        {
+          "path": "race-exports/450000000005134.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl24$ctl00",
+          "race_id": "450000000005134",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:52.724681+00:00"
+        },
+        {
+          "path": "race-exports/450000000005136.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=41&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl25$ctl00",
+          "race_id": "450000000005136",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:56:53.489249+00:00"
+        }
+      ],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T21:00:17.524055+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "47",
+      "path": "county-47-silver-bow.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+      "assembled_from": [
+        {
+          "path": "race-exports/450000000004069.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl00$ctl00",
+          "race_id": "450000000004069",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:19.132975+00:00"
+        },
+        {
+          "path": "race-exports/450000000004067.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl01$ctl00",
+          "race_id": "450000000004067",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:20.692812+00:00"
+        },
+        {
+          "path": "race-exports/450000000004072.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl02$ctl00",
+          "race_id": "450000000004072",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:23.908594+00:00"
+        },
+        {
+          "path": "race-exports/450000000004284.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl03$ctl00",
+          "race_id": "450000000004284",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:24.773498+00:00"
+        },
+        {
+          "path": "race-exports/450000000004285.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl04$ctl00",
+          "race_id": "450000000004285",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:37.127509+00:00"
+        },
+        {
+          "path": "race-exports/450000000004286.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl05$ctl00",
+          "race_id": "450000000004286",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:37.989646+00:00"
+        },
+        {
+          "path": "race-exports/450000000004287.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl06$ctl00",
+          "race_id": "450000000004287",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:38.859681+00:00"
+        },
+        {
+          "path": "race-exports/450000000004288.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl07$ctl00",
+          "race_id": "450000000004288",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:39.750849+00:00"
+        },
+        {
+          "path": "race-exports/450000000004396.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl08$ctl00",
+          "race_id": "450000000004396",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:40.627767+00:00"
+        },
+        {
+          "path": "race-exports/450000000004397.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl09$ctl00",
+          "race_id": "450000000004397",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:41.462495+00:00"
+        },
+        {
+          "path": "race-exports/450000000004398.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl10$ctl00",
+          "race_id": "450000000004398",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:42.356926+00:00"
+        },
+        {
+          "path": "race-exports/450000000004399.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl11$ctl00",
+          "race_id": "450000000004399",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:43.263483+00:00"
+        },
+        {
+          "path": "race-exports/450000000004400.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000004400",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:44.112170+00:00"
+        },
+        {
+          "path": "race-exports/450000000004401.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000004401",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:44.955352+00:00"
+        },
+        {
+          "path": "race-exports/450000000004582.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000004582",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:45.809342+00:00"
+        },
+        {
+          "path": "race-exports/450000000004583.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl15$ctl00",
+          "race_id": "450000000004583",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:46.632389+00:00"
+        },
+        {
+          "path": "race-exports/450000000004685.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl16$ctl00",
+          "race_id": "450000000004685",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:47.505986+00:00"
+        },
+        {
+          "path": "race-exports/450000000005107.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000005107",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:34.323201+00:00"
+        },
+        {
+          "path": "race-exports/450000000005108.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000005108",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:37.842477+00:00"
+        },
+        {
+          "path": "race-exports/450000000005109.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000005109",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:41.434778+00:00"
+        },
+        {
+          "path": "race-exports/450000000005146.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl20$ctl00",
+          "race_id": "450000000005146",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:48.410467+00:00"
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005147",
+          "sources": [
+            {
+              "path": "race-exports/450000000005147-47-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005147&osn=9602&county=47&party=0",
+              "downloaded_at": "2026-11-20T21:00:34.004739+00:00"
+            },
+            {
+              "path": "race-exports/450000000005147-47-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005147&osn=9602&county=47&party=0",
+              "downloaded_at": "2026-11-20T21:00:34.221933+00:00"
+            }
+          ]
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005148",
+          "sources": [
+            {
+              "path": "race-exports/450000000005148-47-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005148&osn=9603&county=47&party=0",
+              "downloaded_at": "2026-11-20T21:00:35.445598+00:00"
+            },
+            {
+              "path": "race-exports/450000000005148-47-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005148&osn=9603&county=47&party=0",
+              "downloaded_at": "2026-11-20T21:00:35.640944+00:00"
+            }
+          ]
+        },
+        {
+          "path": "race-exports/450000000005149.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl23$ctl00",
+          "race_id": "450000000005149",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:51.259182+00:00"
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005150",
+          "sources": [
+            {
+              "path": "race-exports/450000000005150-47-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005150&osn=9605&county=47&party=0",
+              "downloaded_at": "2026-11-20T21:00:36.896951+00:00"
+            },
+            {
+              "path": "race-exports/450000000005150-47-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005150&osn=9605&county=47&party=0",
+              "downloaded_at": "2026-11-20T21:00:37.090718+00:00"
+            }
+          ]
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005151",
+          "sources": [
+            {
+              "path": "race-exports/450000000005151-47-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005151&osn=9606&county=47&party=0",
+              "downloaded_at": "2026-11-20T21:00:38.468481+00:00"
+            },
+            {
+              "path": "race-exports/450000000005151-47-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005151&osn=9606&county=47&party=0",
+              "downloaded_at": "2026-11-20T21:00:38.627828+00:00"
+            }
+          ]
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005152",
+          "sources": [
+            {
+              "path": "race-exports/450000000005152-47-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005152&osn=9607&county=47&party=0",
+              "downloaded_at": "2026-11-20T21:00:39.793218+00:00"
+            },
+            {
+              "path": "race-exports/450000000005152-47-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005152&osn=9607&county=47&party=0",
+              "downloaded_at": "2026-11-20T21:00:40.004487+00:00"
+            }
+          ]
+        },
+        {
+          "path": "race-exports/450000000005154.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl27$ctl00",
+          "race_id": "450000000005154",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:55.197658+00:00"
+        },
+        {
+          "path": "race-exports/450000000005155.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=47&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl28$ctl00",
+          "race_id": "450000000005155",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:56.063227+00:00"
+        }
+      ],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T21:00:40.147710+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "01",
+      "path": "county-01-beaverhead.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+      "assembled_from": [
+        {
+          "path": "race-exports/450000000004069.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl00$ctl00",
+          "race_id": "450000000004069",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:19.132975+00:00"
+        },
+        {
+          "path": "race-exports/450000000004067.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl01$ctl00",
+          "race_id": "450000000004067",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:20.692812+00:00"
+        },
+        {
+          "path": "race-exports/450000000004072.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl02$ctl00",
+          "race_id": "450000000004072",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:23.908594+00:00"
+        },
+        {
+          "path": "race-exports/450000000004284.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl03$ctl00",
+          "race_id": "450000000004284",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:24.773498+00:00"
+        },
+        {
+          "path": "race-exports/450000000004315.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl04$ctl00",
+          "race_id": "450000000004315",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:25.612779+00:00"
+        },
+        {
+          "path": "race-exports/450000000004721.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl05$ctl00",
+          "race_id": "450000000004721",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:26.324256+00:00"
+        },
+        {
+          "path": "race-exports/450000000004317.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl06$ctl00",
+          "race_id": "450000000004317",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:27.124133+00:00"
+        },
+        {
+          "path": "race-exports/450000000004318.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl07$ctl00",
+          "race_id": "450000000004318",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:27.864666+00:00"
+        },
+        {
+          "path": "race-exports/450000000004319.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl08$ctl00",
+          "race_id": "450000000004319",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:28.627435+00:00"
+        },
+        {
+          "path": "race-exports/450000000004320.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl09$ctl00",
+          "race_id": "450000000004320",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:29.424144+00:00"
+        },
+        {
+          "path": "race-exports/450000000004322.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl10$ctl00",
+          "race_id": "450000000004322",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:30.205610+00:00"
+        },
+        {
+          "path": "race-exports/450000000004323.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl11$ctl00",
+          "race_id": "450000000004323",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:31.016712+00:00"
+        },
+        {
+          "path": "race-exports/450000000005107.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000005107",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:34.323201+00:00"
+        },
+        {
+          "path": "race-exports/450000000005108.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000005108",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:37.842477+00:00"
+        },
+        {
+          "path": "race-exports/450000000005109.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000005109",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:41.434778+00:00"
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005102",
+          "sources": [
+            {
+              "path": "race-exports/450000000005102-01-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005102&osn=9601&county=01&party=0",
+              "downloaded_at": "2026-11-20T20:59:06.094503+00:00"
+            },
+            {
+              "path": "race-exports/450000000005102-01-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005102&osn=9601&county=01&party=0",
+              "downloaded_at": "2026-11-20T20:59:06.300363+00:00"
+            }
+          ]
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005103",
+          "sources": [
+            {
+              "path": "race-exports/450000000005103-01-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005103&osn=9602&county=01&party=0",
+              "downloaded_at": "2026-11-20T20:59:07.459792+00:00"
+            },
+            {
+              "path": "race-exports/450000000005103-01-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005103&osn=9602&county=01&party=0",
+              "downloaded_at": "2026-11-20T20:59:07.618860+00:00"
+            }
+          ]
+        }
+      ],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T21:00:59.453656+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "02",
+      "path": "county-02-big-horn.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+      "assembled_from": [
+        {
+          "path": "race-exports/450000000004069.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl00$ctl00",
+          "race_id": "450000000004069",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:19.132975+00:00"
+        },
+        {
+          "path": "race-exports/450000000004068.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl01$ctl00",
+          "race_id": "450000000004068",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:51.400736+00:00"
+        },
+        {
+          "path": "race-exports/450000000004070.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl02$ctl00",
+          "race_id": "450000000004070",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:53.534259+00:00"
+        },
+        {
+          "path": "race-exports/450000000004072.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl02$ctl00",
+          "race_id": "450000000004072",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:23.908594+00:00"
+        },
+        {
+          "path": "race-exports/450000000004118.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl04$ctl00",
+          "race_id": "450000000004118",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:54.725074+00:00"
+        },
+        {
+          "path": "race-exports/450000000004236.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl05$ctl00",
+          "race_id": "450000000004236",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:55.816469+00:00"
+        },
+        {
+          "path": "race-exports/450000000004242.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl06$ctl00",
+          "race_id": "450000000004242",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:56.773396+00:00"
+        },
+        {
+          "path": "race-exports/450000000004243.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl07$ctl00",
+          "race_id": "450000000004243",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:57.700598+00:00"
+        },
+        {
+          "path": "race-exports/450000000004485.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl08$ctl00",
+          "race_id": "450000000004485",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:58.607281+00:00"
+        },
+        {
+          "path": "race-exports/450000000004682.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl09$ctl00",
+          "race_id": "450000000004682",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:50:00.045345+00:00"
+        },
+        {
+          "path": "race-exports/450000000004536.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl10$ctl00",
+          "race_id": "450000000004536",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:50:00.842476+00:00"
+        },
+        {
+          "path": "race-exports/450000000004684.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl11$ctl00",
+          "race_id": "450000000004684",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:50:01.728861+00:00"
+        },
+        {
+          "path": "race-exports/450000000004681.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000004681",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:50:02.565830+00:00"
+        },
+        {
+          "path": "race-exports/450000000004687.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000004687",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:50:03.343326+00:00"
+        },
+        {
+          "path": "race-exports/450000000004683.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000004683",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:50:04.228838+00:00"
+        },
+        {
+          "path": "race-exports/450000000004686.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl15$ctl00",
+          "race_id": "450000000004686",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:50:05.086239+00:00"
+        },
+        {
+          "path": "race-exports/450000000005107.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000005107",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:34.323201+00:00"
+        },
+        {
+          "path": "race-exports/450000000005108.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000005108",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:37.842477+00:00"
+        },
+        {
+          "path": "race-exports/450000000005109.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000005109",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:41.434778+00:00"
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005159",
+          "sources": [
+            {
+              "path": "race-exports/450000000005159-02-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005159&osn=9600&county=02&party=0",
+              "downloaded_at": "2026-11-20T20:59:15.538499+00:00"
+            },
+            {
+              "path": "race-exports/450000000005159-02-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005159&osn=9600&county=02&party=0",
+              "downloaded_at": "2026-11-20T20:59:15.735746+00:00"
+            }
+          ]
+        }
+      ],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T21:01:06.122924+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "05",
+      "path": "county-05-carbon.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=05&map=CTY",
+      "assembled_from": [
+        {
+          "path": "race-exports/450000000004069.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl00$ctl00",
+          "race_id": "450000000004069",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:19.132975+00:00"
+        },
+        {
+          "path": "race-exports/450000000004068.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl01$ctl00",
+          "race_id": "450000000004068",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:51.400736+00:00"
+        },
+        {
+          "path": "race-exports/450000000004072.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl02$ctl00",
+          "race_id": "450000000004072",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:23.908594+00:00"
+        },
+        {
+          "path": "race-exports/450000000004123.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=05&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl03$ctl00",
+          "race_id": "450000000004123",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:50:25.353510+00:00"
+        },
+        {
+          "path": "race-exports/450000000004260.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=05&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl04$ctl00",
+          "race_id": "450000000004260",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:50:26.224292+00:00"
+        },
+        {
+          "path": "race-exports/450000000004061.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=05&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl05$ctl00",
+          "race_id": "450000000004061",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:50:26.985960+00:00"
+        },
+        {
+          "path": "race-exports/450000000004062.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=05&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl06$ctl00",
+          "race_id": "450000000004062",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:50:27.819516+00:00"
+        },
+        {
+          "path": "race-exports/450000000004063.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=05&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl07$ctl00",
+          "race_id": "450000000004063",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:50:28.645880+00:00"
+        },
+        {
+          "path": "race-exports/450000000004064.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=05&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl08$ctl00",
+          "race_id": "450000000004064",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:50:29.516235+00:00"
+        },
+        {
+          "path": "race-exports/450000000004065.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=05&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl09$ctl00",
+          "race_id": "450000000004065",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:50:30.320189+00:00"
+        },
+        {
+          "path": "race-exports/450000000004066.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=05&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl10$ctl00",
+          "race_id": "450000000004066",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:50:31.149163+00:00"
+        },
+        {
+          "path": "race-exports/450000000005107.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000005107",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:34.323201+00:00"
+        },
+        {
+          "path": "race-exports/450000000005108.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000005108",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:37.842477+00:00"
+        },
+        {
+          "path": "race-exports/450000000005109.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000005109",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:41.434778+00:00"
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005112",
+          "sources": [
+            {
+              "path": "race-exports/450000000005112-05-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005112&osn=9601&county=05&party=0",
+              "downloaded_at": "2026-11-20T20:59:23.460210+00:00"
+            },
+            {
+              "path": "race-exports/450000000005112-05-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005112&osn=9601&county=05&party=0",
+              "downloaded_at": "2026-11-20T20:59:23.628552+00:00"
+            }
+          ]
+        }
+      ],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T21:01:12.417355+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "11",
+      "path": "county-11-dawson.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=11&map=CTY",
+      "assembled_from": [
+        {
+          "path": "race-exports/450000000004069.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl00$ctl00",
+          "race_id": "450000000004069",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:19.132975+00:00"
+        },
+        {
+          "path": "race-exports/450000000004068.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl01$ctl00",
+          "race_id": "450000000004068",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:51.400736+00:00"
+        },
+        {
+          "path": "race-exports/450000000004070.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl02$ctl00",
+          "race_id": "450000000004070",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:53.534259+00:00"
+        },
+        {
+          "path": "race-exports/450000000004072.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl02$ctl00",
+          "race_id": "450000000004072",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:23.908594+00:00"
+        },
+        {
+          "path": "race-exports/450000000004075.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=11&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl04$ctl00",
+          "race_id": "450000000004075",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:52:15.844379+00:00"
+        },
+        {
+          "path": "race-exports/450000000004234.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=11&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl05$ctl00",
+          "race_id": "450000000004234",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:52:16.814137+00:00"
+        },
+        {
+          "path": "race-exports/450000000004149.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=11&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl06$ctl00",
+          "race_id": "450000000004149",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:52:17.632775+00:00"
+        },
+        {
+          "path": "race-exports/450000000004150.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=11&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl07$ctl00",
+          "race_id": "450000000004150",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:52:18.486972+00:00"
+        },
+        {
+          "path": "race-exports/450000000004151.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=11&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl08$ctl00",
+          "race_id": "450000000004151",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:52:19.360044+00:00"
+        },
+        {
+          "path": "race-exports/450000000004152.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=11&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl09$ctl00",
+          "race_id": "450000000004152",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:52:20.231044+00:00"
+        },
+        {
+          "path": "race-exports/450000000004153.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=11&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl10$ctl00",
+          "race_id": "450000000004153",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:52:21.117541+00:00"
+        },
+        {
+          "path": "race-exports/450000000004154.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=11&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl11$ctl00",
+          "race_id": "450000000004154",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:52:21.997968+00:00"
+        },
+        {
+          "path": "race-exports/450000000004155.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=11&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000004155",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:52:22.805777+00:00"
+        },
+        {
+          "path": "race-exports/450000000004156.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=11&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000004156",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:52:23.706578+00:00"
+        },
+        {
+          "path": "race-exports/450000000004157.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=11&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000004157",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:52:24.525726+00:00"
+        },
+        {
+          "path": "race-exports/450000000005107.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000005107",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:34.323201+00:00"
+        },
+        {
+          "path": "race-exports/450000000005108.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000005108",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:37.842477+00:00"
+        },
+        {
+          "path": "race-exports/450000000005109.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000005109",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:41.434778+00:00"
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005095",
+          "sources": [
+            {
+              "path": "race-exports/450000000005095-11-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005095&osn=9602&county=11&party=0",
+              "downloaded_at": "2026-11-20T20:59:31.623782+00:00"
+            },
+            {
+              "path": "race-exports/450000000005095-11-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005095&osn=9602&county=11&party=0",
+              "downloaded_at": "2026-11-20T20:59:31.821444+00:00"
+            }
+          ]
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005097",
+          "sources": [
+            {
+              "path": "race-exports/450000000005097-11-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005097&osn=9603&county=11&party=0",
+              "downloaded_at": "2026-11-20T20:59:33.088355+00:00"
+            },
+            {
+              "path": "race-exports/450000000005097-11-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005097&osn=9603&county=11&party=0",
+              "downloaded_at": "2026-11-20T20:59:33.316266+00:00"
+            }
+          ]
+        },
+        {
+          "path": "race-exports/450000000005098.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=11&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl20$ctl00",
+          "race_id": "450000000005098",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:52:27.701178+00:00"
+        }
+      ],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T21:01:19.340351+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "16",
+      "path": "county-16-gallatin.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+      "assembled_from": [
+        {
+          "path": "race-exports/450000000004069.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl00$ctl00",
+          "race_id": "450000000004069",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:19.132975+00:00"
+        },
+        {
+          "path": "race-exports/450000000004067.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl01$ctl00",
+          "race_id": "450000000004067",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:20.692812+00:00"
+        },
+        {
+          "path": "race-exports/450000000004072.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl02$ctl00",
+          "race_id": "450000000004072",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:23.908594+00:00"
+        },
+        {
+          "path": "race-exports/450000000004081.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl03$ctl00",
+          "race_id": "450000000004081",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:04.302194+00:00"
+        },
+        {
+          "path": "race-exports/450000000004124.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl04$ctl00",
+          "race_id": "450000000004124",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:05.275326+00:00"
+        },
+        {
+          "path": "race-exports/450000000004125.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl05$ctl00",
+          "race_id": "450000000004125",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:06.163381+00:00"
+        },
+        {
+          "path": "race-exports/450000000004126.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl06$ctl00",
+          "race_id": "450000000004126",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:07.092188+00:00"
+        },
+        {
+          "path": "race-exports/450000000004127.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl07$ctl00",
+          "race_id": "450000000004127",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:07.933761+00:00"
+        },
+        {
+          "path": "race-exports/450000000004262.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl08$ctl00",
+          "race_id": "450000000004262",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:08.979217+00:00"
+        },
+        {
+          "path": "race-exports/450000000004264.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl09$ctl00",
+          "race_id": "450000000004264",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:09.954178+00:00"
+        },
+        {
+          "path": "race-exports/450000000004265.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl10$ctl00",
+          "race_id": "450000000004265",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:10.829916+00:00"
+        },
+        {
+          "path": "race-exports/450000000004266.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl11$ctl00",
+          "race_id": "450000000004266",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:11.790008+00:00"
+        },
+        {
+          "path": "race-exports/450000000004267.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000004267",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:12.700102+00:00"
+        },
+        {
+          "path": "race-exports/450000000004268.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000004268",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:13.615938+00:00"
+        },
+        {
+          "path": "race-exports/450000000004269.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000004269",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:14.574662+00:00"
+        },
+        {
+          "path": "race-exports/450000000004270.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl15$ctl00",
+          "race_id": "450000000004270",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:15.497061+00:00"
+        },
+        {
+          "path": "race-exports/450000000004271.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl16$ctl00",
+          "race_id": "450000000004271",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:16.436659+00:00"
+        },
+        {
+          "path": "race-exports/450000000004272.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl17$ctl00",
+          "race_id": "450000000004272",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:17.335421+00:00"
+        },
+        {
+          "path": "race-exports/450000000004273.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl18$ctl00",
+          "race_id": "450000000004273",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:18.253101+00:00"
+        },
+        {
+          "path": "race-exports/450000000004283.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl19$ctl00",
+          "race_id": "450000000004283",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:19.293693+00:00"
+        },
+        {
+          "path": "race-exports/450000000004291.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl20$ctl00",
+          "race_id": "450000000004291",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:20.294957+00:00"
+        },
+        {
+          "path": "race-exports/450000000004163.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl21$ctl00",
+          "race_id": "450000000004163",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:21.195952+00:00"
+        },
+        {
+          "path": "race-exports/450000000004164.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl22$ctl00",
+          "race_id": "450000000004164",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:22.078868+00:00"
+        },
+        {
+          "path": "race-exports/450000000004162.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl23$ctl00",
+          "race_id": "450000000004162",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:23.109318+00:00"
+        },
+        {
+          "path": "race-exports/450000000004168.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl24$ctl00",
+          "race_id": "450000000004168",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:23.965532+00:00"
+        },
+        {
+          "path": "race-exports/450000000004160.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl25$ctl00",
+          "race_id": "450000000004160",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:24.992056+00:00"
+        },
+        {
+          "path": "race-exports/450000000004169.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl26$ctl00",
+          "race_id": "450000000004169",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:26.001821+00:00"
+        },
+        {
+          "path": "race-exports/450000000004161.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl27$ctl00",
+          "race_id": "450000000004161",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:26.873573+00:00"
+        },
+        {
+          "path": "race-exports/450000000004170.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl28$ctl00",
+          "race_id": "450000000004170",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:27.870026+00:00"
+        },
+        {
+          "path": "race-exports/450000000004165.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl29$ctl00",
+          "race_id": "450000000004165",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:28.741550+00:00"
+        },
+        {
+          "path": "race-exports/450000000004167.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl30$ctl00",
+          "race_id": "450000000004167",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:29.678934+00:00"
+        },
+        {
+          "path": "race-exports/450000000005107.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000005107",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:34.323201+00:00"
+        },
+        {
+          "path": "race-exports/450000000005108.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000005108",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:37.842477+00:00"
+        },
+        {
+          "path": "race-exports/450000000005109.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000005109",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:41.434778+00:00"
+        },
+        {
+          "path": "race-exports/450000000005091.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl34$ctl00",
+          "race_id": "450000000005091",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:30.698896+00:00"
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005093",
+          "sources": [
+            {
+              "path": "race-exports/450000000005093-16-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005093&osn=9620&county=16&party=0",
+              "downloaded_at": "2026-11-20T20:59:42.255528+00:00"
+            },
+            {
+              "path": "race-exports/450000000005093-16-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005093&osn=9620&county=16&party=0",
+              "downloaded_at": "2026-11-20T20:59:42.453201+00:00"
+            }
+          ]
+        },
+        {
+          "path": "race-exports/450000000005104.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl36$ctl00",
+          "race_id": "450000000005104",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:32.732517+00:00"
+        },
+        {
+          "path": "race-exports/450000000005105.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl37$ctl00",
+          "race_id": "450000000005105",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:33.646362+00:00"
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005106",
+          "sources": [
+            {
+              "path": "race-exports/450000000005106-16-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005106&osn=9623&county=16&party=0",
+              "downloaded_at": "2026-11-20T20:59:43.773555+00:00"
+            },
+            {
+              "path": "race-exports/450000000005106-16-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005106&osn=9623&county=16&party=0",
+              "downloaded_at": "2026-11-20T20:59:43.995832+00:00"
+            }
+          ]
+        },
+        {
+          "path": "race-exports/450000000005092.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl39$ctl00",
+          "race_id": "450000000005092",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:35.566380+00:00"
+        }
+      ],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T21:01:27.542873+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "27",
+      "path": "county-27-lincoln.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=27&map=CTY",
+      "assembled_from": [
+        {
+          "path": "race-exports/450000000004069.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl00$ctl00",
+          "race_id": "450000000004069",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:19.132975+00:00"
+        },
+        {
+          "path": "race-exports/450000000004067.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl01$ctl00",
+          "race_id": "450000000004067",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:20.692812+00:00"
+        },
+        {
+          "path": "race-exports/450000000004072.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl02$ctl00",
+          "race_id": "450000000004072",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:23.908594+00:00"
+        },
+        {
+          "path": "race-exports/450000000004085.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=27&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl03$ctl00",
+          "race_id": "450000000004085",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:54.286332+00:00"
+        },
+        {
+          "path": "race-exports/450000000004134.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=27&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl04$ctl00",
+          "race_id": "450000000004134",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:55.114242+00:00"
+        },
+        {
+          "path": "race-exports/450000000004135.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=27&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl05$ctl00",
+          "race_id": "450000000004135",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:55.976212+00:00"
+        },
+        {
+          "path": "race-exports/450000000004274.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=27&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl06$ctl00",
+          "race_id": "450000000004274",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:56.721352+00:00"
+        },
+        {
+          "path": "race-exports/450000000004275.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=27&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl07$ctl00",
+          "race_id": "450000000004275",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:57.525269+00:00"
+        },
+        {
+          "path": "race-exports/450000000004276.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=27&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl08$ctl00",
+          "race_id": "450000000004276",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:58.329721+00:00"
+        },
+        {
+          "path": "race-exports/450000000004277.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=27&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl09$ctl00",
+          "race_id": "450000000004277",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:54:59.186032+00:00"
+        },
+        {
+          "path": "race-exports/450000000004278.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=27&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl10$ctl00",
+          "race_id": "450000000004278",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:55:00.037693+00:00"
+        },
+        {
+          "path": "race-exports/450000000004279.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=27&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl11$ctl00",
+          "race_id": "450000000004279",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:55:00.833515+00:00"
+        },
+        {
+          "path": "race-exports/450000000004280.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=27&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000004280",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:55:01.631830+00:00"
+        },
+        {
+          "path": "race-exports/450000000004281.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=27&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000004281",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:55:02.502854+00:00"
+        },
+        {
+          "path": "race-exports/450000000004717.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=27&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000004717",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:55:03.293593+00:00"
+        },
+        {
+          "path": "race-exports/450000000005107.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000005107",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:34.323201+00:00"
+        },
+        {
+          "path": "race-exports/450000000005108.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000005108",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:37.842477+00:00"
+        },
+        {
+          "path": "race-exports/450000000005109.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000005109",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:41.434778+00:00"
+        },
+        {
+          "path": "race-exports/450000000005127.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=27&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl18$ctl00",
+          "race_id": "450000000005127",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:55:04.168399+00:00"
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005128",
+          "sources": [
+            {
+              "path": "race-exports/450000000005128-27-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005128&osn=9602&county=27&party=0",
+              "downloaded_at": "2026-11-20T20:59:59.325235+00:00"
+            },
+            {
+              "path": "race-exports/450000000005128-27-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005128&osn=9602&county=27&party=0",
+              "downloaded_at": "2026-11-20T20:59:59.524534+00:00"
+            }
+          ]
+        }
+      ],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T21:01:34.141378+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "28",
+      "path": "county-28-madison.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=28&map=CTY",
+      "assembled_from": [
+        {
+          "path": "race-exports/450000000004069.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl00$ctl00",
+          "race_id": "450000000004069",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:19.132975+00:00"
+        },
+        {
+          "path": "race-exports/450000000004067.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl01$ctl00",
+          "race_id": "450000000004067",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:20.692812+00:00"
+        },
+        {
+          "path": "race-exports/450000000004072.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl02$ctl00",
+          "race_id": "450000000004072",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:23.908594+00:00"
+        },
+        {
+          "path": "race-exports/450000000004265.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl10$ctl00",
+          "race_id": "450000000004265",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:10.829916+00:00"
+        },
+        {
+          "path": "race-exports/450000000004283.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=16&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl19$ctl00",
+          "race_id": "450000000004283",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:53:19.293693+00:00"
+        },
+        {
+          "path": "race-exports/450000000004096.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=28&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl05$ctl00",
+          "race_id": "450000000004096",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:55:11.848539+00:00"
+        },
+        {
+          "path": "race-exports/450000000004722.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=28&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl06$ctl00",
+          "race_id": "450000000004722",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:55:12.656858+00:00"
+        },
+        {
+          "path": "race-exports/450000000004723.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=28&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl07$ctl00",
+          "race_id": "450000000004723",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:55:13.412493+00:00"
+        },
+        {
+          "path": "race-exports/450000000004099.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=28&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl08$ctl00",
+          "race_id": "450000000004099",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:55:14.163659+00:00"
+        },
+        {
+          "path": "race-exports/450000000004100.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=28&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl09$ctl00",
+          "race_id": "450000000004100",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:55:14.917928+00:00"
+        },
+        {
+          "path": "race-exports/450000000004101.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=28&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl10$ctl00",
+          "race_id": "450000000004101",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:55:15.663695+00:00"
+        },
+        {
+          "path": "race-exports/450000000004102.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=28&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl11$ctl00",
+          "race_id": "450000000004102",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:55:16.369663+00:00"
+        },
+        {
+          "path": "race-exports/450000000004103.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=28&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000004103",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:55:17.153072+00:00"
+        },
+        {
+          "path": "race-exports/450000000005107.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000005107",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:34.323201+00:00"
+        },
+        {
+          "path": "race-exports/450000000005108.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000005108",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:37.842477+00:00"
+        },
+        {
+          "path": "race-exports/450000000005109.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000005109",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:41.434778+00:00"
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005114",
+          "sources": [
+            {
+              "path": "race-exports/450000000005114-28-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005114&osn=9600&county=28&party=0",
+              "downloaded_at": "2026-11-20T21:00:07.668141+00:00"
+            },
+            {
+              "path": "race-exports/450000000005114-28-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005114&osn=9600&county=28&party=0",
+              "downloaded_at": "2026-11-20T21:00:07.878957+00:00"
+            }
+          ]
+        },
+        {
+          "path": "race-exports/450000000005115.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=28&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl17$ctl00",
+          "race_id": "450000000005115",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:55:18.938670+00:00"
+        },
+        {
+          "path": "race-exports/450000000005118.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=28&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl18$ctl00",
+          "race_id": "450000000005118",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:55:19.732874+00:00"
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005119",
+          "sources": [
+            {
+              "path": "race-exports/450000000005119-28-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005119&osn=9603&county=28&party=0",
+              "downloaded_at": "2026-11-20T21:00:09.006690+00:00"
+            },
+            {
+              "path": "race-exports/450000000005119-28-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005119&osn=9603&county=28&party=0",
+              "downloaded_at": "2026-11-20T21:00:09.203893+00:00"
+            }
+          ]
+        }
+      ],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T21:01:46.926599+00:00"
+    },
+    {
+      "kind": "county",
+      "county_id": "44",
+      "path": "county-44-rosebud.xlsx",
+      "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=44&map=CTY",
+      "assembled_from": [
+        {
+          "path": "race-exports/450000000004069.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl00$ctl00",
+          "race_id": "450000000004069",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:19.132975+00:00"
+        },
+        {
+          "path": "race-exports/450000000004068.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl01$ctl00",
+          "race_id": "450000000004068",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:51.400736+00:00"
+        },
+        {
+          "path": "race-exports/450000000004070.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl02$ctl00",
+          "race_id": "450000000004070",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:53.534259+00:00"
+        },
+        {
+          "path": "race-exports/450000000004072.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl02$ctl00",
+          "race_id": "450000000004072",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:23.908594+00:00"
+        },
+        {
+          "path": "race-exports/450000000004118.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl04$ctl00",
+          "race_id": "450000000004118",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:54.725074+00:00"
+        },
+        {
+          "path": "race-exports/450000000004236.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl05$ctl00",
+          "race_id": "450000000004236",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:55.816469+00:00"
+        },
+        {
+          "path": "race-exports/450000000004242.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=02&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl06$ctl00",
+          "race_id": "450000000004242",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:56.773396+00:00"
+        },
+        {
+          "path": "race-exports/450000000004395.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=44&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl07$ctl00",
+          "race_id": "450000000004395",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:12.149368+00:00"
+        },
+        {
+          "path": "race-exports/450000000004418.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=44&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl08$ctl00",
+          "race_id": "450000000004418",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:13.045337+00:00"
+        },
+        {
+          "path": "race-exports/450000000004420.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=44&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl09$ctl00",
+          "race_id": "450000000004420",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:13.817492+00:00"
+        },
+        {
+          "path": "race-exports/450000000004421.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=44&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl10$ctl00",
+          "race_id": "450000000004421",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:14.662745+00:00"
+        },
+        {
+          "path": "race-exports/450000000004422.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=44&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl11$ctl00",
+          "race_id": "450000000004422",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:15.463728+00:00"
+        },
+        {
+          "path": "race-exports/450000000004423.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=44&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000004423",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:16.315075+00:00"
+        },
+        {
+          "path": "race-exports/450000000004424.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=44&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000004424",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:57:17.141929+00:00"
+        },
+        {
+          "path": "race-exports/450000000005107.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl12$ctl00",
+          "race_id": "450000000005107",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:34.323201+00:00"
+        },
+        {
+          "path": "race-exports/450000000005108.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl13$ctl00",
+          "race_id": "450000000005108",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:37.842477+00:00"
+        },
+        {
+          "path": "race-exports/450000000005109.xlsx",
+          "url": "https://electionresults.mt.gov/ResultsSW.aspx?type=CTYALL&cty=01&map=CTY",
+          "target": "ctl00$MainContent$rptRace$ctl14$ctl00",
+          "race_id": "450000000005109",
+          "party": "",
+          "downloaded_at": "2026-11-20T20:49:41.434778+00:00"
+        },
+        {
+          "source_type": "api",
+          "race_id": "450000000005139",
+          "sources": [
+            {
+              "path": "race-exports/450000000005139-44-0-prec.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=PREC&raceID=450000000005139&osn=9601&county=44&party=0",
+              "downloaded_at": "2026-11-20T21:00:25.699778+00:00"
+            },
+            {
+              "path": "race-exports/450000000005139-44-0-cty.json",
+              "url": "https://esersws.mt.gov/ResultsAjax.svc/GetMapData?type=COUNTY&category=CTY&raceID=450000000005139&osn=9601&county=44&party=0",
+              "downloaded_at": "2026-11-20T21:00:25.894592+00:00"
+            }
+          ]
+        }
+      ],
+      "incomplete_races": [],
+      "downloaded_at": "2026-11-20T21:01:53.751264+00:00"
+    }
+  ],
+  "failures": [],
+  "write_ins": "Not reported by the live SOS site; obtain separately."
+}

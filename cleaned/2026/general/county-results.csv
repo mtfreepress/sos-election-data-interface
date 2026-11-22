@@ -1,0 +1,1388 @@
+election,type,race,race_name,key,county,precinct,party,candidate,votes
+2026-gen,statewide,us-senate,U.S. Senate,BEAVERHEAD,BEAVERHEAD,,Republican,KURT ALME,2805
+2026-gen,statewide,us-senate,U.S. Senate,BIG HORN,BIG HORN,,Republican,KURT ALME,1296
+2026-gen,statewide,us-senate,U.S. Senate,BLAINE,BLAINE,,Republican,KURT ALME,979
+2026-gen,statewide,us-senate,U.S. Senate,BROADWATER,BROADWATER,,Republican,KURT ALME,2530
+2026-gen,statewide,us-senate,U.S. Senate,CARBON,CARBON,,Republican,KURT ALME,3349
+2026-gen,statewide,us-senate,U.S. Senate,CARTER,CARTER,,Republican,KURT ALME,565
+2026-gen,statewide,us-senate,U.S. Senate,CASCADE,CASCADE,,Republican,KURT ALME,14222
+2026-gen,statewide,us-senate,U.S. Senate,CHOUTEAU,CHOUTEAU,,Republican,KURT ALME,1262
+2026-gen,statewide,us-senate,U.S. Senate,CUSTER,CUSTER,,Republican,KURT ALME,2766
+2026-gen,statewide,us-senate,U.S. Senate,DANIELS,DANIELS,,Republican,KURT ALME,593
+2026-gen,statewide,us-senate,U.S. Senate,DAWSON,DAWSON,,Republican,KURT ALME,2285
+2026-gen,statewide,us-senate,U.S. Senate,DEER LODGE,DEER LODGE,,Republican,KURT ALME,1458
+2026-gen,statewide,us-senate,U.S. Senate,FALLON,FALLON,,Republican,KURT ALME,931
+2026-gen,statewide,us-senate,U.S. Senate,FERGUS,FERGUS,,Republican,KURT ALME,3414
+2026-gen,statewide,us-senate,U.S. Senate,FLATHEAD,FLATHEAD,,Republican,KURT ALME,30359
+2026-gen,statewide,us-senate,U.S. Senate,GALLATIN,GALLATIN,,Republican,KURT ALME,20817
+2026-gen,statewide,us-senate,U.S. Senate,GARFIELD,GARFIELD,,Republican,KURT ALME,549
+2026-gen,statewide,us-senate,U.S. Senate,GLACIER,GLACIER,,Republican,KURT ALME,1175
+2026-gen,statewide,us-senate,U.S. Senate,GOLDEN VALLEY,GOLDEN VALLEY,,Republican,KURT ALME,292
+2026-gen,statewide,us-senate,U.S. Senate,GRANITE,GRANITE,,Republican,KURT ALME,1078
+2026-gen,statewide,us-senate,U.S. Senate,HILL,HILL,,Republican,KURT ALME,2321
+2026-gen,statewide,us-senate,U.S. Senate,JEFFERSON,JEFFERSON,,Republican,KURT ALME,3884
+2026-gen,statewide,us-senate,U.S. Senate,JUDITH BASIN,JUDITH BASIN,,Republican,KURT ALME,759
+2026-gen,statewide,us-senate,U.S. Senate,LAKE,LAKE,,Republican,KURT ALME,7110
+2026-gen,statewide,us-senate,U.S. Senate,LEWIS AND CLARK,LEWIS AND CLARK,,Republican,KURT ALME,14188
+2026-gen,statewide,us-senate,U.S. Senate,LIBERTY,LIBERTY,,Republican,KURT ALME,487
+2026-gen,statewide,us-senate,U.S. Senate,LINCOLN,LINCOLN,,Republican,KURT ALME,6953
+2026-gen,statewide,us-senate,U.S. Senate,MADISON,MADISON,,Republican,KURT ALME,3221
+2026-gen,statewide,us-senate,U.S. Senate,MCCONE,MCCONE,,Republican,KURT ALME,663
+2026-gen,statewide,us-senate,U.S. Senate,MEAGHER,MEAGHER,,Republican,KURT ALME,623
+2026-gen,statewide,us-senate,U.S. Senate,MINERAL,MINERAL,,Republican,KURT ALME,1476
+2026-gen,statewide,us-senate,U.S. Senate,MISSOULA,MISSOULA,,Republican,KURT ALME,16632
+2026-gen,statewide,us-senate,U.S. Senate,MUSSELSHELL,MUSSELSHELL,,Republican,KURT ALME,1819
+2026-gen,statewide,us-senate,U.S. Senate,PARK,PARK,,Republican,KURT ALME,4050
+2026-gen,statewide,us-senate,U.S. Senate,PETROLEUM,PETROLEUM,,Republican,KURT ALME,199
+2026-gen,statewide,us-senate,U.S. Senate,PHILLIPS,PHILLIPS,,Republican,KURT ALME,1231
+2026-gen,statewide,us-senate,U.S. Senate,PONDERA,PONDERA,,Republican,KURT ALME,1356
+2026-gen,statewide,us-senate,U.S. Senate,POWDER RIVER,POWDER RIVER,,Republican,KURT ALME,666
+2026-gen,statewide,us-senate,U.S. Senate,POWELL,POWELL,,Republican,KURT ALME,1734
+2026-gen,statewide,us-senate,U.S. Senate,PRAIRIE,PRAIRIE,,Republican,KURT ALME,403
+2026-gen,statewide,us-senate,U.S. Senate,RAVALLI,RAVALLI,,Republican,KURT ALME,14499
+2026-gen,statewide,us-senate,U.S. Senate,RICHLAND,RICHLAND,,Republican,KURT ALME,2663
+2026-gen,statewide,us-senate,U.S. Senate,ROOSEVELT,ROOSEVELT,,Republican,KURT ALME,1116
+2026-gen,statewide,us-senate,U.S. Senate,ROSEBUD,ROSEBUD,,Republican,KURT ALME,1636
+2026-gen,statewide,us-senate,U.S. Senate,SANDERS,SANDERS,,Republican,KURT ALME,4608
+2026-gen,statewide,us-senate,U.S. Senate,SHERIDAN,SHERIDAN,,Republican,KURT ALME,948
+2026-gen,statewide,us-senate,U.S. Senate,SILVER BOW,SILVER BOW,,Republican,KURT ALME,4772
+2026-gen,statewide,us-senate,U.S. Senate,STILLWATER,STILLWATER,,Republican,KURT ALME,3142
+2026-gen,statewide,us-senate,U.S. Senate,SWEET GRASS,SWEET GRASS,,Republican,KURT ALME,1214
+2026-gen,statewide,us-senate,U.S. Senate,TETON,TETON,,Republican,KURT ALME,1775
+2026-gen,statewide,us-senate,U.S. Senate,TOOLE,TOOLE,,Republican,KURT ALME,1101
+2026-gen,statewide,us-senate,U.S. Senate,TREASURE,TREASURE,,Republican,KURT ALME,285
+2026-gen,statewide,us-senate,U.S. Senate,VALLEY,VALLEY,,Republican,KURT ALME,1939
+2026-gen,statewide,us-senate,U.S. Senate,WHEATLAND,WHEATLAND,,Republican,KURT ALME,589
+2026-gen,statewide,us-senate,U.S. Senate,WIBAUX,WIBAUX,,Republican,KURT ALME,349
+2026-gen,statewide,us-senate,U.S. Senate,YELLOWSTONE,YELLOWSTONE,,Republican,KURT ALME,32557
+2026-gen,statewide,us-senate,U.S. Senate,BEAVERHEAD,BEAVERHEAD,,Libertarian,KYLE AUSTIN,72
+2026-gen,statewide,us-senate,U.S. Senate,BIG HORN,BIG HORN,,Libertarian,KYLE AUSTIN,87
+2026-gen,statewide,us-senate,U.S. Senate,BLAINE,BLAINE,,Libertarian,KYLE AUSTIN,49
+2026-gen,statewide,us-senate,U.S. Senate,BROADWATER,BROADWATER,,Libertarian,KYLE AUSTIN,99
+2026-gen,statewide,us-senate,U.S. Senate,CARBON,CARBON,,Libertarian,KYLE AUSTIN,141
+2026-gen,statewide,us-senate,U.S. Senate,CARTER,CARTER,,Libertarian,KYLE AUSTIN,21
+2026-gen,statewide,us-senate,U.S. Senate,CASCADE,CASCADE,,Libertarian,KYLE AUSTIN,515
+2026-gen,statewide,us-senate,U.S. Senate,CHOUTEAU,CHOUTEAU,,Libertarian,KYLE AUSTIN,59
+2026-gen,statewide,us-senate,U.S. Senate,CUSTER,CUSTER,,Libertarian,KYLE AUSTIN,94
+2026-gen,statewide,us-senate,U.S. Senate,DANIELS,DANIELS,,Libertarian,KYLE AUSTIN,24
+2026-gen,statewide,us-senate,U.S. Senate,DAWSON,DAWSON,,Libertarian,KYLE AUSTIN,82
+2026-gen,statewide,us-senate,U.S. Senate,DEER LODGE,DEER LODGE,,Libertarian,KYLE AUSTIN,77
+2026-gen,statewide,us-senate,U.S. Senate,FALLON,FALLON,,Libertarian,KYLE AUSTIN,19
+2026-gen,statewide,us-senate,U.S. Senate,FERGUS,FERGUS,,Libertarian,KYLE AUSTIN,120
+2026-gen,statewide,us-senate,U.S. Senate,FLATHEAD,FLATHEAD,,Libertarian,KYLE AUSTIN,824
+2026-gen,statewide,us-senate,U.S. Senate,GALLATIN,GALLATIN,,Libertarian,KYLE AUSTIN,843
+2026-gen,statewide,us-senate,U.S. Senate,GARFIELD,GARFIELD,,Libertarian,KYLE AUSTIN,15
+2026-gen,statewide,us-senate,U.S. Senate,GLACIER,GLACIER,,Libertarian,KYLE AUSTIN,65
+2026-gen,statewide,us-senate,U.S. Senate,GOLDEN VALLEY,GOLDEN VALLEY,,Libertarian,KYLE AUSTIN,18
+2026-gen,statewide,us-senate,U.S. Senate,GRANITE,GRANITE,,Libertarian,KYLE AUSTIN,48
+2026-gen,statewide,us-senate,U.S. Senate,HILL,HILL,,Libertarian,KYLE AUSTIN,218
+2026-gen,statewide,us-senate,U.S. Senate,JEFFERSON,JEFFERSON,,Libertarian,KYLE AUSTIN,136
+2026-gen,statewide,us-senate,U.S. Senate,JUDITH BASIN,JUDITH BASIN,,Libertarian,KYLE AUSTIN,37
+2026-gen,statewide,us-senate,U.S. Senate,LAKE,LAKE,,Libertarian,KYLE AUSTIN,195
+2026-gen,statewide,us-senate,U.S. Senate,LEWIS AND CLARK,LEWIS AND CLARK,,Libertarian,KYLE AUSTIN,587
+2026-gen,statewide,us-senate,U.S. Senate,LIBERTY,LIBERTY,,Libertarian,KYLE AUSTIN,18
+2026-gen,statewide,us-senate,U.S. Senate,LINCOLN,LINCOLN,,Libertarian,KYLE AUSTIN,165
+2026-gen,statewide,us-senate,U.S. Senate,MADISON,MADISON,,Libertarian,KYLE AUSTIN,98
+2026-gen,statewide,us-senate,U.S. Senate,MCCONE,MCCONE,,Libertarian,KYLE AUSTIN,17
+2026-gen,statewide,us-senate,U.S. Senate,MEAGHER,MEAGHER,,Libertarian,KYLE AUSTIN,27
+2026-gen,statewide,us-senate,U.S. Senate,MINERAL,MINERAL,,Libertarian,KYLE AUSTIN,67
+2026-gen,statewide,us-senate,U.S. Senate,MISSOULA,MISSOULA,,Libertarian,KYLE AUSTIN,718
+2026-gen,statewide,us-senate,U.S. Senate,MUSSELSHELL,MUSSELSHELL,,Libertarian,KYLE AUSTIN,65
+2026-gen,statewide,us-senate,U.S. Senate,PARK,PARK,,Libertarian,KYLE AUSTIN,127
+2026-gen,statewide,us-senate,U.S. Senate,PETROLEUM,PETROLEUM,,Libertarian,KYLE AUSTIN,11
+2026-gen,statewide,us-senate,U.S. Senate,PHILLIPS,PHILLIPS,,Libertarian,KYLE AUSTIN,34
+2026-gen,statewide,us-senate,U.S. Senate,PONDERA,PONDERA,,Libertarian,KYLE AUSTIN,57
+2026-gen,statewide,us-senate,U.S. Senate,POWDER RIVER,POWDER RIVER,,Libertarian,KYLE AUSTIN,23
+2026-gen,statewide,us-senate,U.S. Senate,POWELL,POWELL,,Libertarian,KYLE AUSTIN,55
+2026-gen,statewide,us-senate,U.S. Senate,PRAIRIE,PRAIRIE,,Libertarian,KYLE AUSTIN,21
+2026-gen,statewide,us-senate,U.S. Senate,RAVALLI,RAVALLI,,Libertarian,KYLE AUSTIN,402
+2026-gen,statewide,us-senate,U.S. Senate,RICHLAND,RICHLAND,,Libertarian,KYLE AUSTIN,105
+2026-gen,statewide,us-senate,U.S. Senate,ROOSEVELT,ROOSEVELT,,Libertarian,KYLE AUSTIN,50
+2026-gen,statewide,us-senate,U.S. Senate,ROSEBUD,ROSEBUD,,Libertarian,KYLE AUSTIN,76
+2026-gen,statewide,us-senate,U.S. Senate,SANDERS,SANDERS,,Libertarian,KYLE AUSTIN,113
+2026-gen,statewide,us-senate,U.S. Senate,SHERIDAN,SHERIDAN,,Libertarian,KYLE AUSTIN,38
+2026-gen,statewide,us-senate,U.S. Senate,SILVER BOW,SILVER BOW,,Libertarian,KYLE AUSTIN,332
+2026-gen,statewide,us-senate,U.S. Senate,STILLWATER,STILLWATER,,Libertarian,KYLE AUSTIN,126
+2026-gen,statewide,us-senate,U.S. Senate,SWEET GRASS,SWEET GRASS,,Libertarian,KYLE AUSTIN,49
+2026-gen,statewide,us-senate,U.S. Senate,TETON,TETON,,Libertarian,KYLE AUSTIN,66
+2026-gen,statewide,us-senate,U.S. Senate,TOOLE,TOOLE,,Libertarian,KYLE AUSTIN,35
+2026-gen,statewide,us-senate,U.S. Senate,TREASURE,TREASURE,,Libertarian,KYLE AUSTIN,9
+2026-gen,statewide,us-senate,U.S. Senate,VALLEY,VALLEY,,Libertarian,KYLE AUSTIN,78
+2026-gen,statewide,us-senate,U.S. Senate,WHEATLAND,WHEATLAND,,Libertarian,KYLE AUSTIN,14
+2026-gen,statewide,us-senate,U.S. Senate,WIBAUX,WIBAUX,,Libertarian,KYLE AUSTIN,16
+2026-gen,statewide,us-senate,U.S. Senate,YELLOWSTONE,YELLOWSTONE,,Libertarian,KYLE AUSTIN,1561
+2026-gen,statewide,us-senate,U.S. Senate,BEAVERHEAD,BEAVERHEAD,,Democrat,ALANI BANKHEAD,377
+2026-gen,statewide,us-senate,U.S. Senate,BIG HORN,BIG HORN,,Democrat,ALANI BANKHEAD,997
+2026-gen,statewide,us-senate,U.S. Senate,BLAINE,BLAINE,,Democrat,ALANI BANKHEAD,514
+2026-gen,statewide,us-senate,U.S. Senate,BROADWATER,BROADWATER,,Democrat,ALANI BANKHEAD,226
+2026-gen,statewide,us-senate,U.S. Senate,CARBON,CARBON,,Democrat,ALANI BANKHEAD,622
+2026-gen,statewide,us-senate,U.S. Senate,CARTER,CARTER,,Democrat,ALANI BANKHEAD,23
+2026-gen,statewide,us-senate,U.S. Senate,CASCADE,CASCADE,,Democrat,ALANI BANKHEAD,4168
+2026-gen,statewide,us-senate,U.S. Senate,CHOUTEAU,CHOUTEAU,,Democrat,ALANI BANKHEAD,268
+2026-gen,statewide,us-senate,U.S. Senate,CUSTER,CUSTER,,Democrat,ALANI BANKHEAD,398
+2026-gen,statewide,us-senate,U.S. Senate,DANIELS,DANIELS,,Democrat,ALANI BANKHEAD,50
+2026-gen,statewide,us-senate,U.S. Senate,DAWSON,DAWSON,,Democrat,ALANI BANKHEAD,297
+2026-gen,statewide,us-senate,U.S. Senate,DEER LODGE,DEER LODGE,,Democrat,ALANI BANKHEAD,649
+2026-gen,statewide,us-senate,U.S. Senate,FALLON,FALLON,,Democrat,ALANI BANKHEAD,67
+2026-gen,statewide,us-senate,U.S. Senate,FERGUS,FERGUS,,Democrat,ALANI BANKHEAD,461
+2026-gen,statewide,us-senate,U.S. Senate,FLATHEAD,FLATHEAD,,Democrat,ALANI BANKHEAD,6108
+2026-gen,statewide,us-senate,U.S. Senate,GALLATIN,GALLATIN,,Democrat,ALANI BANKHEAD,8206
+2026-gen,statewide,us-senate,U.S. Senate,GARFIELD,GARFIELD,,Democrat,ALANI BANKHEAD,25
+2026-gen,statewide,us-senate,U.S. Senate,GLACIER,GLACIER,,Democrat,ALANI BANKHEAD,1106
+2026-gen,statewide,us-senate,U.S. Senate,GOLDEN VALLEY,GOLDEN VALLEY,,Democrat,ALANI BANKHEAD,24
+2026-gen,statewide,us-senate,U.S. Senate,GRANITE,GRANITE,,Democrat,ALANI BANKHEAD,163
+2026-gen,statewide,us-senate,U.S. Senate,HILL,HILL,,Democrat,ALANI BANKHEAD,909
+2026-gen,statewide,us-senate,U.S. Senate,JEFFERSON,JEFFERSON,,Democrat,ALANI BANKHEAD,581
+2026-gen,statewide,us-senate,U.S. Senate,JUDITH BASIN,JUDITH BASIN,,Democrat,ALANI BANKHEAD,64
+2026-gen,statewide,us-senate,U.S. Senate,LAKE,LAKE,,Democrat,ALANI BANKHEAD,1905
+2026-gen,statewide,us-senate,U.S. Senate,LEWIS AND CLARK,LEWIS AND CLARK,,Democrat,ALANI BANKHEAD,3421
+2026-gen,statewide,us-senate,U.S. Senate,LIBERTY,LIBERTY,,Democrat,ALANI BANKHEAD,72
+2026-gen,statewide,us-senate,U.S. Senate,LINCOLN,LINCOLN,,Democrat,ALANI BANKHEAD,1185
+2026-gen,statewide,us-senate,U.S. Senate,MADISON,MADISON,,Democrat,ALANI BANKHEAD,529
+2026-gen,statewide,us-senate,U.S. Senate,MCCONE,MCCONE,,Democrat,ALANI BANKHEAD,42
+2026-gen,statewide,us-senate,U.S. Senate,MEAGHER,MEAGHER,,Democrat,ALANI BANKHEAD,50
+2026-gen,statewide,us-senate,U.S. Senate,MINERAL,MINERAL,,Democrat,ALANI BANKHEAD,236
+2026-gen,statewide,us-senate,U.S. Senate,MISSOULA,MISSOULA,,Democrat,ALANI BANKHEAD,7923
+2026-gen,statewide,us-senate,U.S. Senate,MUSSELSHELL,MUSSELSHELL,,Democrat,ALANI BANKHEAD,140
+2026-gen,statewide,us-senate,U.S. Senate,PARK,PARK,,Democrat,ALANI BANKHEAD,1188
+2026-gen,statewide,us-senate,U.S. Senate,PETROLEUM,PETROLEUM,,Democrat,ALANI BANKHEAD,4
+2026-gen,statewide,us-senate,U.S. Senate,PHILLIPS,PHILLIPS,,Democrat,ALANI BANKHEAD,109
+2026-gen,statewide,us-senate,U.S. Senate,PONDERA,PONDERA,,Democrat,ALANI BANKHEAD,228
+2026-gen,statewide,us-senate,U.S. Senate,POWDER RIVER,POWDER RIVER,,Democrat,ALANI BANKHEAD,43
+2026-gen,statewide,us-senate,U.S. Senate,POWELL,POWELL,,Democrat,ALANI BANKHEAD,197
+2026-gen,statewide,us-senate,U.S. Senate,PRAIRIE,PRAIRIE,,Democrat,ALANI BANKHEAD,41
+2026-gen,statewide,us-senate,U.S. Senate,RAVALLI,RAVALLI,,Democrat,ALANI BANKHEAD,2112
+2026-gen,statewide,us-senate,U.S. Senate,RICHLAND,RICHLAND,,Democrat,ALANI BANKHEAD,310
+2026-gen,statewide,us-senate,U.S. Senate,ROOSEVELT,ROOSEVELT,,Democrat,ALANI BANKHEAD,681
+2026-gen,statewide,us-senate,U.S. Senate,ROSEBUD,ROSEBUD,,Democrat,ALANI BANKHEAD,366
+2026-gen,statewide,us-senate,U.S. Senate,SANDERS,SANDERS,,Democrat,ALANI BANKHEAD,627
+2026-gen,statewide,us-senate,U.S. Senate,SHERIDAN,SHERIDAN,,Democrat,ALANI BANKHEAD,173
+2026-gen,statewide,us-senate,U.S. Senate,SILVER BOW,SILVER BOW,,Democrat,ALANI BANKHEAD,2495
+2026-gen,statewide,us-senate,U.S. Senate,STILLWATER,STILLWATER,,Democrat,ALANI BANKHEAD,260
+2026-gen,statewide,us-senate,U.S. Senate,SWEET GRASS,SWEET GRASS,,Democrat,ALANI BANKHEAD,142
+2026-gen,statewide,us-senate,U.S. Senate,TETON,TETON,,Democrat,ALANI BANKHEAD,265
+2026-gen,statewide,us-senate,U.S. Senate,TOOLE,TOOLE,,Democrat,ALANI BANKHEAD,146
+2026-gen,statewide,us-senate,U.S. Senate,TREASURE,TREASURE,,Democrat,ALANI BANKHEAD,14
+2026-gen,statewide,us-senate,U.S. Senate,VALLEY,VALLEY,,Democrat,ALANI BANKHEAD,241
+2026-gen,statewide,us-senate,U.S. Senate,WHEATLAND,WHEATLAND,,Democrat,ALANI BANKHEAD,58
+2026-gen,statewide,us-senate,U.S. Senate,WIBAUX,WIBAUX,,Democrat,ALANI BANKHEAD,27
+2026-gen,statewide,us-senate,U.S. Senate,YELLOWSTONE,YELLOWSTONE,,Democrat,ALANI BANKHEAD,8451
+2026-gen,statewide,us-senate,U.S. Senate,BEAVERHEAD,BEAVERHEAD,,Independent,SETH BODNAR,1277
+2026-gen,statewide,us-senate,U.S. Senate,BIG HORN,BIG HORN,,Independent,SETH BODNAR,1109
+2026-gen,statewide,us-senate,U.S. Senate,BLAINE,BLAINE,,Independent,SETH BODNAR,687
+2026-gen,statewide,us-senate,U.S. Senate,BROADWATER,BROADWATER,,Independent,SETH BODNAR,881
+2026-gen,statewide,us-senate,U.S. Senate,CARBON,CARBON,,Independent,SETH BODNAR,2043
+2026-gen,statewide,us-senate,U.S. Senate,CARTER,CARTER,,Independent,SETH BODNAR,84
+2026-gen,statewide,us-senate,U.S. Senate,CASCADE,CASCADE,,Independent,SETH BODNAR,10654
+2026-gen,statewide,us-senate,U.S. Senate,CHOUTEAU,CHOUTEAU,,Independent,SETH BODNAR,694
+2026-gen,statewide,us-senate,U.S. Senate,CUSTER,CUSTER,,Independent,SETH BODNAR,1062
+2026-gen,statewide,us-senate,U.S. Senate,DANIELS,DANIELS,,Independent,SETH BODNAR,141
+2026-gen,statewide,us-senate,U.S. Senate,DAWSON,DAWSON,,Independent,SETH BODNAR,686
+2026-gen,statewide,us-senate,U.S. Senate,DEER LODGE,DEER LODGE,,Independent,SETH BODNAR,1825
+2026-gen,statewide,us-senate,U.S. Senate,FALLON,FALLON,,Independent,SETH BODNAR,162
+2026-gen,statewide,us-senate,U.S. Senate,FERGUS,FERGUS,,Independent,SETH BODNAR,1408
+2026-gen,statewide,us-senate,U.S. Senate,FLATHEAD,FLATHEAD,,Independent,SETH BODNAR,15558
+2026-gen,statewide,us-senate,U.S. Senate,GALLATIN,GALLATIN,,Independent,SETH BODNAR,27886
+2026-gen,statewide,us-senate,U.S. Senate,GARFIELD,GARFIELD,,Independent,SETH BODNAR,64
+2026-gen,statewide,us-senate,U.S. Senate,GLACIER,GLACIER,,Independent,SETH BODNAR,1672
+2026-gen,statewide,us-senate,U.S. Senate,GOLDEN VALLEY,GOLDEN VALLEY,,Independent,SETH BODNAR,54
+2026-gen,statewide,us-senate,U.S. Senate,GRANITE,GRANITE,,Independent,SETH BODNAR,539
+2026-gen,statewide,us-senate,U.S. Senate,HILL,HILL,,Independent,SETH BODNAR,1687
+2026-gen,statewide,us-senate,U.S. Senate,JEFFERSON,JEFFERSON,,Independent,SETH BODNAR,2218
+2026-gen,statewide,us-senate,U.S. Senate,JUDITH BASIN,JUDITH BASIN,,Independent,SETH BODNAR,304
+2026-gen,statewide,us-senate,U.S. Senate,LAKE,LAKE,,Independent,SETH BODNAR,4820
+2026-gen,statewide,us-senate,U.S. Senate,LEWIS AND CLARK,LEWIS AND CLARK,,Independent,SETH BODNAR,16802
+2026-gen,statewide,us-senate,U.S. Senate,LIBERTY,LIBERTY,,Independent,SETH BODNAR,196
+2026-gen,statewide,us-senate,U.S. Senate,LINCOLN,LINCOLN,,Independent,SETH BODNAR,1683
+2026-gen,statewide,us-senate,U.S. Senate,MADISON,MADISON,,Independent,SETH BODNAR,1413
+2026-gen,statewide,us-senate,U.S. Senate,MCCONE,MCCONE,,Independent,SETH BODNAR,132
+2026-gen,statewide,us-senate,U.S. Senate,MEAGHER,MEAGHER,,Independent,SETH BODNAR,230
+2026-gen,statewide,us-senate,U.S. Senate,MINERAL,MINERAL,,Independent,SETH BODNAR,631
+2026-gen,statewide,us-senate,U.S. Senate,MISSOULA,MISSOULA,,Independent,SETH BODNAR,36544
+2026-gen,statewide,us-senate,U.S. Senate,MUSSELSHELL,MUSSELSHELL,,Independent,SETH BODNAR,395
+2026-gen,statewide,us-senate,U.S. Senate,PARK,PARK,,Independent,SETH BODNAR,4245
+2026-gen,statewide,us-senate,U.S. Senate,PETROLEUM,PETROLEUM,,Independent,SETH BODNAR,36
+2026-gen,statewide,us-senate,U.S. Senate,PHILLIPS,PHILLIPS,,Independent,SETH BODNAR,311
+2026-gen,statewide,us-senate,U.S. Senate,PONDERA,PONDERA,,Independent,SETH BODNAR,595
+2026-gen,statewide,us-senate,U.S. Senate,POWDER RIVER,POWDER RIVER,,Independent,SETH BODNAR,151
+2026-gen,statewide,us-senate,U.S. Senate,POWELL,POWELL,,Independent,SETH BODNAR,631
+2026-gen,statewide,us-senate,U.S. Senate,PRAIRIE,PRAIRIE,,Independent,SETH BODNAR,117
+2026-gen,statewide,us-senate,U.S. Senate,RAVALLI,RAVALLI,,Independent,SETH BODNAR,7350
+2026-gen,statewide,us-senate,U.S. Senate,RICHLAND,RICHLAND,,Independent,SETH BODNAR,571
+2026-gen,statewide,us-senate,U.S. Senate,ROOSEVELT,ROOSEVELT,,Independent,SETH BODNAR,704
+2026-gen,statewide,us-senate,U.S. Senate,ROSEBUD,ROSEBUD,,Independent,SETH BODNAR,713
+2026-gen,statewide,us-senate,U.S. Senate,SANDERS,SANDERS,,Independent,SETH BODNAR,1329
+2026-gen,statewide,us-senate,U.S. Senate,SHERIDAN,SHERIDAN,,Independent,SETH BODNAR,389
+2026-gen,statewide,us-senate,U.S. Senate,SILVER BOW,SILVER BOW,,Independent,SETH BODNAR,7223
+2026-gen,statewide,us-senate,U.S. Senate,STILLWATER,STILLWATER,,Independent,SETH BODNAR,1017
+2026-gen,statewide,us-senate,U.S. Senate,SWEET GRASS,SWEET GRASS,,Independent,SETH BODNAR,524
+2026-gen,statewide,us-senate,U.S. Senate,TETON,TETON,,Independent,SETH BODNAR,756
+2026-gen,statewide,us-senate,U.S. Senate,TOOLE,TOOLE,,Independent,SETH BODNAR,318
+2026-gen,statewide,us-senate,U.S. Senate,TREASURE,TREASURE,,Independent,SETH BODNAR,53
+2026-gen,statewide,us-senate,U.S. Senate,VALLEY,VALLEY,,Independent,SETH BODNAR,845
+2026-gen,statewide,us-senate,U.S. Senate,WHEATLAND,WHEATLAND,,Independent,SETH BODNAR,200
+2026-gen,statewide,us-senate,U.S. Senate,WIBAUX,WIBAUX,,Independent,SETH BODNAR,61
+2026-gen,statewide,us-senate,U.S. Senate,YELLOWSTONE,YELLOWSTONE,,Independent,SETH BODNAR,20894
+2026-gen,statewide,us-house-west,U.S. House 1,BEAVERHEAD,BEAVERHEAD,,Republican,AARON FLINT,2933
+2026-gen,statewide,us-house-west,U.S. House 1,DEER LODGE,DEER LODGE,,Republican,AARON FLINT,1567
+2026-gen,statewide,us-house-west,U.S. House 1,FLATHEAD,FLATHEAD,,Republican,AARON FLINT,31308
+2026-gen,statewide,us-house-west,U.S. House 1,GALLATIN,GALLATIN,,Republican,AARON FLINT,21922
+2026-gen,statewide,us-house-west,U.S. House 1,GLACIER,GLACIER,,Republican,AARON FLINT,1230
+2026-gen,statewide,us-house-west,U.S. House 1,GRANITE,GRANITE,,Republican,AARON FLINT,1146
+2026-gen,statewide,us-house-west,U.S. House 1,LAKE,LAKE,,Republican,AARON FLINT,7471
+2026-gen,statewide,us-house-west,U.S. House 1,LINCOLN,LINCOLN,,Republican,AARON FLINT,7042
+2026-gen,statewide,us-house-west,U.S. House 1,MADISON,MADISON,,Republican,AARON FLINT,3359
+2026-gen,statewide,us-house-west,U.S. House 1,MINERAL,MINERAL,,Republican,AARON FLINT,1547
+2026-gen,statewide,us-house-west,U.S. House 1,MISSOULA,MISSOULA,,Republican,AARON FLINT,18235
+2026-gen,statewide,us-house-west,U.S. House 1,PONDERA,PONDERA,,Republican,AARON FLINT,424
+2026-gen,statewide,us-house-west,U.S. House 1,POWELL,POWELL,,Republican,AARON FLINT,1771
+2026-gen,statewide,us-house-west,U.S. House 1,RAVALLI,RAVALLI,,Republican,AARON FLINT,15061
+2026-gen,statewide,us-house-west,U.S. House 1,SANDERS,SANDERS,,Republican,AARON FLINT,4705
+2026-gen,statewide,us-house-west,U.S. House 1,SILVER BOW,SILVER BOW,,Republican,AARON FLINT,5133
+2026-gen,statewide,us-house-west,U.S. House 1,BEAVERHEAD,BEAVERHEAD,,Democrat,SAM FORSTAG,1443
+2026-gen,statewide,us-house-west,U.S. House 1,DEER LODGE,DEER LODGE,,Democrat,SAM FORSTAG,2278
+2026-gen,statewide,us-house-west,U.S. House 1,FLATHEAD,FLATHEAD,,Democrat,SAM FORSTAG,20052
+2026-gen,statewide,us-house-west,U.S. House 1,GALLATIN,GALLATIN,,Democrat,SAM FORSTAG,34439
+2026-gen,statewide,us-house-west,U.S. House 1,GLACIER,GLACIER,,Democrat,SAM FORSTAG,2644
+2026-gen,statewide,us-house-west,U.S. House 1,GRANITE,GRANITE,,Democrat,SAM FORSTAG,620
+2026-gen,statewide,us-house-west,U.S. House 1,LAKE,LAKE,,Democrat,SAM FORSTAG,6141
+2026-gen,statewide,us-house-west,U.S. House 1,LINCOLN,LINCOLN,,Democrat,SAM FORSTAG,2566
+2026-gen,statewide,us-house-west,U.S. House 1,MADISON,MADISON,,Democrat,SAM FORSTAG,1728
+2026-gen,statewide,us-house-west,U.S. House 1,MINERAL,MINERAL,,Democrat,SAM FORSTAG,729
+2026-gen,statewide,us-house-west,U.S. House 1,MISSOULA,MISSOULA,,Democrat,SAM FORSTAG,42292
+2026-gen,statewide,us-house-west,U.S. House 1,PONDERA,PONDERA,,Democrat,SAM FORSTAG,227
+2026-gen,statewide,us-house-west,U.S. House 1,POWELL,POWELL,,Democrat,SAM FORSTAG,707
+2026-gen,statewide,us-house-west,U.S. House 1,RAVALLI,RAVALLI,,Democrat,SAM FORSTAG,8460
+2026-gen,statewide,us-house-west,U.S. House 1,SANDERS,SANDERS,,Democrat,SAM FORSTAG,1662
+2026-gen,statewide,us-house-west,U.S. House 1,SILVER BOW,SILVER BOW,,Democrat,SAM FORSTAG,9144
+2026-gen,statewide,us-house-west,U.S. House 1,BEAVERHEAD,BEAVERHEAD,,Libertarian,NICK SHEEDY,155
+2026-gen,statewide,us-house-west,U.S. House 1,DEER LODGE,DEER LODGE,,Libertarian,NICK SHEEDY,173
+2026-gen,statewide,us-house-west,U.S. House 1,FLATHEAD,FLATHEAD,,Libertarian,NICK SHEEDY,1481
+2026-gen,statewide,us-house-west,U.S. House 1,GALLATIN,GALLATIN,,Libertarian,NICK SHEEDY,1426
+2026-gen,statewide,us-house-west,U.S. House 1,GLACIER,GLACIER,,Libertarian,NICK SHEEDY,145
+2026-gen,statewide,us-house-west,U.S. House 1,GRANITE,GRANITE,,Libertarian,NICK SHEEDY,66
+2026-gen,statewide,us-house-west,U.S. House 1,LAKE,LAKE,,Libertarian,NICK SHEEDY,428
+2026-gen,statewide,us-house-west,U.S. House 1,LINCOLN,LINCOLN,,Libertarian,NICK SHEEDY,354
+2026-gen,statewide,us-house-west,U.S. House 1,MADISON,MADISON,,Libertarian,NICK SHEEDY,175
+2026-gen,statewide,us-house-west,U.S. House 1,MINERAL,MINERAL,,Libertarian,NICK SHEEDY,131
+2026-gen,statewide,us-house-west,U.S. House 1,MISSOULA,MISSOULA,,Libertarian,NICK SHEEDY,1332
+2026-gen,statewide,us-house-west,U.S. House 1,PONDERA,PONDERA,,Libertarian,NICK SHEEDY,22
+2026-gen,statewide,us-house-west,U.S. House 1,POWELL,POWELL,,Libertarian,NICK SHEEDY,134
+2026-gen,statewide,us-house-west,U.S. House 1,RAVALLI,RAVALLI,,Libertarian,NICK SHEEDY,814
+2026-gen,statewide,us-house-west,U.S. House 1,SANDERS,SANDERS,,Libertarian,NICK SHEEDY,304
+2026-gen,statewide,us-house-west,U.S. House 1,SILVER BOW,SILVER BOW,,Libertarian,NICK SHEEDY,581
+2026-gen,statewide,us-house-east,U.S. House 2,BIG HORN,BIG HORN,,Republican,TROY DOWNING,1535
+2026-gen,statewide,us-house-east,U.S. House 2,BLAINE,BLAINE,,Republican,TROY DOWNING,1080
+2026-gen,statewide,us-house-east,U.S. House 2,BROADWATER,BROADWATER,,Republican,TROY DOWNING,2707
+2026-gen,statewide,us-house-east,U.S. House 2,CARBON,CARBON,,Republican,TROY DOWNING,3681
+2026-gen,statewide,us-house-east,U.S. House 2,CARTER,CARTER,,Republican,TROY DOWNING,608
+2026-gen,statewide,us-house-east,U.S. House 2,CASCADE,CASCADE,,Republican,TROY DOWNING,15693
+2026-gen,statewide,us-house-east,U.S. House 2,CHOUTEAU,CHOUTEAU,,Republican,TROY DOWNING,1396
+2026-gen,statewide,us-house-east,U.S. House 2,CUSTER,CUSTER,,Republican,TROY DOWNING,2918
+2026-gen,statewide,us-house-east,U.S. House 2,DANIELS,DANIELS,,Republican,TROY DOWNING,652
+2026-gen,statewide,us-house-east,U.S. House 2,DAWSON,DAWSON,,Republican,TROY DOWNING,2489
+2026-gen,statewide,us-house-east,U.S. House 2,FALLON,FALLON,,Republican,TROY DOWNING,993
+2026-gen,statewide,us-house-east,U.S. House 2,FERGUS,FERGUS,,Republican,TROY DOWNING,3780
+2026-gen,statewide,us-house-east,U.S. House 2,GARFIELD,GARFIELD,,Republican,TROY DOWNING,574
+2026-gen,statewide,us-house-east,U.S. House 2,GOLDEN VALLEY,GOLDEN VALLEY,,Republican,TROY DOWNING,318
+2026-gen,statewide,us-house-east,U.S. House 2,HILL,HILL,,Republican,TROY DOWNING,2607
+2026-gen,statewide,us-house-east,U.S. House 2,JEFFERSON,JEFFERSON,,Republican,TROY DOWNING,4227
+2026-gen,statewide,us-house-east,U.S. House 2,JUDITH BASIN,JUDITH BASIN,,Republican,TROY DOWNING,864
+2026-gen,statewide,us-house-east,U.S. House 2,LEWIS AND CLARK,LEWIS AND CLARK,,Republican,TROY DOWNING,15902
+2026-gen,statewide,us-house-east,U.S. House 2,LIBERTY,LIBERTY,,Republican,TROY DOWNING,552
+2026-gen,statewide,us-house-east,U.S. House 2,MCCONE,MCCONE,,Republican,TROY DOWNING,710
+2026-gen,statewide,us-house-east,U.S. House 2,MEAGHER,MEAGHER,,Republican,TROY DOWNING,678
+2026-gen,statewide,us-house-east,U.S. House 2,MUSSELSHELL,MUSSELSHELL,,Republican,TROY DOWNING,1963
+2026-gen,statewide,us-house-east,U.S. House 2,PARK,PARK,,Republican,TROY DOWNING,4427
+2026-gen,statewide,us-house-east,U.S. House 2,PETROLEUM,PETROLEUM,,Republican,TROY DOWNING,217
+2026-gen,statewide,us-house-east,U.S. House 2,PHILLIPS,PHILLIPS,,Republican,TROY DOWNING,1335
+2026-gen,statewide,us-house-east,U.S. House 2,PONDERA,PONDERA,,Republican,TROY DOWNING,1056
+2026-gen,statewide,us-house-east,U.S. House 2,POWDER RIVER,POWDER RIVER,,Republican,TROY DOWNING,717
+2026-gen,statewide,us-house-east,U.S. House 2,PRAIRIE,PRAIRIE,,Republican,TROY DOWNING,452
+2026-gen,statewide,us-house-east,U.S. House 2,RICHLAND,RICHLAND,,Republican,TROY DOWNING,2835
+2026-gen,statewide,us-house-east,U.S. House 2,ROOSEVELT,ROOSEVELT,,Republican,TROY DOWNING,1226
+2026-gen,statewide,us-house-east,U.S. House 2,ROSEBUD,ROSEBUD,,Republican,TROY DOWNING,1833
+2026-gen,statewide,us-house-east,U.S. House 2,SHERIDAN,SHERIDAN,,Republican,TROY DOWNING,1031
+2026-gen,statewide,us-house-east,U.S. House 2,STILLWATER,STILLWATER,,Republican,TROY DOWNING,3423
+2026-gen,statewide,us-house-east,U.S. House 2,SWEET GRASS,SWEET GRASS,,Republican,TROY DOWNING,1362
+2026-gen,statewide,us-house-east,U.S. House 2,TETON,TETON,,Republican,TROY DOWNING,1942
+2026-gen,statewide,us-house-east,U.S. House 2,TOOLE,TOOLE,,Republican,TROY DOWNING,1184
+2026-gen,statewide,us-house-east,U.S. House 2,TREASURE,TREASURE,,Republican,TROY DOWNING,303
+2026-gen,statewide,us-house-east,U.S. House 2,VALLEY,VALLEY,,Republican,TROY DOWNING,2178
+2026-gen,statewide,us-house-east,U.S. House 2,WHEATLAND,WHEATLAND,,Republican,TROY DOWNING,652
+2026-gen,statewide,us-house-east,U.S. House 2,WIBAUX,WIBAUX,,Republican,TROY DOWNING,364
+2026-gen,statewide,us-house-east,U.S. House 2,YELLOWSTONE,YELLOWSTONE,,Republican,TROY DOWNING,35708
+2026-gen,statewide,us-house-east,U.S. House 2,BIG HORN,BIG HORN,,Libertarian,PATRICK MCCRACKEN,51
+2026-gen,statewide,us-house-east,U.S. House 2,BLAINE,BLAINE,,Libertarian,PATRICK MCCRACKEN,43
+2026-gen,statewide,us-house-east,U.S. House 2,BROADWATER,BROADWATER,,Libertarian,PATRICK MCCRACKEN,84
+2026-gen,statewide,us-house-east,U.S. House 2,CARBON,CARBON,,Libertarian,PATRICK MCCRACKEN,114
+2026-gen,statewide,us-house-east,U.S. House 2,CARTER,CARTER,,Libertarian,PATRICK MCCRACKEN,15
+2026-gen,statewide,us-house-east,U.S. House 2,CASCADE,CASCADE,,Libertarian,PATRICK MCCRACKEN,463
+2026-gen,statewide,us-house-east,U.S. House 2,CHOUTEAU,CHOUTEAU,,Libertarian,PATRICK MCCRACKEN,36
+2026-gen,statewide,us-house-east,U.S. House 2,CUSTER,CUSTER,,Libertarian,PATRICK MCCRACKEN,84
+2026-gen,statewide,us-house-east,U.S. House 2,DANIELS,DANIELS,,Libertarian,PATRICK MCCRACKEN,8
+2026-gen,statewide,us-house-east,U.S. House 2,DAWSON,DAWSON,,Libertarian,PATRICK MCCRACKEN,52
+2026-gen,statewide,us-house-east,U.S. House 2,FALLON,FALLON,,Libertarian,PATRICK MCCRACKEN,8
+2026-gen,statewide,us-house-east,U.S. House 2,FERGUS,FERGUS,,Libertarian,PATRICK MCCRACKEN,111
+2026-gen,statewide,us-house-east,U.S. House 2,GARFIELD,GARFIELD,,Libertarian,PATRICK MCCRACKEN,12
+2026-gen,statewide,us-house-east,U.S. House 2,GOLDEN VALLEY,GOLDEN VALLEY,,Libertarian,PATRICK MCCRACKEN,7
+2026-gen,statewide,us-house-east,U.S. House 2,HILL,HILL,,Libertarian,PATRICK MCCRACKEN,108
+2026-gen,statewide,us-house-east,U.S. House 2,JEFFERSON,JEFFERSON,,Libertarian,PATRICK MCCRACKEN,130
+2026-gen,statewide,us-house-east,U.S. House 2,JUDITH BASIN,JUDITH BASIN,,Libertarian,PATRICK MCCRACKEN,34
+2026-gen,statewide,us-house-east,U.S. House 2,LEWIS AND CLARK,LEWIS AND CLARK,,Libertarian,PATRICK MCCRACKEN,711
+2026-gen,statewide,us-house-east,U.S. House 2,LIBERTY,LIBERTY,,Libertarian,PATRICK MCCRACKEN,12
+2026-gen,statewide,us-house-east,U.S. House 2,MCCONE,MCCONE,,Libertarian,PATRICK MCCRACKEN,11
+2026-gen,statewide,us-house-east,U.S. House 2,MEAGHER,MEAGHER,,Libertarian,PATRICK MCCRACKEN,19
+2026-gen,statewide,us-house-east,U.S. House 2,MUSSELSHELL,MUSSELSHELL,,Libertarian,PATRICK MCCRACKEN,45
+2026-gen,statewide,us-house-east,U.S. House 2,PARK,PARK,,Libertarian,PATRICK MCCRACKEN,193
+2026-gen,statewide,us-house-east,U.S. House 2,PETROLEUM,PETROLEUM,,Libertarian,PATRICK MCCRACKEN,4
+2026-gen,statewide,us-house-east,U.S. House 2,PHILLIPS,PHILLIPS,,Libertarian,PATRICK MCCRACKEN,23
+2026-gen,statewide,us-house-east,U.S. House 2,PONDERA,PONDERA,,Libertarian,PATRICK MCCRACKEN,29
+2026-gen,statewide,us-house-east,U.S. House 2,POWDER RIVER,POWDER RIVER,,Libertarian,PATRICK MCCRACKEN,14
+2026-gen,statewide,us-house-east,U.S. House 2,PRAIRIE,PRAIRIE,,Libertarian,PATRICK MCCRACKEN,7
+2026-gen,statewide,us-house-east,U.S. House 2,RICHLAND,RICHLAND,,Libertarian,PATRICK MCCRACKEN,56
+2026-gen,statewide,us-house-east,U.S. House 2,ROOSEVELT,ROOSEVELT,,Libertarian,PATRICK MCCRACKEN,52
+2026-gen,statewide,us-house-east,U.S. House 2,ROSEBUD,ROSEBUD,,Libertarian,PATRICK MCCRACKEN,48
+2026-gen,statewide,us-house-east,U.S. House 2,SHERIDAN,SHERIDAN,,Libertarian,PATRICK MCCRACKEN,25
+2026-gen,statewide,us-house-east,U.S. House 2,STILLWATER,STILLWATER,,Libertarian,PATRICK MCCRACKEN,80
+2026-gen,statewide,us-house-east,U.S. House 2,SWEET GRASS,SWEET GRASS,,Libertarian,PATRICK MCCRACKEN,37
+2026-gen,statewide,us-house-east,U.S. House 2,TETON,TETON,,Libertarian,PATRICK MCCRACKEN,56
+2026-gen,statewide,us-house-east,U.S. House 2,TOOLE,TOOLE,,Libertarian,PATRICK MCCRACKEN,30
+2026-gen,statewide,us-house-east,U.S. House 2,TREASURE,TREASURE,,Libertarian,PATRICK MCCRACKEN,3
+2026-gen,statewide,us-house-east,U.S. House 2,VALLEY,VALLEY,,Libertarian,PATRICK MCCRACKEN,36
+2026-gen,statewide,us-house-east,U.S. House 2,WHEATLAND,WHEATLAND,,Libertarian,PATRICK MCCRACKEN,10
+2026-gen,statewide,us-house-east,U.S. House 2,WIBAUX,WIBAUX,,Libertarian,PATRICK MCCRACKEN,19
+2026-gen,statewide,us-house-east,U.S. House 2,YELLOWSTONE,YELLOWSTONE,,Libertarian,PATRICK MCCRACKEN,1166
+2026-gen,statewide,us-house-east,U.S. House 2,BIG HORN,BIG HORN,,Democrat,BRIAN J MILLER,1672
+2026-gen,statewide,us-house-east,U.S. House 2,BLAINE,BLAINE,,Democrat,BRIAN J MILLER,972
+2026-gen,statewide,us-house-east,U.S. House 2,BROADWATER,BROADWATER,,Democrat,BRIAN J MILLER,647
+2026-gen,statewide,us-house-east,U.S. House 2,CARBON,CARBON,,Democrat,BRIAN J MILLER,1834
+2026-gen,statewide,us-house-east,U.S. House 2,CARTER,CARTER,,Democrat,BRIAN J MILLER,40
+2026-gen,statewide,us-house-east,U.S. House 2,CASCADE,CASCADE,,Democrat,BRIAN J MILLER,10584
+2026-gen,statewide,us-house-east,U.S. House 2,CHOUTEAU,CHOUTEAU,,Democrat,BRIAN J MILLER,687
+2026-gen,statewide,us-house-east,U.S. House 2,CUSTER,CUSTER,,Democrat,BRIAN J MILLER,1056
+2026-gen,statewide,us-house-east,U.S. House 2,DANIELS,DANIELS,,Democrat,BRIAN J MILLER,109
+2026-gen,statewide,us-house-east,U.S. House 2,DAWSON,DAWSON,,Democrat,BRIAN J MILLER,663
+2026-gen,statewide,us-house-east,U.S. House 2,FALLON,FALLON,,Democrat,BRIAN J MILLER,104
+2026-gen,statewide,us-house-east,U.S. House 2,FERGUS,FERGUS,,Democrat,BRIAN J MILLER,1148
+2026-gen,statewide,us-house-east,U.S. House 2,GARFIELD,GARFIELD,,Democrat,BRIAN J MILLER,39
+2026-gen,statewide,us-house-east,U.S. House 2,GOLDEN VALLEY,GOLDEN VALLEY,,Democrat,BRIAN J MILLER,49
+2026-gen,statewide,us-house-east,U.S. House 2,HILL,HILL,,Democrat,BRIAN J MILLER,1940
+2026-gen,statewide,us-house-east,U.S. House 2,JEFFERSON,JEFFERSON,,Democrat,BRIAN J MILLER,1952
+2026-gen,statewide,us-house-east,U.S. House 2,JUDITH BASIN,JUDITH BASIN,,Democrat,BRIAN J MILLER,171
+2026-gen,statewide,us-house-east,U.S. House 2,LEWIS AND CLARK,LEWIS AND CLARK,,Democrat,BRIAN J MILLER,14681
+2026-gen,statewide,us-house-east,U.S. House 2,LIBERTY,LIBERTY,,Democrat,BRIAN J MILLER,161
+2026-gen,statewide,us-house-east,U.S. House 2,MCCONE,MCCONE,,Democrat,BRIAN J MILLER,90
+2026-gen,statewide,us-house-east,U.S. House 2,MEAGHER,MEAGHER,,Democrat,BRIAN J MILLER,154
+2026-gen,statewide,us-house-east,U.S. House 2,MUSSELSHELL,MUSSELSHELL,,Democrat,BRIAN J MILLER,299
+2026-gen,statewide,us-house-east,U.S. House 2,PARK,PARK,,Democrat,BRIAN J MILLER,4082
+2026-gen,statewide,us-house-east,U.S. House 2,PETROLEUM,PETROLEUM,,Democrat,BRIAN J MILLER,18
+2026-gen,statewide,us-house-east,U.S. House 2,PHILLIPS,PHILLIPS,,Democrat,BRIAN J MILLER,246
+2026-gen,statewide,us-house-east,U.S. House 2,PONDERA,PONDERA,,Democrat,BRIAN J MILLER,356
+2026-gen,statewide,us-house-east,U.S. House 2,POWDER RIVER,POWDER RIVER,,Democrat,BRIAN J MILLER,95
+2026-gen,statewide,us-house-east,U.S. House 2,PRAIRIE,PRAIRIE,,Democrat,BRIAN J MILLER,93
+2026-gen,statewide,us-house-east,U.S. House 2,RICHLAND,RICHLAND,,Democrat,BRIAN J MILLER,568
+2026-gen,statewide,us-house-east,U.S. House 2,ROOSEVELT,ROOSEVELT,,Democrat,BRIAN J MILLER,1159
+2026-gen,statewide,us-house-east,U.S. House 2,ROSEBUD,ROSEBUD,,Democrat,BRIAN J MILLER,751
+2026-gen,statewide,us-house-east,U.S. House 2,SHERIDAN,SHERIDAN,,Democrat,BRIAN J MILLER,378
+2026-gen,statewide,us-house-east,U.S. House 2,STILLWATER,STILLWATER,,Democrat,BRIAN J MILLER,750
+2026-gen,statewide,us-house-east,U.S. House 2,SWEET GRASS,SWEET GRASS,,Democrat,BRIAN J MILLER,411
+2026-gen,statewide,us-house-east,U.S. House 2,TETON,TETON,,Democrat,BRIAN J MILLER,617
+2026-gen,statewide,us-house-east,U.S. House 2,TOOLE,TOOLE,,Democrat,BRIAN J MILLER,306
+2026-gen,statewide,us-house-east,U.S. House 2,TREASURE,TREASURE,,Democrat,BRIAN J MILLER,36
+2026-gen,statewide,us-house-east,U.S. House 2,VALLEY,VALLEY,,Democrat,BRIAN J MILLER,642
+2026-gen,statewide,us-house-east,U.S. House 2,WHEATLAND,WHEATLAND,,Democrat,BRIAN J MILLER,154
+2026-gen,statewide,us-house-east,U.S. House 2,WIBAUX,WIBAUX,,Democrat,BRIAN J MILLER,54
+2026-gen,statewide,us-house-east,U.S. House 2,YELLOWSTONE,YELLOWSTONE,,Democrat,BRIAN J MILLER,21411
+2026-gen,statewide,us-house-east,U.S. House 2,BIG HORN,BIG HORN,,Independent,MICHAEL D EISENHAUER,215
+2026-gen,statewide,us-house-east,U.S. House 2,BLAINE,BLAINE,,Independent,MICHAEL D EISENHAUER,130
+2026-gen,statewide,us-house-east,U.S. House 2,BROADWATER,BROADWATER,,Independent,MICHAEL D EISENHAUER,281
+2026-gen,statewide,us-house-east,U.S. House 2,CARBON,CARBON,,Independent,MICHAEL D EISENHAUER,503
+2026-gen,statewide,us-house-east,U.S. House 2,CARTER,CARTER,,Independent,MICHAEL D EISENHAUER,25
+2026-gen,statewide,us-house-east,U.S. House 2,CASCADE,CASCADE,,Independent,MICHAEL D EISENHAUER,2706
+2026-gen,statewide,us-house-east,U.S. House 2,CHOUTEAU,CHOUTEAU,,Independent,MICHAEL D EISENHAUER,159
+2026-gen,statewide,us-house-east,U.S. House 2,CUSTER,CUSTER,,Independent,MICHAEL D EISENHAUER,229
+2026-gen,statewide,us-house-east,U.S. House 2,DANIELS,DANIELS,,Independent,MICHAEL D EISENHAUER,37
+2026-gen,statewide,us-house-east,U.S. House 2,DAWSON,DAWSON,,Independent,MICHAEL D EISENHAUER,164
+2026-gen,statewide,us-house-east,U.S. House 2,FALLON,FALLON,,Independent,MICHAEL D EISENHAUER,61
+2026-gen,statewide,us-house-east,U.S. House 2,FERGUS,FERGUS,,Independent,MICHAEL D EISENHAUER,324
+2026-gen,statewide,us-house-east,U.S. House 2,GARFIELD,GARFIELD,,Independent,MICHAEL D EISENHAUER,23
+2026-gen,statewide,us-house-east,U.S. House 2,GOLDEN VALLEY,GOLDEN VALLEY,,Independent,MICHAEL D EISENHAUER,15
+2026-gen,statewide,us-house-east,U.S. House 2,HILL,HILL,,Independent,MICHAEL D EISENHAUER,467
+2026-gen,statewide,us-house-east,U.S. House 2,JEFFERSON,JEFFERSON,,Independent,MICHAEL D EISENHAUER,499
+2026-gen,statewide,us-house-east,U.S. House 2,JUDITH BASIN,JUDITH BASIN,,Independent,MICHAEL D EISENHAUER,75
+2026-gen,statewide,us-house-east,U.S. House 2,LEWIS AND CLARK,LEWIS AND CLARK,,Independent,MICHAEL D EISENHAUER,3477
+2026-gen,statewide,us-house-east,U.S. House 2,LIBERTY,LIBERTY,,Independent,MICHAEL D EISENHAUER,41
+2026-gen,statewide,us-house-east,U.S. House 2,MCCONE,MCCONE,,Independent,MICHAEL D EISENHAUER,43
+2026-gen,statewide,us-house-east,U.S. House 2,MEAGHER,MEAGHER,,Independent,MICHAEL D EISENHAUER,75
+2026-gen,statewide,us-house-east,U.S. House 2,MUSSELSHELL,MUSSELSHELL,,Independent,MICHAEL D EISENHAUER,102
+2026-gen,statewide,us-house-east,U.S. House 2,PARK,PARK,,Independent,MICHAEL D EISENHAUER,852
+2026-gen,statewide,us-house-east,U.S. House 2,PETROLEUM,PETROLEUM,,Independent,MICHAEL D EISENHAUER,13
+2026-gen,statewide,us-house-east,U.S. House 2,PHILLIPS,PHILLIPS,,Independent,MICHAEL D EISENHAUER,95
+2026-gen,statewide,us-house-east,U.S. House 2,PONDERA,PONDERA,,Independent,MICHAEL D EISENHAUER,104
+2026-gen,statewide,us-house-east,U.S. House 2,POWDER RIVER,POWDER RIVER,,Independent,MICHAEL D EISENHAUER,49
+2026-gen,statewide,us-house-east,U.S. House 2,PRAIRIE,PRAIRIE,,Independent,MICHAEL D EISENHAUER,30
+2026-gen,statewide,us-house-east,U.S. House 2,RICHLAND,RICHLAND,,Independent,MICHAEL D EISENHAUER,192
+2026-gen,statewide,us-house-east,U.S. House 2,ROOSEVELT,ROOSEVELT,,Independent,MICHAEL D EISENHAUER,112
+2026-gen,statewide,us-house-east,U.S. House 2,ROSEBUD,ROSEBUD,,Independent,MICHAEL D EISENHAUER,149
+2026-gen,statewide,us-house-east,U.S. House 2,SHERIDAN,SHERIDAN,,Independent,MICHAEL D EISENHAUER,101
+2026-gen,statewide,us-house-east,U.S. House 2,STILLWATER,STILLWATER,,Independent,MICHAEL D EISENHAUER,270
+2026-gen,statewide,us-house-east,U.S. House 2,SWEET GRASS,SWEET GRASS,,Independent,MICHAEL D EISENHAUER,113
+2026-gen,statewide,us-house-east,U.S. House 2,TETON,TETON,,Independent,MICHAEL D EISENHAUER,226
+2026-gen,statewide,us-house-east,U.S. House 2,TOOLE,TOOLE,,Independent,MICHAEL D EISENHAUER,73
+2026-gen,statewide,us-house-east,U.S. House 2,TREASURE,TREASURE,,Independent,MICHAEL D EISENHAUER,18
+2026-gen,statewide,us-house-east,U.S. House 2,VALLEY,VALLEY,,Independent,MICHAEL D EISENHAUER,231
+2026-gen,statewide,us-house-east,U.S. House 2,WHEATLAND,WHEATLAND,,Independent,MICHAEL D EISENHAUER,43
+2026-gen,statewide,us-house-east,U.S. House 2,WIBAUX,WIBAUX,,Independent,MICHAEL D EISENHAUER,21
+2026-gen,statewide,us-house-east,U.S. House 2,YELLOWSTONE,YELLOWSTONE,,Independent,MICHAEL D EISENHAUER,4856
+2026-gen,statewide,psc-1,PSC 1,BIG HORN,BIG HORN,,Democrat,ANGELINE CHEEK,34
+2026-gen,statewide,psc-1,PSC 1,BLAINE,BLAINE,,Democrat,ANGELINE CHEEK,1098
+2026-gen,statewide,psc-1,PSC 1,CARTER,CARTER,,Democrat,ANGELINE CHEEK,55
+2026-gen,statewide,psc-1,PSC 1,CASCADE,CASCADE,,Democrat,ANGELINE CHEEK,9244
+2026-gen,statewide,psc-1,PSC 1,CHOUTEAU,CHOUTEAU,,Democrat,ANGELINE CHEEK,755
+2026-gen,statewide,psc-1,PSC 1,CUSTER,CUSTER,,Democrat,ANGELINE CHEEK,1210
+2026-gen,statewide,psc-1,PSC 1,DANIELS,DANIELS,,Democrat,ANGELINE CHEEK,127
+2026-gen,statewide,psc-1,PSC 1,DAWSON,DAWSON,,Democrat,ANGELINE CHEEK,776
+2026-gen,statewide,psc-1,PSC 1,FALLON,FALLON,,Democrat,ANGELINE CHEEK,144
+2026-gen,statewide,psc-1,PSC 1,GARFIELD,GARFIELD,,Democrat,ANGELINE CHEEK,53
+2026-gen,statewide,psc-1,PSC 1,GOLDEN VALLEY,GOLDEN VALLEY,,Democrat,ANGELINE CHEEK,58
+2026-gen,statewide,psc-1,PSC 1,HILL,HILL,,Democrat,ANGELINE CHEEK,2214
+2026-gen,statewide,psc-1,PSC 1,LIBERTY,LIBERTY,,Democrat,ANGELINE CHEEK,187
+2026-gen,statewide,psc-1,PSC 1,MCCONE,MCCONE,,Democrat,ANGELINE CHEEK,112
+2026-gen,statewide,psc-1,PSC 1,MUSSELSHELL,MUSSELSHELL,,Democrat,ANGELINE CHEEK,353
+2026-gen,statewide,psc-1,PSC 1,PHILLIPS,PHILLIPS,,Democrat,ANGELINE CHEEK,284
+2026-gen,statewide,psc-1,PSC 1,POWDER RIVER,POWDER RIVER,,Democrat,ANGELINE CHEEK,128
+2026-gen,statewide,psc-1,PSC 1,PRAIRIE,PRAIRIE,,Democrat,ANGELINE CHEEK,114
+2026-gen,statewide,psc-1,PSC 1,RICHLAND,RICHLAND,,Democrat,ANGELINE CHEEK,684
+2026-gen,statewide,psc-1,PSC 1,ROOSEVELT,ROOSEVELT,,Democrat,ANGELINE CHEEK,1228
+2026-gen,statewide,psc-1,PSC 1,ROSEBUD,ROSEBUD,,Democrat,ANGELINE CHEEK,500
+2026-gen,statewide,psc-1,PSC 1,SHERIDAN,SHERIDAN,,Democrat,ANGELINE CHEEK,434
+2026-gen,statewide,psc-1,PSC 1,TREASURE,TREASURE,,Democrat,ANGELINE CHEEK,49
+2026-gen,statewide,psc-1,PSC 1,VALLEY,VALLEY,,Democrat,ANGELINE CHEEK,667
+2026-gen,statewide,psc-1,PSC 1,WIBAUX,WIBAUX,,Democrat,ANGELINE CHEEK,65
+2026-gen,statewide,psc-1,PSC 1,YELLOWSTONE,YELLOWSTONE,,Democrat,ANGELINE CHEEK,6168
+2026-gen,statewide,psc-1,PSC 1,BIG HORN,BIG HORN,,Republican,JEFF PATTISON,213
+2026-gen,statewide,psc-1,PSC 1,BLAINE,BLAINE,,Republican,JEFF PATTISON,1109
+2026-gen,statewide,psc-1,PSC 1,CARTER,CARTER,,Republican,JEFF PATTISON,609
+2026-gen,statewide,psc-1,PSC 1,CASCADE,CASCADE,,Republican,JEFF PATTISON,10559
+2026-gen,statewide,psc-1,PSC 1,CHOUTEAU,CHOUTEAU,,Republican,JEFF PATTISON,1468
+2026-gen,statewide,psc-1,PSC 1,CUSTER,CUSTER,,Republican,JEFF PATTISON,2999
+2026-gen,statewide,psc-1,PSC 1,DANIELS,DANIELS,,Republican,JEFF PATTISON,659
+2026-gen,statewide,psc-1,PSC 1,DAWSON,DAWSON,,Republican,JEFF PATTISON,2534
+2026-gen,statewide,psc-1,PSC 1,FALLON,FALLON,,Republican,JEFF PATTISON,991
+2026-gen,statewide,psc-1,PSC 1,GARFIELD,GARFIELD,,Republican,JEFF PATTISON,573
+2026-gen,statewide,psc-1,PSC 1,GOLDEN VALLEY,GOLDEN VALLEY,,Republican,JEFF PATTISON,321
+2026-gen,statewide,psc-1,PSC 1,HILL,HILL,,Republican,JEFF PATTISON,2854
+2026-gen,statewide,psc-1,PSC 1,LIBERTY,LIBERTY,,Republican,JEFF PATTISON,565
+2026-gen,statewide,psc-1,PSC 1,MCCONE,MCCONE,,Republican,JEFF PATTISON,728
+2026-gen,statewide,psc-1,PSC 1,MUSSELSHELL,MUSSELSHELL,,Republican,JEFF PATTISON,2019
+2026-gen,statewide,psc-1,PSC 1,PHILLIPS,PHILLIPS,,Republican,JEFF PATTISON,1389
+2026-gen,statewide,psc-1,PSC 1,POWDER RIVER,POWDER RIVER,,Republican,JEFF PATTISON,712
+2026-gen,statewide,psc-1,PSC 1,PRAIRIE,PRAIRIE,,Republican,JEFF PATTISON,460
+2026-gen,statewide,psc-1,PSC 1,RICHLAND,RICHLAND,,Republican,JEFF PATTISON,2905
+2026-gen,statewide,psc-1,PSC 1,ROOSEVELT,ROOSEVELT,,Republican,JEFF PATTISON,1292
+2026-gen,statewide,psc-1,PSC 1,ROSEBUD,ROSEBUD,,Republican,JEFF PATTISON,1708
+2026-gen,statewide,psc-1,PSC 1,SHERIDAN,SHERIDAN,,Republican,JEFF PATTISON,1039
+2026-gen,statewide,psc-1,PSC 1,TREASURE,TREASURE,,Republican,JEFF PATTISON,296
+2026-gen,statewide,psc-1,PSC 1,VALLEY,VALLEY,,Republican,JEFF PATTISON,2418
+2026-gen,statewide,psc-1,PSC 1,WIBAUX,WIBAUX,,Republican,JEFF PATTISON,372
+2026-gen,statewide,psc-1,PSC 1,YELLOWSTONE,YELLOWSTONE,,Republican,JEFF PATTISON,9615
+2026-gen,statewide,psc-5,PSC 5,CASCADE,CASCADE,,Republican,ANNIE BUKACEK,5079
+2026-gen,statewide,psc-5,PSC 5,DEER LODGE,DEER LODGE,,Republican,ANNIE BUKACEK,63
+2026-gen,statewide,psc-5,PSC 5,FLATHEAD,FLATHEAD,,Republican,ANNIE BUKACEK,15016
+2026-gen,statewide,psc-5,PSC 5,GLACIER,GLACIER,,Republican,ANNIE BUKACEK,1319
+2026-gen,statewide,psc-5,PSC 5,GRANITE,GRANITE,,Republican,ANNIE BUKACEK,1206
+2026-gen,statewide,psc-5,PSC 5,LAKE,LAKE,,Republican,ANNIE BUKACEK,2860
+2026-gen,statewide,psc-5,PSC 5,LEWIS AND CLARK,LEWIS AND CLARK,,Republican,ANNIE BUKACEK,14201
+2026-gen,statewide,psc-5,PSC 5,MISSOULA,MISSOULA,,Republican,ANNIE BUKACEK,5073
+2026-gen,statewide,psc-5,PSC 5,PONDERA,PONDERA,,Republican,ANNIE BUKACEK,1499
+2026-gen,statewide,psc-5,PSC 5,POWELL,POWELL,,Republican,ANNIE BUKACEK,1880
+2026-gen,statewide,psc-5,PSC 5,SANDERS,SANDERS,,Republican,ANNIE BUKACEK,172
+2026-gen,statewide,psc-5,PSC 5,TETON,TETON,,Republican,ANNIE BUKACEK,1992
+2026-gen,statewide,psc-5,PSC 5,TOOLE,TOOLE,,Republican,ANNIE BUKACEK,1201
+2026-gen,statewide,psc-5,PSC 5,CASCADE,CASCADE,,Democrat,KEVIN HAMM,3138
+2026-gen,statewide,psc-5,PSC 5,DEER LODGE,DEER LODGE,,Democrat,KEVIN HAMM,90
+2026-gen,statewide,psc-5,PSC 5,FLATHEAD,FLATHEAD,,Democrat,KEVIN HAMM,11380
+2026-gen,statewide,psc-5,PSC 5,GLACIER,GLACIER,,Democrat,KEVIN HAMM,2610
+2026-gen,statewide,psc-5,PSC 5,GRANITE,GRANITE,,Democrat,KEVIN HAMM,566
+2026-gen,statewide,psc-5,PSC 5,LAKE,LAKE,,Democrat,KEVIN HAMM,2553
+2026-gen,statewide,psc-5,PSC 5,LEWIS AND CLARK,LEWIS AND CLARK,,Democrat,KEVIN HAMM,14479
+2026-gen,statewide,psc-5,PSC 5,MISSOULA,MISSOULA,,Democrat,KEVIN HAMM,8863
+2026-gen,statewide,psc-5,PSC 5,PONDERA,PONDERA,,Democrat,KEVIN HAMM,659
+2026-gen,statewide,psc-5,PSC 5,POWELL,POWELL,,Democrat,KEVIN HAMM,657
+2026-gen,statewide,psc-5,PSC 5,SANDERS,SANDERS,,Democrat,KEVIN HAMM,123
+2026-gen,statewide,psc-5,PSC 5,TETON,TETON,,Democrat,KEVIN HAMM,781
+2026-gen,statewide,psc-5,PSC 5,TOOLE,TOOLE,,Democrat,KEVIN HAMM,365
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,BEAVERHEAD,BEAVERHEAD,,Non-Partisan,AMY EDDY,2104
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,BIG HORN,BIG HORN,,Non-Partisan,AMY EDDY,2077
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,BLAINE,BLAINE,,Non-Partisan,AMY EDDY,1282
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,BROADWATER,BROADWATER,,Non-Partisan,AMY EDDY,1617
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,CARBON,CARBON,,Non-Partisan,AMY EDDY,3186
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,CARTER,CARTER,,Non-Partisan,AMY EDDY,185
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,CASCADE,CASCADE,,Non-Partisan,AMY EDDY,17450
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,CHOUTEAU,CHOUTEAU,,Non-Partisan,AMY EDDY,1197
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,CUSTER,CUSTER,,Non-Partisan,AMY EDDY,1935
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,DANIELS,DANIELS,,Non-Partisan,AMY EDDY,265
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,DAWSON,DAWSON,,Non-Partisan,AMY EDDY,1460
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,DEER LODGE,DEER LODGE,,Non-Partisan,AMY EDDY,2804
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,FALLON,FALLON,,Non-Partisan,AMY EDDY,349
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,FERGUS,FERGUS,,Non-Partisan,AMY EDDY,2301
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,FLATHEAD,FLATHEAD,,Non-Partisan,AMY EDDY,25692
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,GALLATIN,GALLATIN,,Non-Partisan,AMY EDDY,36267
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,GARFIELD,GARFIELD,,Non-Partisan,AMY EDDY,197
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,GLACIER,GLACIER,,Non-Partisan,AMY EDDY,2533
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,GOLDEN VALLEY,GOLDEN VALLEY,,Non-Partisan,AMY EDDY,123
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,GRANITE,GRANITE,,Non-Partisan,AMY EDDY,939
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,HILL,HILL,,Non-Partisan,AMY EDDY,3026
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,JEFFERSON,JEFFERSON,,Non-Partisan,AMY EDDY,3421
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,JUDITH BASIN,JUDITH BASIN,,Non-Partisan,AMY EDDY,475
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,LAKE,LAKE,,Non-Partisan,AMY EDDY,7649
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,LEWIS AND CLARK,LEWIS AND CLARK,,Non-Partisan,AMY EDDY,22560
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,LIBERTY,LIBERTY,,Non-Partisan,AMY EDDY,384
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,LINCOLN,LINCOLN,,Non-Partisan,AMY EDDY,4205
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,MADISON,MADISON,,Non-Partisan,AMY EDDY,2559
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,MCCONE,MCCONE,,Non-Partisan,AMY EDDY,238
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,MEAGHER,MEAGHER,,Non-Partisan,AMY EDDY,421
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,MINERAL,MINERAL,,Non-Partisan,AMY EDDY,1231
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,MISSOULA,MISSOULA,,Non-Partisan,AMY EDDY,44984
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,MUSSELSHELL,MUSSELSHELL,,Non-Partisan,AMY EDDY,819
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,PARK,PARK,,Non-Partisan,AMY EDDY,5782
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,PETROLEUM,PETROLEUM,,Non-Partisan,AMY EDDY,71
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,PHILLIPS,PHILLIPS,,Non-Partisan,AMY EDDY,632
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,PONDERA,PONDERA,,Non-Partisan,AMY EDDY,1165
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,POWDER RIVER,POWDER RIVER,,Non-Partisan,AMY EDDY,285
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,POWELL,POWELL,,Non-Partisan,AMY EDDY,1187
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,PRAIRIE,PRAIRIE,,Non-Partisan,AMY EDDY,219
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,RAVALLI,RAVALLI,,Non-Partisan,AMY EDDY,11680
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,RICHLAND,RICHLAND,,Non-Partisan,AMY EDDY,1365
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,ROOSEVELT,ROOSEVELT,,Non-Partisan,AMY EDDY,1439
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,ROSEBUD,ROSEBUD,,Non-Partisan,AMY EDDY,1253
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,SANDERS,SANDERS,,Non-Partisan,AMY EDDY,2925
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,SHERIDAN,SHERIDAN,,Non-Partisan,AMY EDDY,719
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,SILVER BOW,SILVER BOW,,Non-Partisan,AMY EDDY,10499
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,STILLWATER,STILLWATER,,Non-Partisan,AMY EDDY,1814
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,SWEET GRASS,SWEET GRASS,,Non-Partisan,AMY EDDY,832
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,TETON,TETON,,Non-Partisan,AMY EDDY,1385
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,TOOLE,TOOLE,,Non-Partisan,AMY EDDY,693
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,TREASURE,TREASURE,,Non-Partisan,AMY EDDY,129
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,VALLEY,VALLEY,,Non-Partisan,AMY EDDY,1460
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,WHEATLAND,WHEATLAND,,Non-Partisan,AMY EDDY,358
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,WIBAUX,WIBAUX,,Non-Partisan,AMY EDDY,146
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,YELLOWSTONE,YELLOWSTONE,,Non-Partisan,AMY EDDY,33762
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,BEAVERHEAD,BEAVERHEAD,,Non-Partisan,DAN WILSON,2104
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,BIG HORN,BIG HORN,,Non-Partisan,DAN WILSON,1277
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,BLAINE,BLAINE,,Non-Partisan,DAN WILSON,794
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,BROADWATER,BROADWATER,,Non-Partisan,DAN WILSON,1904
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,CARBON,CARBON,,Non-Partisan,DAN WILSON,2704
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,CARTER,CARTER,,Non-Partisan,DAN WILSON,423
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,CASCADE,CASCADE,,Non-Partisan,DAN WILSON,10765
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,CHOUTEAU,CHOUTEAU,,Non-Partisan,DAN WILSON,937
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,CUSTER,CUSTER,,Non-Partisan,DAN WILSON,2174
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,DANIELS,DANIELS,,Non-Partisan,DAN WILSON,477
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,DAWSON,DAWSON,,Non-Partisan,DAN WILSON,1719
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,DEER LODGE,DEER LODGE,,Non-Partisan,DAN WILSON,1115
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,FALLON,FALLON,,Non-Partisan,DAN WILSON,683
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,FERGUS,FERGUS,,Non-Partisan,DAN WILSON,2894
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,FLATHEAD,FLATHEAD,,Non-Partisan,DAN WILSON,24658
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,GALLATIN,GALLATIN,,Non-Partisan,DAN WILSON,17900
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,GARFIELD,GARFIELD,,Non-Partisan,DAN WILSON,382
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,GLACIER,GLACIER,,Non-Partisan,DAN WILSON,1287
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,GOLDEN VALLEY,GOLDEN VALLEY,,Non-Partisan,DAN WILSON,238
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,GRANITE,GRANITE,,Non-Partisan,DAN WILSON,768
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,HILL,HILL,,Non-Partisan,DAN WILSON,1785
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,JEFFERSON,JEFFERSON,,Non-Partisan,DAN WILSON,3102
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,JUDITH BASIN,JUDITH BASIN,,Non-Partisan,DAN WILSON,617
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,LAKE,LAKE,,Non-Partisan,DAN WILSON,5710
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,LEWIS AND CLARK,LEWIS AND CLARK,,Non-Partisan,DAN WILSON,11178
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,LIBERTY,LIBERTY,,Non-Partisan,DAN WILSON,325
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,LINCOLN,LINCOLN,,Non-Partisan,DAN WILSON,5085
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,MADISON,MADISON,,Non-Partisan,DAN WILSON,2383
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,MCCONE,MCCONE,,Non-Partisan,DAN WILSON,561
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,MEAGHER,MEAGHER,,Non-Partisan,DAN WILSON,465
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,MINERAL,MINERAL,,Non-Partisan,DAN WILSON,1033
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,MISSOULA,MISSOULA,,Non-Partisan,DAN WILSON,13559
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,MUSSELSHELL,MUSSELSHELL,,Non-Partisan,DAN WILSON,1465
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,PARK,PARK,,Non-Partisan,DAN WILSON,3461
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,PETROLEUM,PETROLEUM,,Non-Partisan,DAN WILSON,170
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,PHILLIPS,PHILLIPS,,Non-Partisan,DAN WILSON,939
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,PONDERA,PONDERA,,Non-Partisan,DAN WILSON,900
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,POWDER RIVER,POWDER RIVER,,Non-Partisan,DAN WILSON,498
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,POWELL,POWELL,,Non-Partisan,DAN WILSON,1193
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,PRAIRIE,PRAIRIE,,Non-Partisan,DAN WILSON,320
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,RAVALLI,RAVALLI,,Non-Partisan,DAN WILSON,11182
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,RICHLAND,RICHLAND,,Non-Partisan,DAN WILSON,2079
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,ROOSEVELT,ROOSEVELT,,Non-Partisan,DAN WILSON,964
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,ROSEBUD,ROSEBUD,,Non-Partisan,DAN WILSON,1402
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,SANDERS,SANDERS,,Non-Partisan,DAN WILSON,3402
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,SHERIDAN,SHERIDAN,,Non-Partisan,DAN WILSON,648
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,SILVER BOW,SILVER BOW,,Non-Partisan,DAN WILSON,3815
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,STILLWATER,STILLWATER,,Non-Partisan,DAN WILSON,2509
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,SWEET GRASS,SWEET GRASS,,Non-Partisan,DAN WILSON,959
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,TETON,TETON,,Non-Partisan,DAN WILSON,1299
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,TOOLE,TOOLE,,Non-Partisan,DAN WILSON,794
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,TREASURE,TREASURE,,Non-Partisan,DAN WILSON,205
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,VALLEY,VALLEY,,Non-Partisan,DAN WILSON,1424
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,WHEATLAND,WHEATLAND,,Non-Partisan,DAN WILSON,453
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,WIBAUX,WIBAUX,,Non-Partisan,DAN WILSON,252
+2026-gen,judicial,supreme-court-4,Supreme Court Justice #4,YELLOWSTONE,YELLOWSTONE,,Non-Partisan,DAN WILSON,27177
+2026-gen,judicial,district-court-judge-district-1-dept-3,"DISTRICT COURT JUDGE DISTRICT 1, DEPT 3",BROADWATER,BROADWATER,,Non-Partisan,DANIEL GUZYNSKI,2667
+2026-gen,judicial,district-court-judge-district-1-dept-3,"DISTRICT COURT JUDGE DISTRICT 1, DEPT 3",LEWIS AND CLARK,LEWIS AND CLARK,,Non-Partisan,DANIEL GUZYNSKI,26525
+2026-gen,judicial,shall-judge-shane-a-vannatta-of-the-district-court-judge-district-4-dept-5-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge SHANE A VANNATTA of the DISTRICT COURT JUDGE DISTRICT 4, DEPT 5 of the state of Montana be retained in office for another term?",MINERAL,MINERAL,,,YES,1524
+2026-gen,judicial,shall-judge-shane-a-vannatta-of-the-district-court-judge-district-4-dept-5-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge SHANE A VANNATTA of the DISTRICT COURT JUDGE DISTRICT 4, DEPT 5 of the state of Montana be retained in office for another term?",MISSOULA,MISSOULA,,,YES,44089
+2026-gen,judicial,shall-judge-shane-a-vannatta-of-the-district-court-judge-district-4-dept-5-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge SHANE A VANNATTA of the DISTRICT COURT JUDGE DISTRICT 4, DEPT 5 of the state of Montana be retained in office for another term?",MINERAL,MINERAL,,,NO,582
+2026-gen,judicial,shall-judge-shane-a-vannatta-of-the-district-court-judge-district-4-dept-5-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge SHANE A VANNATTA of the DISTRICT COURT JUDGE DISTRICT 4, DEPT 5 of the state of Montana be retained in office for another term?",MISSOULA,MISSOULA,,,NO,9206
+2026-gen,judicial,district-court-judge-district-7-dept-2,"DISTRICT COURT JUDGE DISTRICT 7, DEPT 2",DAWSON,DAWSON,,Non-Partisan,SCOTT W HERRING,1551
+2026-gen,judicial,district-court-judge-district-7-dept-2,"DISTRICT COURT JUDGE DISTRICT 7, DEPT 2",MCCONE,MCCONE,,Non-Partisan,SCOTT W HERRING,468
+2026-gen,judicial,district-court-judge-district-7-dept-2,"DISTRICT COURT JUDGE DISTRICT 7, DEPT 2",PRAIRIE,PRAIRIE,,Non-Partisan,SCOTT W HERRING,315
+2026-gen,judicial,district-court-judge-district-7-dept-2,"DISTRICT COURT JUDGE DISTRICT 7, DEPT 2",RICHLAND,RICHLAND,,Non-Partisan,SCOTT W HERRING,1948
+2026-gen,judicial,district-court-judge-district-7-dept-2,"DISTRICT COURT JUDGE DISTRICT 7, DEPT 2",WIBAUX,WIBAUX,,Non-Partisan,SCOTT W HERRING,231
+2026-gen,judicial,district-court-judge-district-7-dept-2,"DISTRICT COURT JUDGE DISTRICT 7, DEPT 2",DAWSON,DAWSON,,Non-Partisan,BRETT IRIGOIN,1735
+2026-gen,judicial,district-court-judge-district-7-dept-2,"DISTRICT COURT JUDGE DISTRICT 7, DEPT 2",MCCONE,MCCONE,,Non-Partisan,BRETT IRIGOIN,309
+2026-gen,judicial,district-court-judge-district-7-dept-2,"DISTRICT COURT JUDGE DISTRICT 7, DEPT 2",PRAIRIE,PRAIRIE,,Non-Partisan,BRETT IRIGOIN,220
+2026-gen,judicial,district-court-judge-district-7-dept-2,"DISTRICT COURT JUDGE DISTRICT 7, DEPT 2",RICHLAND,RICHLAND,,Non-Partisan,BRETT IRIGOIN,1566
+2026-gen,judicial,district-court-judge-district-7-dept-2,"DISTRICT COURT JUDGE DISTRICT 7, DEPT 2",WIBAUX,WIBAUX,,Non-Partisan,BRETT IRIGOIN,176
+2026-gen,judicial,shall-judge-john-w-parker-of-the-district-court-judge-district-8-dept-4-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge JOHN W PARKER of the DISTRICT COURT JUDGE DISTRICT 8, DEPT 4 of the state of Montana be retained in office for another term?",CASCADE,CASCADE,,,YES,22224
+2026-gen,judicial,shall-judge-john-w-parker-of-the-district-court-judge-district-8-dept-4-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge JOHN W PARKER of the DISTRICT COURT JUDGE DISTRICT 8, DEPT 4 of the state of Montana be retained in office for another term?",CASCADE,CASCADE,,,NO,4595
+2026-gen,judicial,shall-judge-brett-linneweber-of-the-district-court-judge-district-13-dept-4-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge BRETT LINNEWEBER of the DISTRICT COURT JUDGE DISTRICT 13, DEPT 4 of the state of Montana be retained in office for another term?",YELLOWSTONE,YELLOWSTONE,,,YES,45186
+2026-gen,judicial,shall-judge-brett-linneweber-of-the-district-court-judge-district-13-dept-4-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge BRETT LINNEWEBER of the DISTRICT COURT JUDGE DISTRICT 13, DEPT 4 of the state of Montana be retained in office for another term?",YELLOWSTONE,YELLOWSTONE,,,NO,9520
+2026-gen,judicial,shall-judge-rod-souza-of-the-district-court-judge-district-13-dept-5-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge ROD SOUZA of the DISTRICT COURT JUDGE DISTRICT 13, DEPT 5 of the state of Montana be retained in office for another term?",YELLOWSTONE,YELLOWSTONE,,,YES,48076
+2026-gen,judicial,shall-judge-rod-souza-of-the-district-court-judge-district-13-dept-5-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge ROD SOUZA of the DISTRICT COURT JUDGE DISTRICT 13, DEPT 5 of the state of Montana be retained in office for another term?",YELLOWSTONE,YELLOWSTONE,,,NO,7674
+2026-gen,judicial,shall-judge-seth-cunningham-of-the-district-court-judge-district-13-dept-9-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge SETH CUNNINGHAM of the DISTRICT COURT JUDGE DISTRICT 13, DEPT 9 of the state of Montana be retained in office for another term?",YELLOWSTONE,YELLOWSTONE,,,YES,45718
+2026-gen,judicial,shall-judge-seth-cunningham-of-the-district-court-judge-district-13-dept-9-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge SETH CUNNINGHAM of the DISTRICT COURT JUDGE DISTRICT 13, DEPT 9 of the state of Montana be retained in office for another term?",YELLOWSTONE,YELLOWSTONE,,,NO,8597
+2026-gen,judicial,shall-judge-ed-zink-of-the-district-court-judge-district-13-dept-10-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge ED ZINK of the DISTRICT COURT JUDGE DISTRICT 13, DEPT 10 of the state of Montana be retained in office for another term?",YELLOWSTONE,YELLOWSTONE,,,YES,45435
+2026-gen,judicial,shall-judge-ed-zink-of-the-district-court-judge-district-13-dept-10-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge ED ZINK of the DISTRICT COURT JUDGE DISTRICT 13, DEPT 10 of the state of Montana be retained in office for another term?",YELLOWSTONE,YELLOWSTONE,,,NO,9337
+2026-gen,judicial,shall-judge-rienne-h-mcelyea-of-the-district-court-judge-district-18-dept-2-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge RIENNE H MCELYEA of the DISTRICT COURT JUDGE DISTRICT 18, DEPT 2 of the state of Montana be retained in office for another term?",GALLATIN,GALLATIN,,,YES,38350
+2026-gen,judicial,shall-judge-rienne-h-mcelyea-of-the-district-court-judge-district-18-dept-2-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge RIENNE H MCELYEA of the DISTRICT COURT JUDGE DISTRICT 18, DEPT 2 of the state of Montana be retained in office for another term?",GALLATIN,GALLATIN,,,NO,8786
+2026-gen,judicial,shall-judge-molly-owen-of-the-district-court-judge-district-20-dept-1-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge MOLLY OWEN of the DISTRICT COURT JUDGE DISTRICT 20, DEPT 1 of the state of Montana be retained in office for another term?",LAKE,LAKE,,,YES,10543
+2026-gen,judicial,shall-judge-molly-owen-of-the-district-court-judge-district-20-dept-1-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge MOLLY OWEN of the DISTRICT COURT JUDGE DISTRICT 20, DEPT 1 of the state of Montana be retained in office for another term?",SANDERS,SANDERS,,,YES,4822
+2026-gen,judicial,shall-judge-molly-owen-of-the-district-court-judge-district-20-dept-1-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge MOLLY OWEN of the DISTRICT COURT JUDGE DISTRICT 20, DEPT 1 of the state of Montana be retained in office for another term?",LAKE,LAKE,,,NO,1841
+2026-gen,judicial,shall-judge-molly-owen-of-the-district-court-judge-district-20-dept-1-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge MOLLY OWEN of the DISTRICT COURT JUDGE DISTRICT 20, DEPT 1 of the state of Montana be retained in office for another term?",SANDERS,SANDERS,,,NO,942
+2026-gen,judicial,shall-judge-john-a-mercer-of-the-district-court-judge-district-20-dept-2-unexpired-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge JOHN A MERCER of the DISTRICT COURT JUDGE DISTRICT 20, DEPT 2 UNEXPIRED of the state of Montana be retained in office for another term?",LAKE,LAKE,,,YES,10306
+2026-gen,judicial,shall-judge-john-a-mercer-of-the-district-court-judge-district-20-dept-2-unexpired-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge JOHN A MERCER of the DISTRICT COURT JUDGE DISTRICT 20, DEPT 2 UNEXPIRED of the state of Montana be retained in office for another term?",SANDERS,SANDERS,,,YES,4890
+2026-gen,judicial,shall-judge-john-a-mercer-of-the-district-court-judge-district-20-dept-2-unexpired-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge JOHN A MERCER of the DISTRICT COURT JUDGE DISTRICT 20, DEPT 2 UNEXPIRED of the state of Montana be retained in office for another term?",LAKE,LAKE,,,NO,2152
+2026-gen,judicial,shall-judge-john-a-mercer-of-the-district-court-judge-district-20-dept-2-unexpired-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge JOHN A MERCER of the DISTRICT COURT JUDGE DISTRICT 20, DEPT 2 UNEXPIRED of the state of Montana be retained in office for another term?",SANDERS,SANDERS,,,NO,850
+2026-gen,judicial,shall-judge-jennifer-lint-of-the-district-court-judge-district-21-dept-2-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge JENNIFER LINT of the DISTRICT COURT JUDGE DISTRICT 21, DEPT 2 of the state of Montana be retained in office for another term?",RAVALLI,RAVALLI,,,YES,16101
+2026-gen,judicial,shall-judge-jennifer-lint-of-the-district-court-judge-district-21-dept-2-of-the-state-of-montana-be-retained-in-office-for-another-term,"Shall Judge JENNIFER LINT of the DISTRICT COURT JUDGE DISTRICT 21, DEPT 2 of the state of Montana be retained in office for another term?",RAVALLI,RAVALLI,,,NO,5243
+2026-gen,ballot,ci-132,CI-132,BEAVERHEAD,BEAVERHEAD,,,Yes,2517
+2026-gen,ballot,ci-132,CI-132,BIG HORN,BIG HORN,,,Yes,2604
+2026-gen,ballot,ci-132,CI-132,BLAINE,BLAINE,,,Yes,1596
+2026-gen,ballot,ci-132,CI-132,BROADWATER,BROADWATER,,,Yes,2138
+2026-gen,ballot,ci-132,CI-132,CARBON,CARBON,,,Yes,3892
+2026-gen,ballot,ci-132,CI-132,CARTER,CARTER,,,Yes,357
+2026-gen,ballot,ci-132,CI-132,CASCADE,CASCADE,,,Yes,20093
+2026-gen,ballot,ci-132,CI-132,CHOUTEAU,CHOUTEAU,,,Yes,1447
+2026-gen,ballot,ci-132,CI-132,CUSTER,CUSTER,,,Yes,2655
+2026-gen,ballot,ci-132,CI-132,DANIELS,DANIELS,,,Yes,368
+2026-gen,ballot,ci-132,CI-132,DAWSON,DAWSON,,,Yes,1978
+2026-gen,ballot,ci-132,CI-132,DEER LODGE,DEER LODGE,,,Yes,3198
+2026-gen,ballot,ci-132,CI-132,FALLON,FALLON,,,Yes,650
+2026-gen,ballot,ci-132,CI-132,FERGUS,FERGUS,,,Yes,3204
+2026-gen,ballot,ci-132,CI-132,FLATHEAD,FLATHEAD,,,Yes,32686
+2026-gen,ballot,ci-132,CI-132,GALLATIN,GALLATIN,,,Yes,40542
+2026-gen,ballot,ci-132,CI-132,GARFIELD,GARFIELD,,,Yes,281
+2026-gen,ballot,ci-132,CI-132,GLACIER,GLACIER,,,Yes,3381
+2026-gen,ballot,ci-132,CI-132,GOLDEN VALLEY,GOLDEN VALLEY,,,Yes,198
+2026-gen,ballot,ci-132,CI-132,GRANITE,GRANITE,,,Yes,1172
+2026-gen,ballot,ci-132,CI-132,HILL,HILL,,,Yes,3714
+2026-gen,ballot,ci-132,CI-132,JEFFERSON,JEFFERSON,,,Yes,4213
+2026-gen,ballot,ci-132,CI-132,JUDITH BASIN,JUDITH BASIN,,,Yes,624
+2026-gen,ballot,ci-132,CI-132,LAKE,LAKE,,,Yes,9239
+2026-gen,ballot,ci-132,CI-132,LEWIS AND CLARK,LEWIS AND CLARK,,,Yes,25097
+2026-gen,ballot,ci-132,CI-132,LIBERTY,LIBERTY,,,Yes,490
+2026-gen,ballot,ci-132,CI-132,LINCOLN,LINCOLN,,,Yes,5615
+2026-gen,ballot,ci-132,CI-132,MADISON,MADISON,,,Yes,3310
+2026-gen,ballot,ci-132,CI-132,MCCONE,MCCONE,,,Yes,368
+2026-gen,ballot,ci-132,CI-132,MEAGHER,MEAGHER,,,Yes,573
+2026-gen,ballot,ci-132,CI-132,MINERAL,MINERAL,,,Yes,1583
+2026-gen,ballot,ci-132,CI-132,MISSOULA,MISSOULA,,,Yes,48830
+2026-gen,ballot,ci-132,CI-132,MUSSELSHELL,MUSSELSHELL,,,Yes,1299
+2026-gen,ballot,ci-132,CI-132,PARK,PARK,,,Yes,6620
+2026-gen,ballot,ci-132,CI-132,PETROLEUM,PETROLEUM,,,Yes,115
+2026-gen,ballot,ci-132,CI-132,PHILLIPS,PHILLIPS,,,Yes,986
+2026-gen,ballot,ci-132,CI-132,PONDERA,PONDERA,,,Yes,1542
+2026-gen,ballot,ci-132,CI-132,POWDER RIVER,POWDER RIVER,,,Yes,411
+2026-gen,ballot,ci-132,CI-132,POWELL,POWELL,,,Yes,1612
+2026-gen,ballot,ci-132,CI-132,PRAIRIE,PRAIRIE,,,Yes,300
+2026-gen,ballot,ci-132,CI-132,RAVALLI,RAVALLI,,,Yes,14540
+2026-gen,ballot,ci-132,CI-132,RICHLAND,RICHLAND,,,Yes,2103
+2026-gen,ballot,ci-132,CI-132,ROOSEVELT,ROOSEVELT,,,Yes,1820
+2026-gen,ballot,ci-132,CI-132,ROSEBUD,ROSEBUD,,,Yes,1747
+2026-gen,ballot,ci-132,CI-132,SANDERS,SANDERS,,,Yes,3688
+2026-gen,ballot,ci-132,CI-132,SHERIDAN,SHERIDAN,,,Yes,1068
+2026-gen,ballot,ci-132,CI-132,SILVER BOW,SILVER BOW,,,Yes,12065
+2026-gen,ballot,ci-132,CI-132,STILLWATER,STILLWATER,,,Yes,2404
+2026-gen,ballot,ci-132,CI-132,SWEET GRASS,SWEET GRASS,,,Yes,1072
+2026-gen,ballot,ci-132,CI-132,TETON,TETON,,,Yes,1754
+2026-gen,ballot,ci-132,CI-132,TOOLE,TOOLE,,,Yes,955
+2026-gen,ballot,ci-132,CI-132,TREASURE,TREASURE,,,Yes,211
+2026-gen,ballot,ci-132,CI-132,VALLEY,VALLEY,,,Yes,2042
+2026-gen,ballot,ci-132,CI-132,WHEATLAND,WHEATLAND,,,Yes,508
+2026-gen,ballot,ci-132,CI-132,WIBAUX,WIBAUX,,,Yes,247
+2026-gen,ballot,ci-132,CI-132,YELLOWSTONE,YELLOWSTONE,,,Yes,40409
+2026-gen,ballot,ci-132,CI-132,BEAVERHEAD,BEAVERHEAD,,,No,1961
+2026-gen,ballot,ci-132,CI-132,BIG HORN,BIG HORN,,,No,821
+2026-gen,ballot,ci-132,CI-132,BLAINE,BLAINE,,,No,582
+2026-gen,ballot,ci-132,CI-132,BROADWATER,BROADWATER,,,No,1562
+2026-gen,ballot,ci-132,CI-132,CARBON,CARBON,,,No,2167
+2026-gen,ballot,ci-132,CI-132,CARTER,CARTER,,,No,320
+2026-gen,ballot,ci-132,CI-132,CASCADE,CASCADE,,,No,8746
+2026-gen,ballot,ci-132,CI-132,CHOUTEAU,CHOUTEAU,,,No,810
+2026-gen,ballot,ci-132,CI-132,CUSTER,CUSTER,,,No,1598
+2026-gen,ballot,ci-132,CI-132,DANIELS,DANIELS,,,No,410
+2026-gen,ballot,ci-132,CI-132,DAWSON,DAWSON,,,No,1378
+2026-gen,ballot,ci-132,CI-132,DEER LODGE,DEER LODGE,,,No,783
+2026-gen,ballot,ci-132,CI-132,FALLON,FALLON,,,No,494
+2026-gen,ballot,ci-132,CI-132,FERGUS,FERGUS,,,No,2161
+2026-gen,ballot,ci-132,CI-132,FLATHEAD,FLATHEAD,,,No,19213
+2026-gen,ballot,ci-132,CI-132,GALLATIN,GALLATIN,,,No,15911
+2026-gen,ballot,ci-132,CI-132,GARFIELD,GARFIELD,,,No,340
+2026-gen,ballot,ci-132,CI-132,GLACIER,GLACIER,,,No,600
+2026-gen,ballot,ci-132,CI-132,GOLDEN VALLEY,GOLDEN VALLEY,,,No,186
+2026-gen,ballot,ci-132,CI-132,GRANITE,GRANITE,,,No,614
+2026-gen,ballot,ci-132,CI-132,HILL,HILL,,,No,1373
+2026-gen,ballot,ci-132,CI-132,JEFFERSON,JEFFERSON,,,No,2572
+2026-gen,ballot,ci-132,CI-132,JUDITH BASIN,JUDITH BASIN,,,No,517
+2026-gen,ballot,ci-132,CI-132,LAKE,LAKE,,,No,4598
+2026-gen,ballot,ci-132,CI-132,LEWIS AND CLARK,LEWIS AND CLARK,,,No,9664
+2026-gen,ballot,ci-132,CI-132,LIBERTY,LIBERTY,,,No,265
+2026-gen,ballot,ci-132,CI-132,LINCOLN,LINCOLN,,,No,4186
+2026-gen,ballot,ci-132,CI-132,MADISON,MADISON,,,No,1860
+2026-gen,ballot,ci-132,CI-132,MCCONE,MCCONE,,,No,483
+2026-gen,ballot,ci-132,CI-132,MEAGHER,MEAGHER,,,No,344
+2026-gen,ballot,ci-132,CI-132,MINERAL,MINERAL,,,No,789
+2026-gen,ballot,ci-132,CI-132,MISSOULA,MISSOULA,,,No,12109
+2026-gen,ballot,ci-132,CI-132,MUSSELSHELL,MUSSELSHELL,,,No,1071
+2026-gen,ballot,ci-132,CI-132,PARK,PARK,,,No,2863
+2026-gen,ballot,ci-132,CI-132,PETROLEUM,PETROLEUM,,,No,138
+2026-gen,ballot,ci-132,CI-132,PHILLIPS,PHILLIPS,,,No,677
+2026-gen,ballot,ci-132,CI-132,PONDERA,PONDERA,,,No,652
+2026-gen,ballot,ci-132,CI-132,POWDER RIVER,POWDER RIVER,,,No,429
+2026-gen,ballot,ci-132,CI-132,POWELL,POWELL,,,No,960
+2026-gen,ballot,ci-132,CI-132,PRAIRIE,PRAIRIE,,,No,283
+2026-gen,ballot,ci-132,CI-132,RAVALLI,RAVALLI,,,No,9442
+2026-gen,ballot,ci-132,CI-132,RICHLAND,RICHLAND,,,No,1501
+2026-gen,ballot,ci-132,CI-132,ROOSEVELT,ROOSEVELT,,,No,663
+2026-gen,ballot,ci-132,CI-132,ROSEBUD,ROSEBUD,,,No,1013
+2026-gen,ballot,ci-132,CI-132,SANDERS,SANDERS,,,No,2857
+2026-gen,ballot,ci-132,CI-132,SHERIDAN,SHERIDAN,,,No,462
+2026-gen,ballot,ci-132,CI-132,SILVER BOW,SILVER BOW,,,No,2653
+2026-gen,ballot,ci-132,CI-132,STILLWATER,STILLWATER,,,No,2087
+2026-gen,ballot,ci-132,CI-132,SWEET GRASS,SWEET GRASS,,,No,798
+2026-gen,ballot,ci-132,CI-132,TETON,TETON,,,No,1096
+2026-gen,ballot,ci-132,CI-132,TOOLE,TOOLE,,,No,620
+2026-gen,ballot,ci-132,CI-132,TREASURE,TREASURE,,,No,143
+2026-gen,ballot,ci-132,CI-132,VALLEY,VALLEY,,,No,1010
+2026-gen,ballot,ci-132,CI-132,WHEATLAND,WHEATLAND,,,No,335
+2026-gen,ballot,ci-132,CI-132,WIBAUX,WIBAUX,,,No,212
+2026-gen,ballot,ci-132,CI-132,YELLOWSTONE,YELLOWSTONE,,,No,21515
+2026-gen,ballot,ci-133,CI-133,BEAVERHEAD,BEAVERHEAD,,,Yes,2285
+2026-gen,ballot,ci-133,CI-133,BIG HORN,BIG HORN,,,Yes,2414
+2026-gen,ballot,ci-133,CI-133,BLAINE,BLAINE,,,Yes,1440
+2026-gen,ballot,ci-133,CI-133,BROADWATER,BROADWATER,,,Yes,1967
+2026-gen,ballot,ci-133,CI-133,CARBON,CARBON,,,Yes,3726
+2026-gen,ballot,ci-133,CI-133,CARTER,CARTER,,,Yes,318
+2026-gen,ballot,ci-133,CI-133,CASCADE,CASCADE,,,Yes,18802
+2026-gen,ballot,ci-133,CI-133,CHOUTEAU,CHOUTEAU,,,Yes,1318
+2026-gen,ballot,ci-133,CI-133,CUSTER,CUSTER,,,Yes,2395
+2026-gen,ballot,ci-133,CI-133,DANIELS,DANIELS,,,Yes,323
+2026-gen,ballot,ci-133,CI-133,DAWSON,DAWSON,,,Yes,1818
+2026-gen,ballot,ci-133,CI-133,DEER LODGE,DEER LODGE,,,Yes,3037
+2026-gen,ballot,ci-133,CI-133,FALLON,FALLON,,,Yes,550
+2026-gen,ballot,ci-133,CI-133,FERGUS,FERGUS,,,Yes,2838
+2026-gen,ballot,ci-133,CI-133,FLATHEAD,FLATHEAD,,,Yes,30559
+2026-gen,ballot,ci-133,CI-133,GALLATIN,GALLATIN,,,Yes,38999
+2026-gen,ballot,ci-133,CI-133,GARFIELD,GARFIELD,,,Yes,252
+2026-gen,ballot,ci-133,CI-133,GLACIER,GLACIER,,,Yes,3177
+2026-gen,ballot,ci-133,CI-133,GOLDEN VALLEY,GOLDEN VALLEY,,,Yes,184
+2026-gen,ballot,ci-133,CI-133,GRANITE,GRANITE,,,Yes,1105
+2026-gen,ballot,ci-133,CI-133,HILL,HILL,,,Yes,3401
+2026-gen,ballot,ci-133,CI-133,JEFFERSON,JEFFERSON,,,Yes,4021
+2026-gen,ballot,ci-133,CI-133,JUDITH BASIN,JUDITH BASIN,,,Yes,547
+2026-gen,ballot,ci-133,CI-133,LAKE,LAKE,,,Yes,8548
+2026-gen,ballot,ci-133,CI-133,LEWIS AND CLARK,LEWIS AND CLARK,,,Yes,23254
+2026-gen,ballot,ci-133,CI-133,LIBERTY,LIBERTY,,,Yes,409
+2026-gen,ballot,ci-133,CI-133,LINCOLN,LINCOLN,,,Yes,5274
+2026-gen,ballot,ci-133,CI-133,MADISON,MADISON,,,Yes,2998
+2026-gen,ballot,ci-133,CI-133,MCCONE,MCCONE,,,Yes,307
+2026-gen,ballot,ci-133,CI-133,MEAGHER,MEAGHER,,,Yes,489
+2026-gen,ballot,ci-133,CI-133,MINERAL,MINERAL,,,Yes,1461
+2026-gen,ballot,ci-133,CI-133,MISSOULA,MISSOULA,,,Yes,46725
+2026-gen,ballot,ci-133,CI-133,MUSSELSHELL,MUSSELSHELL,,,Yes,1212
+2026-gen,ballot,ci-133,CI-133,PARK,PARK,,,Yes,6185
+2026-gen,ballot,ci-133,CI-133,PETROLEUM,PETROLEUM,,,Yes,100
+2026-gen,ballot,ci-133,CI-133,PHILLIPS,PHILLIPS,,,Yes,847
+2026-gen,ballot,ci-133,CI-133,PONDERA,PONDERA,,,Yes,1414
+2026-gen,ballot,ci-133,CI-133,POWDER RIVER,POWDER RIVER,,,Yes,360
+2026-gen,ballot,ci-133,CI-133,POWELL,POWELL,,,Yes,1451
+2026-gen,ballot,ci-133,CI-133,PRAIRIE,PRAIRIE,,,Yes,261
+2026-gen,ballot,ci-133,CI-133,RAVALLI,RAVALLI,,,Yes,13473
+2026-gen,ballot,ci-133,CI-133,RICHLAND,RICHLAND,,,Yes,1855
+2026-gen,ballot,ci-133,CI-133,ROOSEVELT,ROOSEVELT,,,Yes,1729
+2026-gen,ballot,ci-133,CI-133,ROSEBUD,ROSEBUD,,,Yes,1616
+2026-gen,ballot,ci-133,CI-133,SANDERS,SANDERS,,,Yes,3413
+2026-gen,ballot,ci-133,CI-133,SHERIDAN,SHERIDAN,,,Yes,937
+2026-gen,ballot,ci-133,CI-133,SILVER BOW,SILVER BOW,,,Yes,11486
+2026-gen,ballot,ci-133,CI-133,STILLWATER,STILLWATER,,,Yes,2321
+2026-gen,ballot,ci-133,CI-133,SWEET GRASS,SWEET GRASS,,,Yes,975
+2026-gen,ballot,ci-133,CI-133,TETON,TETON,,,Yes,1573
+2026-gen,ballot,ci-133,CI-133,TOOLE,TOOLE,,,Yes,852
+2026-gen,ballot,ci-133,CI-133,TREASURE,TREASURE,,,Yes,172
+2026-gen,ballot,ci-133,CI-133,VALLEY,VALLEY,,,Yes,1801
+2026-gen,ballot,ci-133,CI-133,WHEATLAND,WHEATLAND,,,Yes,446
+2026-gen,ballot,ci-133,CI-133,WIBAUX,WIBAUX,,,Yes,212
+2026-gen,ballot,ci-133,CI-133,YELLOWSTONE,YELLOWSTONE,,,Yes,38950
+2026-gen,ballot,ci-133,CI-133,BEAVERHEAD,BEAVERHEAD,,,No,2121
+2026-gen,ballot,ci-133,CI-133,BIG HORN,BIG HORN,,,No,895
+2026-gen,ballot,ci-133,CI-133,BLAINE,BLAINE,,,No,711
+2026-gen,ballot,ci-133,CI-133,BROADWATER,BROADWATER,,,No,1657
+2026-gen,ballot,ci-133,CI-133,CARBON,CARBON,,,No,2264
+2026-gen,ballot,ci-133,CI-133,CARTER,CARTER,,,No,352
+2026-gen,ballot,ci-133,CI-133,CASCADE,CASCADE,,,No,9452
+2026-gen,ballot,ci-133,CI-133,CHOUTEAU,CHOUTEAU,,,No,894
+2026-gen,ballot,ci-133,CI-133,CUSTER,CUSTER,,,No,1749
+2026-gen,ballot,ci-133,CI-133,DANIELS,DANIELS,,,No,445
+2026-gen,ballot,ci-133,CI-133,DAWSON,DAWSON,,,No,1430
+2026-gen,ballot,ci-133,CI-133,DEER LODGE,DEER LODGE,,,No,928
+2026-gen,ballot,ci-133,CI-133,FALLON,FALLON,,,No,565
+2026-gen,ballot,ci-133,CI-133,FERGUS,FERGUS,,,No,2317
+2026-gen,ballot,ci-133,CI-133,FLATHEAD,FLATHEAD,,,No,20226
+2026-gen,ballot,ci-133,CI-133,GALLATIN,GALLATIN,,,No,16245
+2026-gen,ballot,ci-133,CI-133,GARFIELD,GARFIELD,,,No,353
+2026-gen,ballot,ci-133,CI-133,GLACIER,GLACIER,,,No,719
+2026-gen,ballot,ci-133,CI-133,GOLDEN VALLEY,GOLDEN VALLEY,,,No,196
+2026-gen,ballot,ci-133,CI-133,GRANITE,GRANITE,,,No,656
+2026-gen,ballot,ci-133,CI-133,HILL,HILL,,,No,1544
+2026-gen,ballot,ci-133,CI-133,JEFFERSON,JEFFERSON,,,No,2698
+2026-gen,ballot,ci-133,CI-133,JUDITH BASIN,JUDITH BASIN,,,No,577
+2026-gen,ballot,ci-133,CI-133,LAKE,LAKE,,,No,4966
+2026-gen,ballot,ci-133,CI-133,LEWIS AND CLARK,LEWIS AND CLARK,,,No,10645
+2026-gen,ballot,ci-133,CI-133,LIBERTY,LIBERTY,,,No,310
+2026-gen,ballot,ci-133,CI-133,LINCOLN,LINCOLN,,,No,4409
+2026-gen,ballot,ci-133,CI-133,MADISON,MADISON,,,No,2107
+2026-gen,ballot,ci-133,CI-133,MCCONE,MCCONE,,,No,528
+2026-gen,ballot,ci-133,CI-133,MEAGHER,MEAGHER,,,No,413
+2026-gen,ballot,ci-133,CI-133,MINERAL,MINERAL,,,No,863
+2026-gen,ballot,ci-133,CI-133,MISSOULA,MISSOULA,,,No,13567
+2026-gen,ballot,ci-133,CI-133,MUSSELSHELL,MUSSELSHELL,,,No,1114
+2026-gen,ballot,ci-133,CI-133,PARK,PARK,,,No,3078
+2026-gen,ballot,ci-133,CI-133,PETROLEUM,PETROLEUM,,,No,146
+2026-gen,ballot,ci-133,CI-133,PHILLIPS,PHILLIPS,,,No,774
+2026-gen,ballot,ci-133,CI-133,PONDERA,PONDERA,,,No,744
+2026-gen,ballot,ci-133,CI-133,POWDER RIVER,POWDER RIVER,,,No,463
+2026-gen,ballot,ci-133,CI-133,POWELL,POWELL,,,No,1073
+2026-gen,ballot,ci-133,CI-133,PRAIRIE,PRAIRIE,,,No,312
+2026-gen,ballot,ci-133,CI-133,RAVALLI,RAVALLI,,,No,10068
+2026-gen,ballot,ci-133,CI-133,RICHLAND,RICHLAND,,,No,1680
+2026-gen,ballot,ci-133,CI-133,ROOSEVELT,ROOSEVELT,,,No,750
+2026-gen,ballot,ci-133,CI-133,ROSEBUD,ROSEBUD,,,No,1075
+2026-gen,ballot,ci-133,CI-133,SANDERS,SANDERS,,,No,2929
+2026-gen,ballot,ci-133,CI-133,SHERIDAN,SHERIDAN,,,No,518
+2026-gen,ballot,ci-133,CI-133,SILVER BOW,SILVER BOW,,,No,3019
+2026-gen,ballot,ci-133,CI-133,STILLWATER,STILLWATER,,,No,2115
+2026-gen,ballot,ci-133,CI-133,SWEET GRASS,SWEET GRASS,,,No,874
+2026-gen,ballot,ci-133,CI-133,TETON,TETON,,,No,1204
+2026-gen,ballot,ci-133,CI-133,TOOLE,TOOLE,,,No,670
+2026-gen,ballot,ci-133,CI-133,TREASURE,TREASURE,,,No,166
+2026-gen,ballot,ci-133,CI-133,VALLEY,VALLEY,,,No,1183
+2026-gen,ballot,ci-133,CI-133,WHEATLAND,WHEATLAND,,,No,383
+2026-gen,ballot,ci-133,CI-133,WIBAUX,WIBAUX,,,No,224
+2026-gen,ballot,ci-133,CI-133,YELLOWSTONE,YELLOWSTONE,,,No,21841
+2026-gen,ballot,i-194,I-194,BEAVERHEAD,BEAVERHEAD,,,Yes,2261
+2026-gen,ballot,i-194,I-194,BIG HORN,BIG HORN,,,Yes,2163
+2026-gen,ballot,i-194,I-194,BLAINE,BLAINE,,,Yes,1355
+2026-gen,ballot,i-194,I-194,BROADWATER,BROADWATER,,,Yes,1918
+2026-gen,ballot,i-194,I-194,CARBON,CARBON,,,Yes,3741
+2026-gen,ballot,i-194,I-194,CARTER,CARTER,,,Yes,283
+2026-gen,ballot,i-194,I-194,CASCADE,CASCADE,,,Yes,19043
+2026-gen,ballot,i-194,I-194,CHOUTEAU,CHOUTEAU,,,Yes,1294
+2026-gen,ballot,i-194,I-194,CUSTER,CUSTER,,,Yes,2398
+2026-gen,ballot,i-194,I-194,DANIELS,DANIELS,,,Yes,326
+2026-gen,ballot,i-194,I-194,DAWSON,DAWSON,,,Yes,1810
+2026-gen,ballot,i-194,I-194,DEER LODGE,DEER LODGE,,,Yes,2998
+2026-gen,ballot,i-194,I-194,FALLON,FALLON,,,Yes,528
+2026-gen,ballot,i-194,I-194,FERGUS,FERGUS,,,Yes,2838
+2026-gen,ballot,i-194,I-194,FLATHEAD,FLATHEAD,,,Yes,29924
+2026-gen,ballot,i-194,I-194,GALLATIN,GALLATIN,,,Yes,39204
+2026-gen,ballot,i-194,I-194,GARFIELD,GARFIELD,,,Yes,234
+2026-gen,ballot,i-194,I-194,GLACIER,GLACIER,,,Yes,2955
+2026-gen,ballot,i-194,I-194,GOLDEN VALLEY,GOLDEN VALLEY,,,Yes,161
+2026-gen,ballot,i-194,I-194,GRANITE,GRANITE,,,Yes,1072
+2026-gen,ballot,i-194,I-194,HILL,HILL,,,Yes,3353
+2026-gen,ballot,i-194,I-194,JEFFERSON,JEFFERSON,,,Yes,4011
+2026-gen,ballot,i-194,I-194,JUDITH BASIN,JUDITH BASIN,,,Yes,523
+2026-gen,ballot,i-194,I-194,LAKE,LAKE,,,Yes,8422
+2026-gen,ballot,i-194,I-194,LEWIS AND CLARK,LEWIS AND CLARK,,,Yes,23558
+2026-gen,ballot,i-194,I-194,LIBERTY,LIBERTY,,,Yes,400
+2026-gen,ballot,i-194,I-194,LINCOLN,LINCOLN,,,Yes,5159
+2026-gen,ballot,i-194,I-194,MADISON,MADISON,,,Yes,3011
+2026-gen,ballot,i-194,I-194,MCCONE,MCCONE,,,Yes,298
+2026-gen,ballot,i-194,I-194,MEAGHER,MEAGHER,,,Yes,477
+2026-gen,ballot,i-194,I-194,MINERAL,MINERAL,,,Yes,1433
+2026-gen,ballot,i-194,I-194,MISSOULA,MISSOULA,,,Yes,46876
+2026-gen,ballot,i-194,I-194,MUSSELSHELL,MUSSELSHELL,,,Yes,1175
+2026-gen,ballot,i-194,I-194,PARK,PARK,,,Yes,6294
+2026-gen,ballot,i-194,I-194,PETROLEUM,PETROLEUM,,,Yes,107
+2026-gen,ballot,i-194,I-194,PHILLIPS,PHILLIPS,,,Yes,818
+2026-gen,ballot,i-194,I-194,PONDERA,PONDERA,,,Yes,1392
+2026-gen,ballot,i-194,I-194,POWDER RIVER,POWDER RIVER,,,Yes,367
+2026-gen,ballot,i-194,I-194,POWELL,POWELL,,,Yes,1434
+2026-gen,ballot,i-194,I-194,PRAIRIE,PRAIRIE,,,Yes,256
+2026-gen,ballot,i-194,I-194,RAVALLI,RAVALLI,,,Yes,13413
+2026-gen,ballot,i-194,I-194,RICHLAND,RICHLAND,,,Yes,1745
+2026-gen,ballot,i-194,I-194,ROOSEVELT,ROOSEVELT,,,Yes,1659
+2026-gen,ballot,i-194,I-194,ROSEBUD,ROSEBUD,,,Yes,1543
+2026-gen,ballot,i-194,I-194,SANDERS,SANDERS,,,Yes,3382
+2026-gen,ballot,i-194,I-194,SHERIDAN,SHERIDAN,,,Yes,935
+2026-gen,ballot,i-194,I-194,SILVER BOW,SILVER BOW,,,Yes,11235
+2026-gen,ballot,i-194,I-194,STILLWATER,STILLWATER,,,Yes,2296
+2026-gen,ballot,i-194,I-194,SWEET GRASS,SWEET GRASS,,,Yes,984
+2026-gen,ballot,i-194,I-194,TETON,TETON,,,Yes,1613
+2026-gen,ballot,i-194,I-194,TOOLE,TOOLE,,,Yes,865
+2026-gen,ballot,i-194,I-194,TREASURE,TREASURE,,,Yes,178
+2026-gen,ballot,i-194,I-194,VALLEY,VALLEY,,,Yes,1824
+2026-gen,ballot,i-194,I-194,WHEATLAND,WHEATLAND,,,Yes,440
+2026-gen,ballot,i-194,I-194,WIBAUX,WIBAUX,,,Yes,180
+2026-gen,ballot,i-194,I-194,YELLOWSTONE,YELLOWSTONE,,,Yes,38947
+2026-gen,ballot,i-194,I-194,BEAVERHEAD,BEAVERHEAD,,,No,2048
+2026-gen,ballot,i-194,I-194,BIG HORN,BIG HORN,,,No,1102
+2026-gen,ballot,i-194,I-194,BLAINE,BLAINE,,,No,729
+2026-gen,ballot,i-194,I-194,BROADWATER,BROADWATER,,,No,1611
+2026-gen,ballot,i-194,I-194,CARBON,CARBON,,,No,2170
+2026-gen,ballot,i-194,I-194,CARTER,CARTER,,,No,345
+2026-gen,ballot,i-194,I-194,CASCADE,CASCADE,,,No,9227
+2026-gen,ballot,i-194,I-194,CHOUTEAU,CHOUTEAU,,,No,904
+2026-gen,ballot,i-194,I-194,CUSTER,CUSTER,,,No,1727
+2026-gen,ballot,i-194,I-194,DANIELS,DANIELS,,,No,416
+2026-gen,ballot,i-194,I-194,DAWSON,DAWSON,,,No,1450
+2026-gen,ballot,i-194,I-194,DEER LODGE,DEER LODGE,,,No,952
+2026-gen,ballot,i-194,I-194,FALLON,FALLON,,,No,555
+2026-gen,ballot,i-194,I-194,FERGUS,FERGUS,,,No,2319
+2026-gen,ballot,i-194,I-194,FLATHEAD,FLATHEAD,,,No,20088
+2026-gen,ballot,i-194,I-194,GALLATIN,GALLATIN,,,No,16110
+2026-gen,ballot,i-194,I-194,GARFIELD,GARFIELD,,,No,347
+2026-gen,ballot,i-194,I-194,GLACIER,GLACIER,,,No,811
+2026-gen,ballot,i-194,I-194,GOLDEN VALLEY,GOLDEN VALLEY,,,No,209
+2026-gen,ballot,i-194,I-194,GRANITE,GRANITE,,,No,641
+2026-gen,ballot,i-194,I-194,HILL,HILL,,,No,1564
+2026-gen,ballot,i-194,I-194,JEFFERSON,JEFFERSON,,,No,2609
+2026-gen,ballot,i-194,I-194,JUDITH BASIN,JUDITH BASIN,,,No,534
+2026-gen,ballot,i-194,I-194,LAKE,LAKE,,,No,4968
+2026-gen,ballot,i-194,I-194,LEWIS AND CLARK,LEWIS AND CLARK,,,No,10112
+2026-gen,ballot,i-194,I-194,LIBERTY,LIBERTY,,,No,297
+2026-gen,ballot,i-194,I-194,LINCOLN,LINCOLN,,,No,4430
+2026-gen,ballot,i-194,I-194,MADISON,MADISON,,,No,2044
+2026-gen,ballot,i-194,I-194,MCCONE,MCCONE,,,No,517
+2026-gen,ballot,i-194,I-194,MEAGHER,MEAGHER,,,No,425
+2026-gen,ballot,i-194,I-194,MINERAL,MINERAL,,,No,837
+2026-gen,ballot,i-194,I-194,MISSOULA,MISSOULA,,,No,12876
+2026-gen,ballot,i-194,I-194,MUSSELSHELL,MUSSELSHELL,,,No,1121
+2026-gen,ballot,i-194,I-194,PARK,PARK,,,No,2942
+2026-gen,ballot,i-194,I-194,PETROLEUM,PETROLEUM,,,No,139
+2026-gen,ballot,i-194,I-194,PHILLIPS,PHILLIPS,,,No,764
+2026-gen,ballot,i-194,I-194,PONDERA,PONDERA,,,No,713
+2026-gen,ballot,i-194,I-194,POWDER RIVER,POWDER RIVER,,,No,436
+2026-gen,ballot,i-194,I-194,POWELL,POWELL,,,No,1076
+2026-gen,ballot,i-194,I-194,PRAIRIE,PRAIRIE,,,No,313
+2026-gen,ballot,i-194,I-194,RAVALLI,RAVALLI,,,No,9799
+2026-gen,ballot,i-194,I-194,RICHLAND,RICHLAND,,,No,1771
+2026-gen,ballot,i-194,I-194,ROOSEVELT,ROOSEVELT,,,No,816
+2026-gen,ballot,i-194,I-194,ROSEBUD,ROSEBUD,,,No,1138
+2026-gen,ballot,i-194,I-194,SANDERS,SANDERS,,,No,2913
+2026-gen,ballot,i-194,I-194,SHERIDAN,SHERIDAN,,,No,493
+2026-gen,ballot,i-194,I-194,SILVER BOW,SILVER BOW,,,No,3204
+2026-gen,ballot,i-194,I-194,STILLWATER,STILLWATER,,,No,2115
+2026-gen,ballot,i-194,I-194,SWEET GRASS,SWEET GRASS,,,No,828
+2026-gen,ballot,i-194,I-194,TETON,TETON,,,No,1162
+2026-gen,ballot,i-194,I-194,TOOLE,TOOLE,,,No,653
+2026-gen,ballot,i-194,I-194,TREASURE,TREASURE,,,No,150
+2026-gen,ballot,i-194,I-194,VALLEY,VALLEY,,,No,1115
+2026-gen,ballot,i-194,I-194,WHEATLAND,WHEATLAND,,,No,347
+2026-gen,ballot,i-194,I-194,WIBAUX,WIBAUX,,,No,249
+2026-gen,ballot,i-194,I-194,YELLOWSTONE,YELLOWSTONE,,,No,22108
+2026-gen,unmapped,sos-05122-sorrel-springs-water-district,SORREL SPRINGS WATER DISTRICT,MISSOULA,MISSOULA,,,YES ON COUNTY ISSUE 0003,143
+2026-gen,unmapped,sos-05122-sorrel-springs-water-district,SORREL SPRINGS WATER DISTRICT,MISSOULA,MISSOULA,,,NO ON COUNTY ISSUE 003,14
+2026-gen,legislative,SD-1,SD-1,FLATHEAD,FLATHEAD,,Republican,STEVE GUNDERSON,904
+2026-gen,legislative,SD-1,SD-1,LINCOLN,LINCOLN,,Republican,STEVE GUNDERSON,7436
+2026-gen,legislative,SD-1,SD-1,FLATHEAD,FLATHEAD,,Democrat,JONATHAN RUSSELL JAMESON,209
+2026-gen,legislative,SD-1,SD-1,LINCOLN,LINCOLN,,Democrat,JONATHAN RUSSELL JAMESON,2466
+2026-gen,legislative,SD-4,SD-4,FLATHEAD,FLATHEAD,,Republican,AMY REGIER,5176
+2026-gen,legislative,SD-4,SD-4,FLATHEAD,FLATHEAD,,Democrat,KYLE WATERMAN,3489
+2026-gen,legislative,SD-6,SD-6,FLATHEAD,FLATHEAD,,Democrat,PATRICK FITZPATRICK,2594
+2026-gen,legislative,SD-6,SD-6,LAKE,LAKE,,Democrat,PATRICK FITZPATRICK,1280
+2026-gen,legislative,SD-6,SD-6,FLATHEAD,FLATHEAD,,Republican,MARK NOLAND,6470
+2026-gen,legislative,SD-6,SD-6,LAKE,LAKE,,Republican,MARK NOLAND,2050
+2026-gen,legislative,SD-8,SD-8,FLATHEAD,FLATHEAD,,Republican,CHRISTOPHER PAUL BUCKLES,0
+2026-gen,legislative,SD-8,SD-8,GLACIER,GLACIER,,Republican,CHRISTOPHER PAUL BUCKLES,1238
+2026-gen,legislative,SD-8,SD-8,LAKE,LAKE,,Republican,CHRISTOPHER PAUL BUCKLES,1222
+2026-gen,legislative,SD-8,SD-8,PONDERA,PONDERA,,Republican,CHRISTOPHER PAUL BUCKLES,13
+2026-gen,legislative,SD-8,SD-8,FLATHEAD,FLATHEAD,,Democrat,TYSON T RUNNING WOLF,0
+2026-gen,legislative,SD-8,SD-8,GLACIER,GLACIER,,Democrat,TYSON T RUNNING WOLF,2713
+2026-gen,legislative,SD-8,SD-8,LAKE,LAKE,,Democrat,TYSON T RUNNING WOLF,1220
+2026-gen,legislative,SD-8,SD-8,PONDERA,PONDERA,,Democrat,TYSON T RUNNING WOLF,109
+2026-gen,legislative,SD-9,SD-9,LEWIS AND CLARK,LEWIS AND CLARK,,Democrat,NOY HOLLAND,917
+2026-gen,legislative,SD-9,SD-9,PONDERA,PONDERA,,Democrat,NOY HOLLAND,406
+2026-gen,legislative,SD-9,SD-9,TETON,TETON,,Democrat,NOY HOLLAND,674
+2026-gen,legislative,SD-9,SD-9,TOOLE,TOOLE,,Democrat,NOY HOLLAND,332
+2026-gen,legislative,SD-9,SD-9,LEWIS AND CLARK,LEWIS AND CLARK,,Republican,LLEW JONES,2176
+2026-gen,legislative,SD-9,SD-9,PONDERA,PONDERA,,Republican,LLEW JONES,1606
+2026-gen,legislative,SD-9,SD-9,TETON,TETON,,Republican,LLEW JONES,2057
+2026-gen,legislative,SD-9,SD-9,TOOLE,TOOLE,,Republican,LLEW JONES,1193
+2026-gen,legislative,SD-10,SD-10,CASCADE,CASCADE,,Republican,JESSICA DYRDAHL,2832
+2026-gen,legislative,SD-10,SD-10,CASCADE,CASCADE,,Democrat,MARGARET MITCHELL,3703
+2026-gen,legislative,SD-11,SD-11,CASCADE,CASCADE,,Republican,STEVEN GALLOWAY,3680
+2026-gen,legislative,SD-11,SD-11,CASCADE,CASCADE,,Democrat,VALYNDA HOLLAND,3087
+2026-gen,legislative,SD-12,SD-12,CASCADE,CASCADE,,Democrat,MINDY LEACH,3646
+2026-gen,legislative,SD-12,SD-12,CASCADE,CASCADE,,Republican,GEORGE NIKOLAKAKOS,3965
+2026-gen,legislative,SD-14,SD-14,BLAINE,BLAINE,,Republican,ERIC ALBUS,596
+2026-gen,legislative,SD-14,SD-14,HILL,HILL,,Republican,ERIC ALBUS,2434
+2026-gen,legislative,SD-14,SD-14,LIBERTY,LIBERTY,,Republican,ERIC ALBUS,558
+2026-gen,legislative,SD-14,SD-14,PHILLIPS,PHILLIPS,,Republican,ERIC ALBUS,985
+2026-gen,legislative,SD-14,SD-14,VALLEY,VALLEY,,Republican,ERIC ALBUS,484
+2026-gen,legislative,SD-14,SD-14,BLAINE,BLAINE,,Democrat,BLAKE BORST,235
+2026-gen,legislative,SD-14,SD-14,HILL,HILL,,Democrat,BLAKE BORST,1902
+2026-gen,legislative,SD-14,SD-14,LIBERTY,LIBERTY,,Democrat,BLAKE BORST,201
+2026-gen,legislative,SD-14,SD-14,PHILLIPS,PHILLIPS,,Democrat,BLAKE BORST,199
+2026-gen,legislative,SD-14,SD-14,VALLEY,VALLEY,,Democrat,BLAKE BORST,61
+2026-gen,legislative,SD-18,SD-18,BIG HORN,BIG HORN,,Republican,GREG KMETZ,206
+2026-gen,legislative,SD-18,SD-18,CUSTER,CUSTER,,Republican,GREG KMETZ,2582
+2026-gen,legislative,SD-18,SD-18,GARFIELD,GARFIELD,,Republican,GREG KMETZ,585
+2026-gen,legislative,SD-18,SD-18,ROSEBUD,ROSEBUD,,Republican,GREG KMETZ,1707
+2026-gen,legislative,SD-18,SD-18,TREASURE,TREASURE,,Republican,GREG KMETZ,297
+2026-gen,legislative,SD-18,SD-18,YELLOWSTONE,YELLOWSTONE,,Republican,GREG KMETZ,1016
+2026-gen,legislative,SD-18,SD-18,BIG HORN,BIG HORN,,Democrat,STAN TAYLOR,43
+2026-gen,legislative,SD-18,SD-18,CUSTER,CUSTER,,Democrat,STAN TAYLOR,1212
+2026-gen,legislative,SD-18,SD-18,GARFIELD,GARFIELD,,Democrat,STAN TAYLOR,52
+2026-gen,legislative,SD-18,SD-18,ROSEBUD,ROSEBUD,,Democrat,STAN TAYLOR,509
+2026-gen,legislative,SD-18,SD-18,TREASURE,TREASURE,,Democrat,STAN TAYLOR,53
+2026-gen,legislative,SD-18,SD-18,YELLOWSTONE,YELLOWSTONE,,Democrat,STAN TAYLOR,278
+2026-gen,legislative,SD-19,SD-19,FERGUS,FERGUS,,Democrat,DEANNA J DAIGREPONT,1178
+2026-gen,legislative,SD-19,SD-19,GOLDEN VALLEY,GOLDEN VALLEY,,Democrat,DEANNA J DAIGREPONT,58
+2026-gen,legislative,SD-19,SD-19,MUSSELSHELL,MUSSELSHELL,,Democrat,DEANNA J DAIGREPONT,371
+2026-gen,legislative,SD-19,SD-19,PETROLEUM,PETROLEUM,,Democrat,DEANNA J DAIGREPONT,17
+2026-gen,legislative,SD-19,SD-19,YELLOWSTONE,YELLOWSTONE,,Democrat,DEANNA J DAIGREPONT,536
+2026-gen,legislative,SD-19,SD-19,FERGUS,FERGUS,,Republican,CHRIS RINDAL,3675
+2026-gen,legislative,SD-19,SD-19,GOLDEN VALLEY,GOLDEN VALLEY,,Republican,CHRIS RINDAL,328
+2026-gen,legislative,SD-19,SD-19,MUSSELSHELL,MUSSELSHELL,,Republican,CHRIS RINDAL,2025
+2026-gen,legislative,SD-19,SD-19,PETROLEUM,PETROLEUM,,Republican,CHRIS RINDAL,228
+2026-gen,legislative,SD-19,SD-19,YELLOWSTONE,YELLOWSTONE,,Republican,CHRIS RINDAL,1909
+2026-gen,legislative,SD-22,SD-22,YELLOWSTONE,YELLOWSTONE,,Republican,DANIEL ZOLNIKOV,5678
+2026-gen,legislative,SD-23,SD-23,YELLOWSTONE,YELLOWSTONE,,Democrat,EMMA KERR-CARPENTER,4464
+2026-gen,legislative,SD-23,SD-23,YELLOWSTONE,YELLOWSTONE,,Republican,JOANNA OBLANDER,3369
+2026-gen,legislative,SD-25,SD-25,YELLOWSTONE,YELLOWSTONE,,Democrat,JULIE HIPPLER,3756
+2026-gen,legislative,SD-25,SD-25,YELLOWSTONE,YELLOWSTONE,,Republican,DENNIS LENZ,4985
+2026-gen,legislative,SD-28,SD-28,CARBON,CARBON,,Democrat,KELLY HALE,2417
+2026-gen,legislative,SD-28,SD-28,STILLWATER,STILLWATER,,Democrat,KELLY HALE,988
+2026-gen,legislative,SD-28,SD-28,SWEET GRASS,SWEET GRASS,,Democrat,KELLY HALE,222
+2026-gen,legislative,SD-28,SD-28,CARBON,CARBON,,Republican,FORREST J MANDEVILLE,3668
+2026-gen,legislative,SD-28,SD-28,STILLWATER,STILLWATER,,Republican,FORREST J MANDEVILLE,3497
+2026-gen,legislative,SD-28,SD-28,SWEET GRASS,SWEET GRASS,,Republican,FORREST J MANDEVILLE,759
+2026-gen,legislative,SD-29,SD-29,GALLATIN,GALLATIN,,Republican,JASON GUNDERSON,712
+2026-gen,legislative,SD-29,SD-29,PARK,PARK,,Republican,JASON GUNDERSON,4674
+2026-gen,legislative,SD-29,SD-29,GALLATIN,GALLATIN,,Democrat,SCOTT ROSENZWEIG,2059
+2026-gen,legislative,SD-29,SD-29,PARK,PARK,,Democrat,SCOTT ROSENZWEIG,4891
+2026-gen,legislative,SD-31,SD-31,GALLATIN,GALLATIN,,Republican,RICHARD AUNGIER,2337
+2026-gen,legislative,SD-31,SD-31,GALLATIN,GALLATIN,,Democrat,KATHLEEN WILLIAMS,5382
+2026-gen,legislative,SD-32,SD-32,GALLATIN,GALLATIN,,Republican,NEAL GANSER,3725
+2026-gen,legislative,SD-32,SD-32,GALLATIN,GALLATIN,,Democrat,KELLY KORTUM,6547
+2026-gen,legislative,SD-34,SD-34,GALLATIN,GALLATIN,,Democrat,CARL ANDERSON,3636
+2026-gen,legislative,SD-34,SD-34,GALLATIN,GALLATIN,,Republican,CALEB HINKLE,5641
+2026-gen,legislative,SD-41,SD-41,LEWIS AND CLARK,LEWIS AND CLARK,,Democrat,ERIN FARRIS-OLSEN,6084
+2026-gen,legislative,SD-41,SD-41,LEWIS AND CLARK,LEWIS AND CLARK,,Libertarian,DRU KOESTER,3215
+2026-gen,legislative,SD-42,SD-42,LEWIS AND CLARK,LEWIS AND CLARK,,Democrat,MARY ANN DUNWELL,5851
+2026-gen,legislative,SD-42,SD-42,LEWIS AND CLARK,LEWIS AND CLARK,,Republican,STEPHEN LAPRAIM,5724
+2026-gen,legislative,SD-43,SD-43,RAVALLI,RAVALLI,,Republican,DAVID BEDEY,8532
+2026-gen,legislative,SD-43,SD-43,RAVALLI,RAVALLI,,Democrat,STEPHEN LEUCHTMAN,3019
+2026-gen,legislative,SD-48,SD-48,MISSOULA,MISSOULA,,Democrat,ANDREA OLSEN,8732
+2026-gen,legislative,SD-49,SD-49,MISSOULA,MISSOULA,,Democrat,WILLIS CURDY,7004
+2026-gen,legislative,SD-49,SD-49,MISSOULA,MISSOULA,,Republican,BRAD TSCHIDA,3487
+2026-gen,legislative,SD-50,SD-50,MISSOULA,MISSOULA,,Democrat,SHANE A MORIGEAU,8431
+2026-gen,legislative,HD-1,HD-1,LINCOLN,LINCOLN,,Democrat,DAKOTA V ADAMS,1425
+2026-gen,legislative,HD-1,HD-1,LINCOLN,LINCOLN,,Republican,MICHELLE BIANCO,4546
+2026-gen,legislative,HD-2,HD-2,FLATHEAD,FLATHEAD,,Democrat,JANE MAAHS,210
+2026-gen,legislative,HD-2,HD-2,LINCOLN,LINCOLN,,Democrat,JANE MAAHS,1029
+2026-gen,legislative,HD-2,HD-2,FLATHEAD,FLATHEAD,,Republican,TOM MILLETT,905
+2026-gen,legislative,HD-2,HD-2,LINCOLN,LINCOLN,,Republican,TOM MILLETT,2884
+2026-gen,legislative,HD-3,HD-3,FLATHEAD,FLATHEAD,,Republican,DEREK PEACHEY,2849
+2026-gen,legislative,HD-3,HD-3,FLATHEAD,FLATHEAD,,Democrat,DEBO POWERS,3431
+2026-gen,legislative,HD-4,HD-4,FLATHEAD,FLATHEAD,,Democrat,PAULA KOCH,2797
+2026-gen,legislative,HD-4,HD-4,FLATHEAD,FLATHEAD,,Republican,SHAUN PANDINA,2335
+2026-gen,legislative,HD-5,HD-5,FLATHEAD,FLATHEAD,,Republican,BRAXTON MITCHELL,3790
+2026-gen,legislative,HD-5,HD-5,FLATHEAD,FLATHEAD,,Democrat,LUCA WELLE,1568
+2026-gen,legislative,HD-6,HD-6,FLATHEAD,FLATHEAD,,Democrat,DARREN FIX,2370
+2026-gen,legislative,HD-6,HD-6,FLATHEAD,FLATHEAD,,Republican,JIM RILEY,4091
+2026-gen,legislative,HD-7,HD-7,FLATHEAD,FLATHEAD,,Democrat,MADISON EVANS,1741
+2026-gen,legislative,HD-7,HD-7,FLATHEAD,FLATHEAD,,Republican,COURTENAY SPRUNGER,2195
+2026-gen,legislative,HD-8,HD-8,FLATHEAD,FLATHEAD,,Democrat,CALVIN LIME,1534
+2026-gen,legislative,HD-8,HD-8,FLATHEAD,FLATHEAD,,Republican,LUKAS SCHUBERT,3135
+2026-gen,legislative,HD-9,HD-9,FLATHEAD,FLATHEAD,,Republican,STEVEN C KELLY,3730
+2026-gen,legislative,HD-9,HD-9,FLATHEAD,FLATHEAD,,Democrat,KATE MCLAUGHLIN,1653
+2026-gen,legislative,HD-10,HD-10,FLATHEAD,FLATHEAD,,Democrat,CATHERINE C ALLEN,1509
+2026-gen,legislative,HD-10,HD-10,FLATHEAD,FLATHEAD,,Republican,TERRY FALK,3288
+2026-gen,legislative,HD-11,HD-11,FLATHEAD,FLATHEAD,,Republican,ED BYRNE,4510
+2026-gen,legislative,HD-11,HD-11,FLATHEAD,FLATHEAD,,Democrat,MAEVE KINTZLER,1475
+2026-gen,legislative,HD-12,HD-12,FLATHEAD,FLATHEAD,,Democrat,CINDY L BRUCKNER,923
+2026-gen,legislative,HD-12,HD-12,LAKE,LAKE,,Democrat,CINDY L BRUCKNER,1241
+2026-gen,legislative,HD-12,HD-12,FLATHEAD,FLATHEAD,,Republican,TRACY A SHARP,2119
+2026-gen,legislative,HD-12,HD-12,LAKE,LAKE,,Republican,TRACY A SHARP,2081
+2026-gen,legislative,HD-13,HD-13,LAKE,LAKE,,Democrat,DALTON BRADFORD,2308
+2026-gen,legislative,HD-13,HD-13,LAKE,LAKE,,Republican,FINLEY WARDEN,2780
+2026-gen,legislative,HD-14,HD-14,SANDERS,SANDERS,,Republican,PAUL FIELDER,4245
+2026-gen,legislative,HD-14,HD-14,SANDERS,SANDERS,,Democrat,COLLEEN HINDS,1521
+2026-gen,legislative,HD-15,HD-15,FLATHEAD,FLATHEAD,,Democrat,THEDIS B CROWE,0
+2026-gen,legislative,HD-15,HD-15,GLACIER,GLACIER,,Democrat,THEDIS B CROWE,603
+2026-gen,legislative,HD-15,HD-15,LAKE,LAKE,,Democrat,THEDIS B CROWE,1197
+2026-gen,legislative,HD-15,HD-15,PONDERA,PONDERA,,Democrat,THEDIS B CROWE,110
+2026-gen,legislative,HD-15,HD-15,FLATHEAD,FLATHEAD,,Republican,RALPH FOSTER,0
+2026-gen,legislative,HD-15,HD-15,GLACIER,GLACIER,,Republican,RALPH FOSTER,49
+2026-gen,legislative,HD-15,HD-15,LAKE,LAKE,,Republican,RALPH FOSTER,1251
+2026-gen,legislative,HD-15,HD-15,PONDERA,PONDERA,,Republican,RALPH FOSTER,10
+2026-gen,legislative,HD-16,HD-16,GLACIER,GLACIER,,Democrat,LONA R RUNNING WOLF,2546
+2026-gen,legislative,HD-17,HD-17,LEWIS AND CLARK,LEWIS AND CLARK,,Democrat,CHRIS BECHTOLD,952
+2026-gen,legislative,HD-17,HD-17,TETON,TETON,,Democrat,CHRIS BECHTOLD,653
+2026-gen,legislative,HD-17,HD-17,LEWIS AND CLARK,LEWIS AND CLARK,,Republican,JUSTIN W CLEVELAND,2205
+2026-gen,legislative,HD-17,HD-17,TETON,TETON,,Republican,JUSTIN W CLEVELAND,1546
+2026-gen,legislative,HD-18,HD-18,PONDERA,PONDERA,,Republican,"BRUCE ""BUTCH"" GILLESPIE",1760
+2026-gen,legislative,HD-18,HD-18,TETON,TETON,,Republican,"BRUCE ""BUTCH"" GILLESPIE",552
+2026-gen,legislative,HD-18,HD-18,TOOLE,TOOLE,,Republican,"BRUCE ""BUTCH"" GILLESPIE",1396
+2026-gen,legislative,HD-19,HD-19,CASCADE,CASCADE,,Republican,HANNAH TREBAS,925
+2026-gen,legislative,HD-19,HD-19,CASCADE,CASCADE,,Democrat,JANE WEBER,1657
+2026-gen,legislative,HD-20,HD-20,CASCADE,CASCADE,,Democrat,STEVE KELLER,1988
+2026-gen,legislative,HD-20,HD-20,CASCADE,CASCADE,,Republican,MELISSA NIKOLAKAKOS,1940
+2026-gen,legislative,HD-21,HD-21,CASCADE,CASCADE,,Republican,TREVOR P FUNSETH,2511
+2026-gen,legislative,HD-21,HD-21,CASCADE,CASCADE,,Democrat,LELA GRAHAM,1798
+2026-gen,legislative,HD-22,HD-22,CASCADE,CASCADE,,Republican,JASON LORANG,1325
+2026-gen,legislative,HD-22,HD-22,CASCADE,CASCADE,,Democrat,NEAL MILLER,1146
+2026-gen,legislative,HD-23,HD-23,CASCADE,CASCADE,,Democrat,REBECCA BOGDEN-RICHARDS,1746
+2026-gen,legislative,HD-23,HD-23,CASCADE,CASCADE,,Republican,ERIC TILLEMAN,1848
+2026-gen,legislative,HD-24,HD-24,CASCADE,CASCADE,,Democrat,PAM CARROLL,1685
+2026-gen,legislative,HD-24,HD-24,CASCADE,CASCADE,,Republican,STEVE FITZPATRICK,2355
+2026-gen,legislative,HD-25,HD-25,CASCADE,CASCADE,,Democrat,JERRY FERDERER,1249
+2026-gen,legislative,HD-25,HD-25,CASCADE,CASCADE,,Republican,STEVE GIST,3017
+2026-gen,legislative,HD-26,HD-26,CASCADE,CASCADE,,Democrat,PAUL JEFFERSON,971
+2026-gen,legislative,HD-26,HD-26,CHOUTEAU,CHOUTEAU,,Democrat,PAUL JEFFERSON,602
+2026-gen,legislative,HD-26,HD-26,CASCADE,CASCADE,,Republican,RUSSEL MINER,2083
+2026-gen,legislative,HD-26,HD-26,CHOUTEAU,CHOUTEAU,,Republican,RUSSEL MINER,1496
+2026-gen,legislative,HD-27,HD-27,HILL,HILL,,Libertarian,JORDAN OPHUS,1067
+2026-gen,legislative,HD-27,HD-27,HILL,HILL,,Democrat,PAUL TUSS,2157
+2026-gen,legislative,HD-28,HD-28,BLAINE,BLAINE,,Republican,CHISHOLM B CHRISTENSEN,712
+2026-gen,legislative,HD-28,HD-28,HILL,HILL,,Republican,CHISHOLM B CHRISTENSEN,741
+2026-gen,legislative,HD-28,HD-28,LIBERTY,LIBERTY,,Republican,CHISHOLM B CHRISTENSEN,612
+2026-gen,legislative,HD-28,HD-28,PHILLIPS,PHILLIPS,,Republican,CHISHOLM B CHRISTENSEN,1091
+2026-gen,legislative,HD-28,HD-28,VALLEY,VALLEY,,Republican,CHISHOLM B CHRISTENSEN,493
+2026-gen,legislative,HD-29,HD-29,DANIELS,DANIELS,,Democrat,TESS FAHLGREN,105
+2026-gen,legislative,HD-29,HD-29,ROOSEVELT,ROOSEVELT,,Democrat,TESS FAHLGREN,87
+2026-gen,legislative,HD-29,HD-29,SHERIDAN,SHERIDAN,,Democrat,TESS FAHLGREN,247
+2026-gen,legislative,HD-29,HD-29,VALLEY,VALLEY,,Democrat,TESS FAHLGREN,517
+2026-gen,legislative,HD-29,HD-29,DANIELS,DANIELS,,Republican,VALERIE MOORE,696
+2026-gen,legislative,HD-29,HD-29,ROOSEVELT,ROOSEVELT,,Republican,VALERIE MOORE,306
+2026-gen,legislative,HD-29,HD-29,SHERIDAN,SHERIDAN,,Republican,VALERIE MOORE,1304
+2026-gen,legislative,HD-29,HD-29,VALLEY,VALLEY,,Republican,VALERIE MOORE,1355
+2026-gen,legislative,HD-30,HD-30,RICHLAND,RICHLAND,,Democrat,JASON BOESHORE,521
+2026-gen,legislative,HD-30,HD-30,ROOSEVELT,ROOSEVELT,,Democrat,JASON BOESHORE,89
+2026-gen,legislative,HD-30,HD-30,RICHLAND,RICHLAND,,Republican,MORGAN THIEL,2425
+2026-gen,legislative,HD-30,HD-30,ROOSEVELT,ROOSEVELT,,Republican,MORGAN THIEL,344
+2026-gen,legislative,HD-31,HD-31,BLAINE,BLAINE,,Democrat,NATALIE ONEAL,80
+2026-gen,legislative,HD-31,HD-31,PHILLIPS,PHILLIPS,,Democrat,NATALIE ONEAL,44
+2026-gen,legislative,HD-31,HD-31,ROOSEVELT,ROOSEVELT,,Democrat,NATALIE ONEAL,1292
+2026-gen,legislative,HD-31,HD-31,VALLEY,VALLEY,,Democrat,NATALIE ONEAL,308
+2026-gen,legislative,HD-32,HD-32,BLAINE,BLAINE,,Democrat,MIKE FOX,1023
+2026-gen,legislative,HD-32,HD-32,CHOUTEAU,CHOUTEAU,,Democrat,MIKE FOX,134
+2026-gen,legislative,HD-32,HD-32,HILL,HILL,,Democrat,MIKE FOX,557
+2026-gen,legislative,HD-32,HD-32,PHILLIPS,PHILLIPS,,Democrat,MIKE FOX,148
+2026-gen,legislative,HD-32,HD-32,VALLEY,VALLEY,,Democrat,MIKE FOX,79
+2026-gen,legislative,HD-33,HD-33,DAWSON,DAWSON,,Republican,BRANDON LER,2539
+2026-gen,legislative,HD-33,HD-33,RICHLAND,RICHLAND,,Republican,BRANDON LER,570
+2026-gen,legislative,HD-33,HD-33,DAWSON,DAWSON,,Democrat,TRISTAN VEVERKA,808
+2026-gen,legislative,HD-33,HD-33,RICHLAND,RICHLAND,,Democrat,TRISTAN VEVERKA,114
+2026-gen,legislative,HD-34,HD-34,CARTER,CARTER,,Democrat,JASMINE ERICKSON,65
+2026-gen,legislative,HD-34,HD-34,CUSTER,CUSTER,,Democrat,JASMINE ERICKSON,54
+2026-gen,legislative,HD-34,HD-34,FALLON,FALLON,,Democrat,JASMINE ERICKSON,135
+2026-gen,legislative,HD-34,HD-34,MCCONE,MCCONE,,Democrat,JASMINE ERICKSON,117
+2026-gen,legislative,HD-34,HD-34,POWDER RIVER,POWDER RIVER,,Democrat,JASMINE ERICKSON,119
+2026-gen,legislative,HD-34,HD-34,PRAIRIE,PRAIRIE,,Democrat,JASMINE ERICKSON,105
+2026-gen,legislative,HD-34,HD-34,WIBAUX,WIBAUX,,Democrat,JASMINE ERICKSON,68
+2026-gen,legislative,HD-34,HD-34,CARTER,CARTER,,Republican,JERRY SCHILLINGER,619
+2026-gen,legislative,HD-34,HD-34,CUSTER,CUSTER,,Republican,JERRY SCHILLINGER,432
+2026-gen,legislative,HD-34,HD-34,FALLON,FALLON,,Republican,JERRY SCHILLINGER,1028
+2026-gen,legislative,HD-34,HD-34,MCCONE,MCCONE,,Republican,JERRY SCHILLINGER,728
+2026-gen,legislative,HD-34,HD-34,POWDER RIVER,POWDER RIVER,,Republican,JERRY SCHILLINGER,736
+2026-gen,legislative,HD-34,HD-34,PRAIRIE,PRAIRIE,,Republican,JERRY SCHILLINGER,476
+2026-gen,legislative,HD-34,HD-34,WIBAUX,WIBAUX,,Republican,JERRY SCHILLINGER,372
+2026-gen,legislative,HD-35,HD-35,BIG HORN,BIG HORN,,Democrat,NATALIE PARKER,41
+2026-gen,legislative,HD-35,HD-35,GARFIELD,GARFIELD,,Democrat,NATALIE PARKER,57
+2026-gen,legislative,HD-35,HD-35,ROSEBUD,ROSEBUD,,Democrat,NATALIE PARKER,480
+2026-gen,legislative,HD-35,HD-35,TREASURE,TREASURE,,Democrat,NATALIE PARKER,48
+2026-gen,legislative,HD-35,HD-35,YELLOWSTONE,YELLOWSTONE,,Democrat,NATALIE PARKER,294
+2026-gen,legislative,HD-35,HD-35,BIG HORN,BIG HORN,,Republican,GARY PARRY,202
+2026-gen,legislative,HD-35,HD-35,GARFIELD,GARFIELD,,Republican,GARY PARRY,576
+2026-gen,legislative,HD-35,HD-35,ROSEBUD,ROSEBUD,,Republican,GARY PARRY,1740
+2026-gen,legislative,HD-35,HD-35,TREASURE,TREASURE,,Republican,GARY PARRY,304
+2026-gen,legislative,HD-35,HD-35,YELLOWSTONE,YELLOWSTONE,,Republican,GARY PARRY,1000
+2026-gen,legislative,HD-36,HD-36,CUSTER,CUSTER,,Democrat,BENJAMIN KEYES,1020
+2026-gen,legislative,HD-36,HD-36,CUSTER,CUSTER,,Republican,TY LINGER,2766
+2026-gen,legislative,HD-37,HD-37,FERGUS,FERGUS,,Democrat,TRACEY MILLER KARCHER,1301
+2026-gen,legislative,HD-37,HD-37,PETROLEUM,PETROLEUM,,Democrat,TRACEY MILLER KARCHER,18
+2026-gen,legislative,HD-37,HD-37,FERGUS,FERGUS,,Republican,SHANE KLAKKEN,3577
+2026-gen,legislative,HD-37,HD-37,PETROLEUM,PETROLEUM,,Republican,SHANE KLAKKEN,233
+2026-gen,legislative,HD-38,HD-38,GOLDEN VALLEY,GOLDEN VALLEY,,Republican,GREG OBLANDER,336
+2026-gen,legislative,HD-38,HD-38,MUSSELSHELL,MUSSELSHELL,,Republican,GREG OBLANDER,2152
+2026-gen,legislative,HD-38,HD-38,YELLOWSTONE,YELLOWSTONE,,Republican,GREG OBLANDER,2116
+2026-gen,legislative,HD-39,HD-39,YELLOWSTONE,YELLOWSTONE,,Republican,KERRI SEEKINS CROWE,2269
+2026-gen,legislative,HD-39,HD-39,YELLOWSTONE,YELLOWSTONE,,Democrat,MELISSA SMITH,1446
+2026-gen,legislative,HD-40,HD-40,YELLOWSTONE,YELLOWSTONE,,Democrat,GABRIEL BRADSHAW,1138
+2026-gen,legislative,HD-40,HD-40,YELLOWSTONE,YELLOWSTONE,,Republican,MIKE VINTON,2631
+2026-gen,legislative,HD-41,HD-41,BIG HORN,BIG HORN,,Democrat,JADE SOOKTIS,1222
+2026-gen,legislative,HD-41,HD-41,ROSEBUD,ROSEBUD,,Democrat,JADE SOOKTIS,452
+2026-gen,legislative,HD-42,HD-42,BIG HORN,BIG HORN,,Democrat,SIDNEY CHIP FITZPATRICK,1064
+2026-gen,legislative,HD-42,HD-42,YELLOWSTONE,YELLOWSTONE,,Democrat,SIDNEY CHIP FITZPATRICK,558
+2026-gen,legislative,HD-42,HD-42,BIG HORN,BIG HORN,,Republican,JEREMIAH JABS,514
+2026-gen,legislative,HD-42,HD-42,YELLOWSTONE,YELLOWSTONE,,Republican,JEREMIAH JABS,828
+2026-gen,legislative,HD-43,HD-43,YELLOWSTONE,YELLOWSTONE,,Republican,LARRY BREWSTER,2119
+2026-gen,legislative,HD-43,HD-43,YELLOWSTONE,YELLOWSTONE,,Democrat,RUDOLF HADEN,1492
+2026-gen,legislative,HD-44,HD-44,YELLOWSTONE,YELLOWSTONE,,Democrat,MIKE EATON,1663
+2026-gen,legislative,HD-44,HD-44,YELLOWSTONE,YELLOWSTONE,,Republican,KATIE ZOLNIKOV,2782
+2026-gen,legislative,HD-45,HD-45,YELLOWSTONE,YELLOWSTONE,,Democrat,DENISE BAUM,2406
+2026-gen,legislative,HD-45,HD-45,YELLOWSTONE,YELLOWSTONE,,Republican,BRYCE WALSTON,1673
+2026-gen,legislative,HD-46,HD-46,YELLOWSTONE,YELLOWSTONE,,Democrat,DENISE JOY,2163
+2026-gen,legislative,HD-46,HD-46,YELLOWSTONE,YELLOWSTONE,,Republican,KIM WELZENBACH,1602
+2026-gen,legislative,HD-47,HD-47,YELLOWSTONE,YELLOWSTONE,,Republican,JOHN MAXWELL,1036
+2026-gen,legislative,HD-47,HD-47,YELLOWSTONE,YELLOWSTONE,,Democrat,JAMES REAVIS,1605
+2026-gen,legislative,HD-48,HD-48,YELLOWSTONE,YELLOWSTONE,,Democrat,TUCKER COLVIN,1742
+2026-gen,legislative,HD-48,HD-48,YELLOWSTONE,YELLOWSTONE,,Republican,CURTIS SCHOMER,1760
+2026-gen,legislative,HD-49,HD-49,YELLOWSTONE,YELLOWSTONE,,Republican,CHARLIE LOVERIDGE,2088
+2026-gen,legislative,HD-49,HD-49,YELLOWSTONE,YELLOWSTONE,,Democrat,REBECCA NOELL,1750
+2026-gen,legislative,HD-50,HD-50,YELLOWSTONE,YELLOWSTONE,,Republican,STEWART HARRIS,3003
+2026-gen,legislative,HD-50,HD-50,YELLOWSTONE,YELLOWSTONE,,Democrat,MARK PETERS,1857
+2026-gen,legislative,HD-51,HD-51,YELLOWSTONE,YELLOWSTONE,,Republican,JODEE ETCHART,2544
+2026-gen,legislative,HD-51,HD-51,YELLOWSTONE,YELLOWSTONE,,Democrat,PRECIOUS MCKENZIE,1878
+2026-gen,legislative,HD-52,HD-52,YELLOWSTONE,YELLOWSTONE,,Democrat,ELIZABETH HEALD,2184
+2026-gen,legislative,HD-52,HD-52,YELLOWSTONE,YELLOWSTONE,,Republican,STACY ZINN,3519
+2026-gen,legislative,HD-53,HD-53,YELLOWSTONE,YELLOWSTONE,,Republican,TROY CHARBONNEAU,3664
+2026-gen,legislative,HD-53,HD-53,YELLOWSTONE,YELLOWSTONE,,Democrat,MATTHEW J HANKINS,1418
+2026-gen,legislative,HD-54,HD-54,YELLOWSTONE,YELLOWSTONE,,Democrat,JANINE COOLE,1204
+2026-gen,legislative,HD-54,HD-54,YELLOWSTONE,YELLOWSTONE,,Republican,LEE DEMING,2610
+2026-gen,legislative,HD-55,HD-55,CARBON,CARBON,,Republican,BRAD BARKER,4169
+2026-gen,legislative,HD-55,HD-55,CARBON,CARBON,,Democrat,RICHARD GESSLING,1864
+2026-gen,legislative,HD-56,HD-56,STILLWATER,STILLWATER,,Republican,FIONA B NAVE,3781
+2026-gen,legislative,HD-56,HD-56,SWEET GRASS,SWEET GRASS,,Republican,FIONA B NAVE,795
+2026-gen,legislative,HD-57,HD-57,GALLATIN,GALLATIN,,Republican,BOB CRANK,689
+2026-gen,legislative,HD-57,HD-57,PARK,PARK,,Republican,BOB CRANK,2252
+2026-gen,legislative,HD-57,HD-57,GALLATIN,GALLATIN,,Democrat,BECKY EDWARDS,2071
+2026-gen,legislative,HD-57,HD-57,PARK,PARK,,Democrat,BECKY EDWARDS,1583
+2026-gen,legislative,HD-58,HD-58,PARK,PARK,,Republican,JOSHUA CONGLETON,2195
+2026-gen,legislative,HD-58,HD-58,PARK,PARK,,Democrat,JAMIE L ISALY,3515
+2026-gen,legislative,HD-59,HD-59,GALLATIN,GALLATIN,,Democrat,KATIE FIRE THUNDER,4630
+2026-gen,legislative,HD-59,HD-59,GALLATIN,GALLATIN,,Republican,MARC GREENDORFER,2511
+2026-gen,legislative,HD-60,HD-60,GALLATIN,GALLATIN,,Democrat,ALANAH GRIFFITH,2892
+2026-gen,legislative,HD-60,HD-60,MADISON,MADISON,,Democrat,ALANAH GRIFFITH,143
+2026-gen,legislative,HD-60,HD-60,GALLATIN,GALLATIN,,Republican,GREG LEMAN,2295
+2026-gen,legislative,HD-60,HD-60,MADISON,MADISON,,Republican,GREG LEMAN,68
+2026-gen,legislative,HD-61,HD-61,GALLATIN,GALLATIN,,Republican,ERIC JACOBS,400
+2026-gen,legislative,HD-61,HD-61,GALLATIN,GALLATIN,,Democrat,RIO ROLAND,2421
+2026-gen,legislative,HD-62,HD-62,GALLATIN,GALLATIN,,Republican,ESTHER FISHBAUGH,1933
+2026-gen,legislative,HD-62,HD-62,GALLATIN,GALLATIN,,Democrat,JOSHUA A SECKINGER,2868
+2026-gen,legislative,HD-63,HD-63,GALLATIN,GALLATIN,,Republican,LAWRENCE R MOORE,1791
+2026-gen,legislative,HD-63,HD-63,GALLATIN,GALLATIN,,Democrat,PETER STRAND,3330
+2026-gen,legislative,HD-64,HD-64,GALLATIN,GALLATIN,,Democrat,BRADY BREMER,3114
+2026-gen,legislative,HD-64,HD-64,GALLATIN,GALLATIN,,Republican,DANIEL RICARDO MARTINEZ,1949
+2026-gen,legislative,HD-65,HD-65,GALLATIN,GALLATIN,,Democrat,BRIAN CLOSE,3333
+2026-gen,legislative,HD-65,HD-65,GALLATIN,GALLATIN,,Republican,JOE FLYNN,1975
+2026-gen,legislative,HD-66,HD-66,GALLATIN,GALLATIN,,Republican,OWEN LANG,2370
+2026-gen,legislative,HD-66,HD-66,GALLATIN,GALLATIN,,Democrat,ERIC MATTHEWS,4090
+2026-gen,legislative,HD-67,HD-67,GALLATIN,GALLATIN,,Democrat,LOGAN HENKE,2157
+2026-gen,legislative,HD-67,HD-67,GALLATIN,GALLATIN,,Republican,JEDEDIAH HINKLE,2457
+2026-gen,legislative,HD-68,HD-68,GALLATIN,GALLATIN,,Republican,RANDY CHAMBERLIN,3120
+2026-gen,legislative,HD-68,HD-68,GALLATIN,GALLATIN,,Democrat,JOCELYN KENT,1513
+2026-gen,legislative,HD-69,HD-69,GALLATIN,GALLATIN,,Republican,TREVOR WALTER,644
+2026-gen,legislative,HD-69,HD-69,JEFFERSON,JEFFERSON,,Republican,TREVOR WALTER,261
+2026-gen,legislative,HD-69,HD-69,MADISON,MADISON,,Republican,TREVOR WALTER,3627
+2026-gen,legislative,HD-70,HD-70,BEAVERHEAD,BEAVERHEAD,,Democrat,KOBI CRADDOCK,1318
+2026-gen,legislative,HD-70,HD-70,SILVER BOW,SILVER BOW,,Democrat,KOBI CRADDOCK,309
+2026-gen,legislative,HD-70,HD-70,BEAVERHEAD,BEAVERHEAD,,Republican,SHANNON MANESS,3150
+2026-gen,legislative,HD-70,HD-70,SILVER BOW,SILVER BOW,,Republican,SHANNON MANESS,442
+2026-gen,legislative,HD-71,HD-71,DEER LODGE,DEER LODGE,,Democrat,SCOTT DEMAROIS,2483
+2026-gen,legislative,HD-71,HD-71,SILVER BOW,SILVER BOW,,Democrat,SCOTT DEMAROIS,415
+2026-gen,legislative,HD-71,HD-71,DEER LODGE,DEER LODGE,,Republican,SUZZANN NORDWICK,1365
+2026-gen,legislative,HD-71,HD-71,SILVER BOW,SILVER BOW,,Republican,SUZZANN NORDWICK,323
+2026-gen,legislative,HD-72,HD-72,SILVER BOW,SILVER BOW,,Democrat,DONAVON HAWK,2932
+2026-gen,legislative,HD-72,HD-72,SILVER BOW,SILVER BOW,,Republican,MICHAEL SAUL,1282
+2026-gen,legislative,HD-73,HD-73,SILVER BOW,SILVER BOW,,Republican,GERRY KENNEDY,1198
+2026-gen,legislative,HD-73,HD-73,SILVER BOW,SILVER BOW,,Democrat,JENNIFER LYNCH,2425
+2026-gen,legislative,HD-74,HD-74,SILVER BOW,SILVER BOW,,Republican,TRENIN BAYLESS,1781
+2026-gen,legislative,HD-74,HD-74,SILVER BOW,SILVER BOW,,Democrat,MARC J LEE,3478
+2026-gen,legislative,HD-75,HD-75,JEFFERSON,JEFFERSON,,Libertarian,GREG DEVRIES,250
+2026-gen,legislative,HD-75,HD-75,JEFFERSON,JEFFERSON,,Republican,MARK REINSCHMIDT,3754
+2026-gen,legislative,HD-75,HD-75,JEFFERSON,JEFFERSON,,Democrat,PATRICK SULLIVAN,2046
+2026-gen,legislative,HD-76,HD-76,DEER LODGE,DEER LODGE,,Republican,TRISH SCHREIBER,58
+2026-gen,legislative,HD-76,HD-76,GRANITE,GRANITE,,Republican,TRISH SCHREIBER,1170
+2026-gen,legislative,HD-76,HD-76,LEWIS AND CLARK,LEWIS AND CLARK,,Republican,TRISH SCHREIBER,56
+2026-gen,legislative,HD-76,HD-76,MISSOULA,MISSOULA,,Republican,TRISH SCHREIBER,568
+2026-gen,legislative,HD-76,HD-76,POWELL,POWELL,,Republican,TRISH SCHREIBER,1780
+2026-gen,legislative,HD-76,HD-76,DEER LODGE,DEER LODGE,,Independent,SHAYNE MORGAN,88
+2026-gen,legislative,HD-76,HD-76,GRANITE,GRANITE,,Independent,SHAYNE MORGAN,608
+2026-gen,legislative,HD-76,HD-76,LEWIS AND CLARK,LEWIS AND CLARK,,Independent,SHAYNE MORGAN,28
+2026-gen,legislative,HD-76,HD-76,MISSOULA,MISSOULA,,Independent,SHAYNE MORGAN,323
+2026-gen,legislative,HD-76,HD-76,POWELL,POWELL,,Independent,SHAYNE MORGAN,769
+2026-gen,legislative,HD-77,HD-77,BROADWATER,BROADWATER,,Republican,JANE GILLETTE,3085
+2026-gen,legislative,HD-77,HD-77,GALLATIN,GALLATIN,,Republican,JANE GILLETTE,1497
+2026-gen,legislative,HD-78,HD-78,CASCADE,CASCADE,,Republican,RANDYN GREGG,656
+2026-gen,legislative,HD-78,HD-78,FERGUS,FERGUS,,Republican,RANDYN GREGG,384
+2026-gen,legislative,HD-78,HD-78,JUDITH BASIN,JUDITH BASIN,,Republican,RANDYN GREGG,917
+2026-gen,legislative,HD-78,HD-78,MEAGHER,MEAGHER,,Republican,RANDYN GREGG,715
+2026-gen,legislative,HD-78,HD-78,SWEET GRASS,SWEET GRASS,,Republican,RANDYN GREGG,639
+2026-gen,legislative,HD-78,HD-78,WHEATLAND,WHEATLAND,,Republican,RANDYN GREGG,645
+2026-gen,legislative,HD-78,HD-78,CASCADE,CASCADE,,Democrat,MARK WHITE,215
+2026-gen,legislative,HD-78,HD-78,FERGUS,FERGUS,,Democrat,MARK WHITE,91
+2026-gen,legislative,HD-78,HD-78,JUDITH BASIN,JUDITH BASIN,,Democrat,MARK WHITE,212
+2026-gen,legislative,HD-78,HD-78,MEAGHER,MEAGHER,,Democrat,MARK WHITE,191
+2026-gen,legislative,HD-78,HD-78,SWEET GRASS,SWEET GRASS,,Democrat,MARK WHITE,256
+2026-gen,legislative,HD-78,HD-78,WHEATLAND,WHEATLAND,,Democrat,MARK WHITE,192
+2026-gen,legislative,HD-79,HD-79,JEFFERSON,JEFFERSON,,Democrat,LUKE MUSZKIEWICZ,187
+2026-gen,legislative,HD-79,HD-79,LEWIS AND CLARK,LEWIS AND CLARK,,Democrat,LUKE MUSZKIEWICZ,3406
+2026-gen,legislative,HD-79,HD-79,JEFFERSON,JEFFERSON,,Republican,CHIKO OLSON,193
+2026-gen,legislative,HD-79,HD-79,LEWIS AND CLARK,LEWIS AND CLARK,,Republican,CHIKO OLSON,2183
+2026-gen,legislative,HD-80,HD-80,LEWIS AND CLARK,LEWIS AND CLARK,,Republican,KATIE FRUITS,1899
+2026-gen,legislative,HD-80,HD-80,LEWIS AND CLARK,LEWIS AND CLARK,,Democrat,MEGAN LANE,2603
+2026-gen,legislative,HD-81,HD-81,LEWIS AND CLARK,LEWIS AND CLARK,,Democrat,JANET ELLIS,3182
+2026-gen,legislative,HD-81,HD-81,LEWIS AND CLARK,LEWIS AND CLARK,,Republican,JOHN J LOONEY SR,2059
+2026-gen,legislative,HD-82,HD-82,LEWIS AND CLARK,LEWIS AND CLARK,,Democrat,PETE ELVERUM,2695
+2026-gen,legislative,HD-82,HD-82,LEWIS AND CLARK,LEWIS AND CLARK,,Republican,CLINTON MCKAY,1765
+2026-gen,legislative,HD-83,HD-83,LEWIS AND CLARK,LEWIS AND CLARK,,Democrat,JOE COHENOUR,3376
+2026-gen,legislative,HD-83,HD-83,LEWIS AND CLARK,LEWIS AND CLARK,,Republican,AARON J LEAS,2052
+2026-gen,legislative,HD-84,HD-84,LEWIS AND CLARK,LEWIS AND CLARK,,Republican,ROY CALDWELL,3815
+2026-gen,legislative,HD-84,HD-84,LEWIS AND CLARK,LEWIS AND CLARK,,Democrat,TIA NELSON,2222
+2026-gen,legislative,HD-85,HD-85,RAVALLI,RAVALLI,,Republican,KIM DAILEY,4411
+2026-gen,legislative,HD-85,HD-85,RAVALLI,RAVALLI,,Democrat,LAURA JACKSON,1685
+2026-gen,legislative,HD-86,HD-86,RAVALLI,RAVALLI,,Republican,WAYNE RUSK,3314
+2026-gen,legislative,HD-86,HD-86,RAVALLI,RAVALLI,,Democrat,ARCHIE THOMAS,2210
+2026-gen,legislative,HD-87,HD-87,RAVALLI,RAVALLI,,Democrat,BILL JONES,1738
+2026-gen,legislative,HD-87,HD-87,RAVALLI,RAVALLI,,Republican,TERRY NELSON,4251
+2026-gen,legislative,HD-88,HD-88,RAVALLI,RAVALLI,,Republican,GREG OVERSTREET,4028
+2026-gen,legislative,HD-88,HD-88,RAVALLI,RAVALLI,,Democrat,EVAN SCHROEDEL,2149
+2026-gen,legislative,HD-89,HD-89,MISSOULA,MISSOULA,,Republican,LYN HELLEGAARD,2076
+2026-gen,legislative,HD-89,HD-89,MISSOULA,MISSOULA,,Democrat,MARK A THANE,3412
+2026-gen,legislative,HD-90,HD-90,MINERAL,MINERAL,,Republican,JEFF STANEK,1888
+2026-gen,legislative,HD-90,HD-90,MISSOULA,MISSOULA,,Republican,JEFF STANEK,1996
+2026-gen,legislative,HD-90,HD-90,SANDERS,SANDERS,,Republican,JEFF STANEK,417
+2026-gen,legislative,HD-91,HD-91,LAKE,LAKE,,Democrat,SHELLY FYANT,1514
+2026-gen,legislative,HD-91,HD-91,MISSOULA,MISSOULA,,Democrat,SHELLY FYANT,1354
+2026-gen,legislative,HD-91,HD-91,SANDERS,SANDERS,,Democrat,SHELLY FYANT,124
+2026-gen,legislative,HD-91,HD-91,LAKE,LAKE,,Republican,CHARLES HEADLEY,1476
+2026-gen,legislative,HD-91,HD-91,MISSOULA,MISSOULA,,Republican,CHARLES HEADLEY,417
+2026-gen,legislative,HD-91,HD-91,SANDERS,SANDERS,,Republican,CHARLES HEADLEY,172
+2026-gen,legislative,HD-92,HD-92,MISSOULA,MISSOULA,,Democrat,MONICA TRANEL,4107
+2026-gen,legislative,HD-93,HD-93,MISSOULA,MISSOULA,,Democrat,BEN DAVIS,3918
+2026-gen,legislative,HD-93,HD-93,MISSOULA,MISSOULA,,Republican,ROY HANDLEY,1836
+2026-gen,legislative,HD-94,HD-94,MISSOULA,MISSOULA,,Democrat,ROBIN KENDALL,4104
+2026-gen,legislative,HD-94,HD-94,MISSOULA,MISSOULA,,Republican,GREG WOODWARD,2166
+2026-gen,legislative,HD-95,HD-95,MISSOULA,MISSOULA,,Democrat,ZOOEY ZEPHYR,4951
+2026-gen,legislative,HD-96,HD-96,MISSOULA,MISSOULA,,Democrat,BOB CARTER,3723
+2026-gen,legislative,HD-97,HD-97,MISSOULA,MISSOULA,,Democrat,MELODY J CUNNINGHAM,3440
+2026-gen,legislative,HD-97,HD-97,MISSOULA,MISSOULA,,Republican,MICHAEL P HAGESTAD,1704
+2026-gen,legislative,HD-98,HD-98,MISSOULA,MISSOULA,,Democrat,JONATHAN KARLEN,3518
+2026-gen,legislative,HD-98,HD-98,MISSOULA,MISSOULA,,Republican,BRYAN MUZZANA,1698
+2026-gen,legislative,HD-99,HD-99,MISSOULA,MISSOULA,,Republican,RYAN DARLING,2043
+2026-gen,legislative,HD-99,HD-99,MISSOULA,MISSOULA,,Democrat,TOM FRANCE,3632
+2026-gen,legislative,HD-100,HD-100,MISSOULA,MISSOULA,,Republican,MICHAEL DANIEL BOWLES,651
+2026-gen,legislative,HD-100,HD-100,MISSOULA,MISSOULA,,Democrat,SJ HOWELL,4095
+2026-gen,legislative,HD-100,HD-100,MISSOULA,MISSOULA,,Libertarian,JC WINDMUELLER,148
