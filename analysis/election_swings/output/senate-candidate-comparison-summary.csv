@@ -1,0 +1,12 @@
+comparison,result_status,outcome,precinct_count,total_precincts
+bodnar_vs_bankhead,candidate_winner,bankhead,18,728
+bodnar_vs_bankhead,candidate_winner,bodnar,704,728
+bodnar_vs_bankhead,candidate_winner,tie,5,728
+bodnar_vs_bankhead,no_votes,no_votes,1,728
+bankhead_vs_alme,candidate_winner,alme,663,728
+bankhead_vs_alme,candidate_winner,bankhead,62,728
+bankhead_vs_alme,candidate_winner,tie,2,728
+bankhead_vs_alme,no_votes,no_votes,1,728
+bodnar_vs_alme,candidate_winner,alme,533,728
+bodnar_vs_alme,candidate_winner,bodnar,194,728
+bodnar_vs_alme,no_votes,no_votes,1,728

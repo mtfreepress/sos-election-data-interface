@@ -1,0 +1,243 @@
+{
+  "reviewed_on": "2026-11-25",
+  "reviews": [
+    {
+      "county": "BEAVERHEAD",
+      "precinct_2024": "PRECINCT 01 - D-CITY",
+      "precinct_2026": "PREC 01",
+      "match_status": "boundary_changed",
+      "evidence": "https://beaverheadcountymt.gov/wp-content/uploads/2026/01/CommMinutes_20260112.pdf",
+      "notes": "Resolution 2026-04, Jan. 12, 2026, p. 2: precincts 1, 6, 14 expand; 2 and 3 contract. Exclude individual comparison."
+    },
+    {
+      "county": "BEAVERHEAD",
+      "precinct_2024": "PRECINCT 02 - D-RURAL",
+      "precinct_2026": "PREC 02",
+      "match_status": "boundary_changed",
+      "evidence": "https://beaverheadcountymt.gov/wp-content/uploads/2026/01/CommMinutes_20260112.pdf",
+      "notes": "Resolution 2026-04, Jan. 12, 2026, p. 2: precincts 1, 6, 14 expand; 2 and 3 contract. Exclude individual comparison."
+    },
+    {
+      "county": "BEAVERHEAD",
+      "precinct_2024": "PRECINCT 03 - D.RURAL",
+      "precinct_2026": "PREC 03",
+      "match_status": "boundary_changed",
+      "evidence": "https://beaverheadcountymt.gov/wp-content/uploads/2026/01/CommMinutes_20260112.pdf",
+      "notes": "Resolution 2026-04, Jan. 12, 2026, p. 2: precincts 1, 6, 14 expand; 2 and 3 contract. Exclude individual comparison."
+    },
+    {
+      "county": "BEAVERHEAD",
+      "precinct_2024": "PRECINCT 06 - D-CITY",
+      "precinct_2026": "PREC 06",
+      "match_status": "boundary_changed",
+      "evidence": "https://beaverheadcountymt.gov/wp-content/uploads/2026/01/CommMinutes_20260112.pdf",
+      "notes": "Resolution 2026-04, Jan. 12, 2026, p. 2: precincts 1, 6, 14 expand; 2 and 3 contract. Exclude individual comparison."
+    },
+    {
+      "county": "BEAVERHEAD",
+      "precinct_2024": "PRECINCT 14 - D.CITY",
+      "precinct_2026": "PREC 14",
+      "match_status": "boundary_changed",
+      "evidence": "https://beaverheadcountymt.gov/wp-content/uploads/2026/01/CommMinutes_20260112.pdf",
+      "notes": "Resolution 2026-04, Jan. 12, 2026, p. 2: precincts 1, 6, 14 expand; 2 and 3 contract. Exclude individual comparison."
+    },
+    {
+      "county": "BEAVERHEAD",
+      "precinct_2024": "PRECINCT 12 - D.CITY",
+      "precinct_2026": "PREC 12",
+      "match_status": "verified_rename",
+      "evidence": "https://beaverheadcountymt.gov/wp-content/uploads/2026/01/CommMinutes_20260112.pdf",
+      "notes": "Resolution 2026-04, Jan. 12, 2026, pp. 2\u20133: precinct 12 remains consistent with Ward 1; same numeric precinct in both source files."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "ARL 01 HD91",
+      "precinct_2026": "ARL 01 HD91",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "BEA 01 HD12",
+      "precinct_2026": "BEA 01 HD12",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "CHA 01 HD91",
+      "precinct_2026": "CHA 01 HD91",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "DAY 01 HD12",
+      "precinct_2026": "DAY 01 HD12",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "FER 01 HD12",
+      "precinct_2026": "FER 01 HD12",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "PAB 01 HD13",
+      "precinct_2026": "PAB 01 HD13",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "PAB 02 HD15",
+      "precinct_2026": "PAB 02 HD15",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "POL 01 HD12",
+      "precinct_2026": "POL 01 HD12",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "POL 02 HD13",
+      "precinct_2026": "POL 02 HD13",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "POL 03 HD13",
+      "precinct_2026": "POL 03 HD13",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "POL 04 HD13",
+      "precinct_2026": "POL 04 HD13",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "POL 05 HD13",
+      "precinct_2026": "POL 05 HD13",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "POL 06 HD13",
+      "precinct_2026": "POL 06 HD13",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "POL 07 HD13",
+      "precinct_2026": "POL 07 HD13",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "POL 08 HD12",
+      "precinct_2026": "POL 08 HD12",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "RON 01 HD91",
+      "precinct_2026": "RON 01 HD91",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "RON 02 HD15",
+      "precinct_2026": "RON 02 HD15",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "RON-03 HD13",
+      "precinct_2026": "RON-03 HD13",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "STI 01 HD91",
+      "precinct_2026": "STI 01 HD91",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "STI 02 HD15",
+      "precinct_2026": "STI 02 HD15",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "SWA 01 HD12",
+      "precinct_2026": "SWA 01 HD12",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    },
+    {
+      "county": "LAKE",
+      "precinct_2024": "SWA 02 HD15",
+      "precinct_2026": "SWA 02 HD15",
+      "match_status": "verified_geography",
+      "evidence": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "notes": "County map titled Lake County Precincts (2024-2032) and City Wards, exported May 19, 2026. The named precinct and HD agree in both result files and with county 2026 judge training p. 3. Verification relies on the county map\u2019s stated 2024\u20132032 period; no polygon overlay was performed. Retained map rendering: sources/lake-precincts-20260519.png."
+    }
+  ],
+  "source_documents": [
+    {
+      "url": "https://www.lakemt.gov/DocumentCenter/View/4530/Countywide-Precincts-and-Wards-24x36-20260519",
+      "retrieved_on": "2026-11-25",
+      "sha256": "a7b3ea19b077882bc8edadf0a5222d847e0296936558e9ad860c61cd1025590c",
+      "local_rendering": "sources/lake-precincts-20260519.png",
+      "method": "Inspected complete county map; stated temporal coverage 2024\u20132032, not inferred solely from matching names."
+    },
+    {
+      "url": "https://www.lakemt.gov/DocumentCenter/View/4300/2026-Basic-Election-Judge-Training",
+      "pages": "1, 3",
+      "method": "Confirms 2026 use of precinct and legislative identifiers"
+    }
+  ]
+}

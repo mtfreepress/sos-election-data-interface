@@ -1,0 +1,15 @@
+{
+  "table": "county-swings.csv",
+  "selected_csv_rows": [
+    68
+  ],
+  "denominator_csv_rows": [
+    68
+  ],
+  "source_files": [
+    "cleaned/2024/general/precinct-results.csv",
+    "cleaned/2026/general/precinct-results.csv"
+  ],
+  "calculation": "{\"column\": \"republican_two_party_share_change_pp\", \"filters\": [{\"column\": \"race\", \"op\": \"eq\", \"value\": \"us-senate\"}, {\"column\": \"county\", \"op\": \"eq\", \"value\": \"DANIELS\"}], \"operation\": \"sum\", \"table\": \"county-swings\"}",
+  "note": "CSV row numbers include header; open the derived rows and follow source keys to source-records.csv, which retains original source_file/source_row. Shares are calculated from unrounded counts."
+}

@@ -1,0 +1,36 @@
+{
+  "table": "mt01-precinct-swings.csv",
+  "selected_csv_rows": [],
+  "denominator_csv_rows": [
+    21,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177
+  ],
+  "source_files": [
+    "cleaned/2024/general/precinct-results.csv",
+    "cleaned/2026/general/precinct-results.csv",
+    "analysis/election_swings/geographic-reviews.json"
+  ],
+  "calculation": "{\"denominator_filters\": [{\"column\": \"geographically_verified\", \"value\": true}], \"filters\": [{\"column\": \"geographically_verified\", \"value\": true}, {\"column\": \"flip\", \"value\": \"Democrat_to_Republican\"}], \"operation\": \"count\", \"table\": \"mt01-precinct-swings\"}",
+  "note": "CSV row numbers include header; open the derived rows and follow source keys to source-records.csv, which retains original source_file/source_row. Shares are calculated from unrounded counts."
+}

@@ -1,0 +1,45 @@
+# Generated files
+
+CSV sorting is deterministic: source-records follow source file order (2024, then 2026). Other groups sort by race/year/county/precinct; county tables follow race/county; candidate columns preserve source names. Rankings sort ascending Republican share change, then county and 2024 precinct. Claims follow registry order. Crosswalks include unpaired rows.
+
+Fractions use `_share`, margins use `_margin`, percentage-point changes use `_change_pp`; no CSV share or margin values are display-rounded. `winning_margin_pp` is winner minus runner-up as a share of all candidate votes, multiplied by 100. `votes__NAME` and `share__NAME` identify candidates exactly. Source keys and election labels are retained in source-records.csv and precinct-results.csv.
+
+The audit transition matrix contains unverified and changed-boundary proposed pairs; only the explicitly labeled verified sample is geography-checked. Provisional means the original normalized-name sample (including its independently reviewed subset). Independently verified renames can lie outside that sample.
+
+- [README.md](README.md)
+- [county-results.csv](county-results.csv)
+- [county-swings.csv](county-swings.csv)
+- [district-summary.csv](district-summary.csv)
+- [district-swings.csv](district-swings.csv)
+- [match-coverage.csv](match-coverage.csv)
+- [mt01-county-summary.csv](mt01-county-summary.csv)
+- [mt01-precinct-swings.csv](mt01-precinct-swings.csv)
+- [mt01-verified-rankings-min-0.csv](mt01-verified-rankings-min-0.csv)
+- [mt01-verified-rankings-min-100.csv](mt01-verified-rankings-min-100.csv)
+- [mt01-verified-rankings-min-300.csv](mt01-verified-rankings-min-300.csv)
+- [mt02-county-summary.csv](mt02-county-summary.csv)
+- [mt02-verified-rankings-min-0.csv](mt02-verified-rankings-min-0.csv)
+- [mt02-verified-rankings-min-100.csv](mt02-verified-rankings-min-100.csv)
+- [mt02-verified-rankings-min-300.csv](mt02-verified-rankings-min-300.csv)
+- [precinct-crosswalk-audit.csv](precinct-crosswalk-audit.csv)
+- [precinct-results.csv](precinct-results.csv)
+- [precinct-swings.csv](precinct-swings.csv)
+- [reporting-findings.md](reporting-findings.md)
+- [senate-bankhead-wins.csv](senate-bankhead-wins.csv)
+- [senate-bodnar-bankhead-comparison.csv](senate-bodnar-bankhead-comparison.csv)
+- [senate-candidate-comparison-summary.csv](senate-candidate-comparison-summary.csv)
+- [senate-county-summary.csv](senate-county-summary.csv)
+- [senate-precinct-winners-2024.csv](senate-precinct-winners-2024.csv)
+- [senate-precinct-winners-2026.csv](senate-precinct-winners-2026.csv)
+- [senate-tester-precincts.csv](senate-tester-precincts.csv)
+- [senate-transition-matrix.csv](senate-transition-matrix.csv)
+- [senate-verified-rankings-min-0.csv](senate-verified-rankings-min-0.csv)
+- [senate-verified-rankings-min-100.csv](senate-verified-rankings-min-100.csv)
+- [senate-verified-rankings-min-300.csv](senate-verified-rankings-min-300.csv)
+- [senate-winner-transitions.csv](senate-winner-transitions.csv)
+- [source-reconciliation.json](source-reconciliation.json)
+- [source-records.csv](source-records.csv)
+- [story-claims.csv](story-claims.csv)
+- [story-claims.json](story-claims.json)
+- [story-fact-check.md](story-fact-check.md)
+- [winner-summary.csv](winner-summary.csv)

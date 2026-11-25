@@ -1,0 +1,17 @@
+election,type,race,key,county,precinct,party,candidate,votes
+2026-gen,statewide,us-senate,FLATHEAD-PCT 56,FLATHEAD,PCT 56,Republican,KURT ALME,0
+2026-gen,statewide,us-senate,FLATHEAD-PCT 56,FLATHEAD,PCT 56,Libertarian,KYLE AUSTIN,0
+2026-gen,statewide,us-senate,FLATHEAD-PCT 56,FLATHEAD,PCT 56,Democrat,ALANI BANKHEAD,0
+2026-gen,statewide,us-senate,FLATHEAD-PCT 56,FLATHEAD,PCT 56,Independent,SETH BODNAR,0
+2026-gen,statewide,us-senate,BEAVERHEAD-PREC 01,BEAVERHEAD,PREC 01,Republican,KURT ALME,119
+2026-gen,statewide,us-senate,BEAVERHEAD-PREC 14,BEAVERHEAD,PREC 14,Republican,KURT ALME,176
+2026-gen,statewide,us-senate,BEAVERHEAD-PREC 01,BEAVERHEAD,PREC 01,Libertarian,KYLE AUSTIN,7
+2026-gen,statewide,us-senate,BEAVERHEAD-PREC 14,BEAVERHEAD,PREC 14,Libertarian,KYLE AUSTIN,12
+2026-gen,statewide,us-senate,BEAVERHEAD-PREC 01,BEAVERHEAD,PREC 01,Democrat,ALANI BANKHEAD,41
+2026-gen,statewide,us-senate,BEAVERHEAD-PREC 14,BEAVERHEAD,PREC 14,Democrat,ALANI BANKHEAD,51
+2026-gen,statewide,us-senate,BEAVERHEAD-PREC 01,BEAVERHEAD,PREC 01,Independent,SETH BODNAR,122
+2026-gen,statewide,us-senate,BEAVERHEAD-PREC 14,BEAVERHEAD,PREC 14,Independent,SETH BODNAR,125
+2026-gen,statewide,us-senate,BIG HORN-PRECINCT #14,BIG HORN,PRECINCT #14,Republican,KURT ALME,44
+2026-gen,statewide,us-senate,BIG HORN-PRECINCT #14,BIG HORN,PRECINCT #14,Libertarian,KYLE AUSTIN,6
+2026-gen,statewide,us-senate,BIG HORN-PRECINCT #14,BIG HORN,PRECINCT #14,Democrat,ALANI BANKHEAD,49
+2026-gen,statewide,us-senate,BIG HORN-PRECINCT #14,BIG HORN,PRECINCT #14,Independent,SETH BODNAR,30

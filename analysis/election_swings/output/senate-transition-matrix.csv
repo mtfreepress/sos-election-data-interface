@@ -1,0 +1,24 @@
+winner_2024,winner_2026,precinct_count,sample
+JON TESTER,ALANI BANKHEAD,14,provisional
+JON TESTER,KURT ALME,35,provisional
+JON TESTER,SETH BODNAR,170,provisional
+TIM SHEEHY,ALANI BANKHEAD,1,provisional
+TIM SHEEHY,KURT ALME,466,provisional
+TIM SHEEHY,SETH BODNAR,1,provisional
+no_votes,no_votes,1,provisional
+tie,KURT ALME,1,provisional
+JON TESTER,KURT ALME,6,verified
+JON TESTER,SETH BODNAR,2,verified
+TIM SHEEHY,KURT ALME,15,verified
+JON TESTER,ALANI BANKHEAD,14,audit
+JON TESTER,KURT ALME,35,audit
+JON TESTER,SETH BODNAR,171,audit
+JON TESTER,unmatched,8,audit
+TIM SHEEHY,ALANI BANKHEAD,1,audit
+TIM SHEEHY,KURT ALME,471,audit
+TIM SHEEHY,SETH BODNAR,1,audit
+TIM SHEEHY,unmatched,24,audit
+no_votes,no_votes,1,audit
+tie,KURT ALME,1,audit
+unmatched,KURT ALME,25,audit
+unmatched,SETH BODNAR,8,audit

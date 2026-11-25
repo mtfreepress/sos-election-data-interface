@@ -1,0 +1,17 @@
+election,type,race,key,county,precinct,party,candidate,votes
+2024-gen,statewide,us-senate,BEAVERHEAD-PRECINCT 01 - D-CITY,BEAVERHEAD,PRECINCT 01 - D-CITY,Democrat,JON TESTER,217
+2024-gen,statewide,us-senate,BEAVERHEAD-PRECINCT 01 - D-CITY,BEAVERHEAD,PRECINCT 01 - D-CITY,Republican,TIM SHEEHY,199
+2024-gen,statewide,us-senate,BEAVERHEAD-PRECINCT 01 - D-CITY,BEAVERHEAD,PRECINCT 01 - D-CITY,Libertarian,SID DAOUD,8
+2024-gen,statewide,us-senate,BEAVERHEAD-PRECINCT 01 - D-CITY,BEAVERHEAD,PRECINCT 01 - D-CITY,Green,ROBERT BARB,3
+2024-gen,statewide,us-senate,FLATHEAD-PCT 27,FLATHEAD,PCT 27,Democrat,JON TESTER,510
+2024-gen,statewide,us-senate,FLATHEAD-PCT 56,FLATHEAD,PCT 56,Democrat,JON TESTER,0
+2024-gen,statewide,us-senate,FLATHEAD-PCT 27,FLATHEAD,PCT 27,Republican,TIM SHEEHY,527
+2024-gen,statewide,us-senate,FLATHEAD-PCT 56,FLATHEAD,PCT 56,Republican,TIM SHEEHY,0
+2024-gen,statewide,us-senate,FLATHEAD-PCT 27,FLATHEAD,PCT 27,Libertarian,SID DAOUD,27
+2024-gen,statewide,us-senate,FLATHEAD-PCT 56,FLATHEAD,PCT 56,Libertarian,SID DAOUD,0
+2024-gen,statewide,us-senate,FLATHEAD-PCT 27,FLATHEAD,PCT 27,Green,ROBERT BARB,17
+2024-gen,statewide,us-senate,FLATHEAD-PCT 56,FLATHEAD,PCT 56,Green,ROBERT BARB,0
+2024-gen,statewide,us-senate,HILL-PRECINCT #08,HILL,PRECINCT #08,Democrat,JON TESTER,289
+2024-gen,statewide,us-senate,HILL-PRECINCT #08,HILL,PRECINCT #08,Republican,TIM SHEEHY,289
+2024-gen,statewide,us-senate,HILL-PRECINCT #08,HILL,PRECINCT #08,Libertarian,SID DAOUD,16
+2024-gen,statewide,us-senate,HILL-PRECINCT #08,HILL,PRECINCT #08,Green,ROBERT BARB,3

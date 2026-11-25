@@ -1,0 +1,14 @@
+{
+  "table": "county-results.csv",
+  "selected_csv_rows": [
+    200
+  ],
+  "denominator_csv_rows": [
+    200
+  ],
+  "source_files": [
+    "cleaned/2026/general/precinct-results.csv"
+  ],
+  "calculation": "{\"column\": \"republican_share\", \"filters\": [{\"column\": \"race\", \"op\": \"eq\", \"value\": \"us-senate\"}, {\"column\": \"year\", \"op\": \"eq\", \"value\": 2026}, {\"column\": \"county\", \"op\": \"eq\", \"value\": \"MCCONE\"}], \"operation\": \"sum\", \"scale\": 100, \"table\": \"county-results\"}",
+  "note": "CSV row numbers include header; open the derived rows and follow source keys to source-records.csv, which retains original source_file/source_row. Shares are calculated from unrounded counts."
+}

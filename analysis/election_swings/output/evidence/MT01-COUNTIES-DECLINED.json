@@ -1,0 +1,44 @@
+{
+  "table": "county-swings.csv",
+  "selected_csv_rows": [
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    55,
+    56,
+    57,
+    58
+  ],
+  "denominator_csv_rows": [
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58
+  ],
+  "source_files": [
+    "cleaned/2024/general/precinct-results.csv",
+    "cleaned/2026/general/precinct-results.csv"
+  ],
+  "calculation": "{\"denominator_filters\": [{\"column\": \"race\", \"op\": \"eq\", \"value\": \"us-house-west\"}], \"filters\": [{\"column\": \"race\", \"op\": \"eq\", \"value\": \"us-house-west\"}, {\"column\": \"republican_share_change_pp\", \"op\": \"lt\", \"value\": 0}], \"operation\": \"count\", \"table\": \"county-swings\"}",
+  "note": "CSV row numbers include header; open the derived rows and follow source keys to source-records.csv, which retains original source_file/source_row. Shares are calculated from unrounded counts."
+}

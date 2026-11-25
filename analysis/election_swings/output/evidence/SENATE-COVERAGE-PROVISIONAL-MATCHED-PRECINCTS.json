@@ -1,0 +1,15 @@
+{
+  "table": "match-coverage.csv",
+  "selected_csv_rows": [
+    2
+  ],
+  "denominator_csv_rows": [
+    2
+  ],
+  "source_files": [
+    "cleaned/2024/general/precinct-results.csv",
+    "cleaned/2026/general/precinct-results.csv"
+  ],
+  "calculation": "{\"column\": \"matched_precincts\", \"filters\": [{\"column\": \"race\", \"op\": \"eq\", \"value\": \"us-senate\"}, {\"column\": \"sample\", \"op\": \"eq\", \"value\": \"provisional\"}], \"operation\": \"sum\", \"scale\": 1, \"table\": \"match-coverage\"}",
+  "note": "CSV row numbers include header; open the derived rows and follow source keys to source-records.csv, which retains original source_file/source_row. Shares are calculated from unrounded counts."
+}

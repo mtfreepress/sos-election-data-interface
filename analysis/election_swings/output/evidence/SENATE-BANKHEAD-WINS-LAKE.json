@@ -1,0 +1,33 @@
+{
+  "table": "senate-precinct-winners-2026.csv",
+  "selected_csv_rows": [],
+  "denominator_csv_rows": [
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334
+  ],
+  "source_files": [
+    "cleaned/2026/general/precinct-results.csv"
+  ],
+  "calculation": "{\"denominator_filters\": [{\"column\": \"county\", \"value\": \"LAKE\"}], \"filters\": [{\"column\": \"county\", \"value\": \"LAKE\"}, {\"column\": \"winning_candidate\", \"value\": \"ALANI BANKHEAD\"}], \"operation\": \"count\", \"table\": \"senate-precinct-winners-2026\"}",
+  "note": "CSV row numbers include header; open the derived rows and follow source keys to source-records.csv, which retains original source_file/source_row. Shares are calculated from unrounded counts."
+}

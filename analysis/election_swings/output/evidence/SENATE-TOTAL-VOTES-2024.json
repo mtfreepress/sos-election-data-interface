@@ -1,0 +1,14 @@
+{
+  "table": "district-summary.csv",
+  "selected_csv_rows": [
+    6
+  ],
+  "denominator_csv_rows": [
+    6
+  ],
+  "source_files": [
+    "cleaned/2024/general/precinct-results.csv"
+  ],
+  "calculation": "{\"column\": \"total_votes\", \"filters\": [{\"column\": \"race\", \"op\": \"eq\", \"value\": \"us-senate\"}, {\"column\": \"year\", \"op\": \"eq\", \"value\": 2024}], \"operation\": \"sum\", \"table\": \"district-summary\"}",
+  "note": "CSV row numbers include header; open the derived rows and follow source keys to source-records.csv, which retains original source_file/source_row. Shares are calculated from unrounded counts."
+}

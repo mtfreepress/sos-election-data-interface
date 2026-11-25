@@ -1,0 +1,15 @@
+{
+  "table": "match-coverage.csv",
+  "selected_csv_rows": [
+    5
+  ],
+  "denominator_csv_rows": [
+    5
+  ],
+  "source_files": [
+    "cleaned/2024/general/precinct-results.csv",
+    "cleaned/2026/general/precinct-results.csv"
+  ],
+  "calculation": "{\"column\": \"matched_vote_share_2026\", \"filters\": [{\"column\": \"race\", \"op\": \"eq\", \"value\": \"us-house-west\"}, {\"column\": \"sample\", \"op\": \"eq\", \"value\": \"verified\"}], \"operation\": \"sum\", \"scale\": 100, \"table\": \"match-coverage\"}",
+  "note": "CSV row numbers include header; open the derived rows and follow source keys to source-records.csv, which retains original source_file/source_row. Shares are calculated from unrounded counts."
+}

@@ -1,0 +1,29 @@
+{
+  "table": "senate-tester-precincts.csv",
+  "selected_csv_rows": [
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109
+  ],
+  "denominator_csv_rows": [
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109
+  ],
+  "source_files": [
+    "cleaned/2024/general/precinct-results.csv",
+    "cleaned/2026/general/precinct-results.csv",
+    "analysis/election_swings/geographic-reviews.json"
+  ],
+  "calculation": "{\"denominator_filters\": [{\"column\": \"geographically_verified\", \"op\": \"eq\", \"value\": true}], \"filters\": [{\"column\": \"geographically_verified\", \"op\": \"eq\", \"value\": true}, {\"column\": \"republican_share_decreased\", \"op\": \"eq\", \"value\": true}], \"operation\": \"count\", \"table\": \"senate-tester-precincts\"}",
+  "note": "CSV row numbers include header; open the derived rows and follow source keys to source-records.csv, which retains original source_file/source_row. Shares are calculated from unrounded counts."
+}

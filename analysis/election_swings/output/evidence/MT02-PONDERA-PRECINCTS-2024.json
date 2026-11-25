@@ -1,0 +1,22 @@
+{
+  "table": "precinct-results.csv",
+  "selected_csv_rows": [
+    232,
+    233,
+    234,
+    235,
+    236
+  ],
+  "denominator_csv_rows": [
+    232,
+    233,
+    234,
+    235,
+    236
+  ],
+  "source_files": [
+    "cleaned/2024/general/precinct-results.csv"
+  ],
+  "calculation": "{\"filters\": [{\"column\": \"year\", \"op\": \"eq\", \"value\": 2024}, {\"column\": \"race\", \"op\": \"eq\", \"value\": \"us-house-east\"}, {\"column\": \"county\", \"op\": \"eq\", \"value\": \"PONDERA\"}], \"operation\": \"count\", \"table\": \"precinct-results\"}",
+  "note": "CSV row numbers include header; open the derived rows and follow source keys to source-records.csv, which retains original source_file/source_row. Shares are calculated from unrounded counts."
+}

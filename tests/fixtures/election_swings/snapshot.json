@@ -1,0 +1,85 @@
+{
+  "source_commit": "f265c997357082f30e3ca7dd680376c8bb19517d",
+  "files": {
+    "2024": {
+      "source_file": "cleaned/2024/general/precinct-results.csv",
+      "source_sha256": "55c6dafe7686d9270cdd2c82daadc25331dfe69f16be2a7bdbf7ab0e043c423a",
+      "fixture_sha256": "c2c8b028659299baa95340d9b68d7eefa15044525fe0a24d69ce5bd263adfbf0"
+    },
+    "2026": {
+      "source_file": "cleaned/2026/general/precinct-results.csv",
+      "source_sha256": "603ea4f8af7344e71b6bd6d71ed54ea0fa1143f958c90e82e1610e4203553219",
+      "fixture_sha256": "4abdc7948a442d6e365d368ca961df9c2bcda6ee1b5daa832fe3a1eb66d217be"
+    }
+  },
+  "expected": {
+    "2024": [
+      {
+        "county": "BEAVERHEAD",
+        "precinct": "PRECINCT 01 - D-CITY",
+        "status": "candidate_winner",
+        "winning_candidate": "JON TESTER",
+        "winning_votes": 217.0,
+        "total_votes": 427
+      },
+      {
+        "county": "FLATHEAD",
+        "precinct": "PCT 27",
+        "status": "candidate_winner",
+        "winning_candidate": "TIM SHEEHY",
+        "winning_votes": 527.0,
+        "total_votes": 1081
+      },
+      {
+        "county": "FLATHEAD",
+        "precinct": "PCT 56",
+        "status": "no_votes",
+        "winning_candidate": "",
+        "winning_votes": "",
+        "total_votes": 0
+      },
+      {
+        "county": "HILL",
+        "precinct": "PRECINCT #08",
+        "status": "tie",
+        "winning_candidate": "",
+        "winning_votes": "",
+        "total_votes": 597
+      }
+    ],
+    "2026": [
+      {
+        "county": "BEAVERHEAD",
+        "precinct": "PREC 01",
+        "status": "candidate_winner",
+        "winning_candidate": "SETH BODNAR",
+        "winning_votes": 122.0,
+        "total_votes": 289
+      },
+      {
+        "county": "BEAVERHEAD",
+        "precinct": "PREC 14",
+        "status": "candidate_winner",
+        "winning_candidate": "KURT ALME",
+        "winning_votes": 176.0,
+        "total_votes": 364
+      },
+      {
+        "county": "BIG HORN",
+        "precinct": "PRECINCT #14",
+        "status": "candidate_winner",
+        "winning_candidate": "ALANI BANKHEAD",
+        "winning_votes": 49.0,
+        "total_votes": 129
+      },
+      {
+        "county": "FLATHEAD",
+        "precinct": "PCT 56",
+        "status": "no_votes",
+        "winning_candidate": "",
+        "winning_votes": "",
+        "total_votes": 0
+      }
+    ]
+  }
+}
